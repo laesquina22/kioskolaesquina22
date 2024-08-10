@@ -1,0 +1,16 @@
+.navbar{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid white;
+}
+
+.img-logo {
+    width: 250px;
+}
+
+.img-carrito{
+    width: 40px;
+    margin: 0px 20px;
+}

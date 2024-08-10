@@ -1,0 +1,1510 @@
+{
+    "productos": {
+
+        "Almacen": [
+        {
+            "id": "almacen1",
+            "nombre": "Yerba Verdeflor",
+            "medida": "1kg",
+            "precio": "1560"
+        },
+        {
+            "id": "almacen2",
+            "nombre": "yerba Don Arregui",
+            "medida": "1kg",
+            "precio": "1280"
+        },
+        {
+            "id": "almacen3",
+            "nombre": "Yerba Taragui",
+            "medida": "1kg",
+            "precio": "2500"
+        }
+        ],
+
+
+
+
+        "Bebidas con Alcohol":[
+           {
+                "id": "cervezalata1",
+                "nombre": "Cerveza Amstel lata",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/lataAmstel473-min.jpg",
+                "medida": "473cc",
+                "precio": "1300",
+                "marca": "Amstel",
+                "tipo": "Cerveza Lata"
+            },
+            {
+                "id": "cervezalata2",
+                "nombre": "Cerveza Andes Roja lata",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/lataAndes473-min.jpg",
+                "medida": "473cc",
+                "precio": "1490",
+                "marca": "Andes",
+                "tipo": "Cerveza Lata"
+            }, 
+            {
+                "id": "cervezalata3",
+                "nombre": "Cerveza Brahma lata",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/lataBrahma473-min.jpg",
+                "medida": "473cc",
+                "precio": "2050",
+                "marca": "Brahma",
+                "tipo": "Cerveza Lata"
+            },
+            {
+             "id": "fernet1",
+             "nombre": "Fernet Branca",
+             "img": "/img/imagenesKiosko/imgKioskoBebidas/fernet450-min.jpg",
+             "precio":"1000",
+             "medida":"450cc",
+             "marca":"Branca",
+             "tipo": "Fernet" 
+            },
+            {
+                "id": "fernet2",
+                "nombre": "Fernet Branca",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/fernet750-min.jpg",
+                "precio":"1000",
+                "medida":"750cc",
+                "marca":"Branca",
+                "tipo": "Fernet" 
+            },
+            {
+                "id": "gin1",
+                "nombre": "Gin Brighton",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/ginBrighton700-min.jpg",
+                "medida": "700cc",
+                "precio": "1490",
+                "marca": "Brighton",
+                "tipo": "Gin"
+            },  
+            {
+                "id": "cafayate1",
+                "nombre": "Cafayate Tinto",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/cafayate750-min.jpg",
+                "medida": "750cc",
+                "precio": "1000",
+                "marca":"Cafayate",
+                "tipo":"Vinos"
+            },
+            {
+                "id": "callia1",
+                "nombre": "Callia Tinto",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/callia750-min.jpg",
+                "medida": "750cc",
+                "precio": "1000",
+                "marca":"Callia",
+                "tipo":"Vinos"
+            },
+            {
+                "id": "vermouth1",
+                "nombre": "Carpano Rosso",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/carpanoRosso950-min.jpg",
+                "medida": "950cc",
+                "precio": "1490",
+                "marca": "Carpano Rosso",
+                "tipo": "Vermouth"  
+            },
+            {
+                "id": "cavic1",
+                "nombre": "Cavic Tetra Tinto",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/cavicTetra1-min.jpg",
+                "medida": "1L",
+                "precio": "1000",
+                "marca":"Cavic",
+                "tipo":"Vinos"
+            },
+            {
+                "id": "vermouth2",
+                "nombre": "Cinzano",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/cinzano1-min.jpg",
+                "medida": "1L",
+                "precio": "1490",
+                "marca": "Cinzano",
+                "tipo": "Vermouth"
+            },
+            {
+                "id": "colonselectorosado1",
+                "nombre": "Colon Selecto Rosado",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/colonRosado750-min.jpg",
+                "medida": "750cc",
+                "precio": "1000",
+                "marca":"Colon Selecto",
+                "tipo":"Vinos"
+            },  
+            {
+                "id": "cordero1",
+                "nombre": "Cordero Con Piel de Lobo Tinto",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/cordero750-min.jpg",
+                "medida": "750cc",
+                "precio": "1300",
+                "marca": "Cordero con Piel de Lobo",
+                "tipo": "Vinos"
+            },
+            {
+                "id": "cervezalata4",
+                "nombre": "Cerveza Cordoba lata",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/lataCordoba473-min.jpg",
+                "medida": "473cc",
+                "precio": "1300",
+                "marca": "Cordoba",
+                "tipo": "Cerveza Lata"
+            },  
+            {
+                "id": "cervezabotella1",
+                "nombre": "Cerveza Corona",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/corona710-min.jpg",
+                "medida": "710cc",
+                "precio": "1490",
+                "marca": "Corona",
+                "tipo": "Cerveza Botella"
+            },
+            {
+                "id": "dondavid1",
+                "nombre": "Don David Tinto",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/donDavid750-min.jpg",
+                "medida": "750cc",
+                "precio": "1000",
+                "marca":"Don David",
+                "tipo":"Vinos"
+            },
+            {
+                "id": "donvalentin1",
+                "nombre": "Don Valentin Tinto",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/donValentin750-min.jpg",
+                "medida": "750cc",
+                "precio": "1000",
+                "marca":"Don Valentin",
+                "tipo":"Vinos"
+            },
+            {
+                "id": "eugenio1",
+                "nombre": "Eugenio Blanco",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/eugenioBlanco750-min.jpg",
+                "medida": "750cc",
+                "precio": "1000",
+                "marca":"Eugenio",
+                "tipo":"Vinos"
+            },
+            {
+                "id": "cervezalata5",
+                "nombre": "Cerveza Heineken lata",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/lataHeineken473-min.jpg",
+                "medida": "473cc",
+                "precio": "2050",
+                "marca": "Heineken",
+                "tipo": "Cerveza Lata"
+            }, 
+            {
+                "id": "cervezaretor4",
+                "nombre": "Cerveza Iguana Ret.",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/retorIguana1-min.jpg",
+                "medida": "1L",
+                "precio": "1300",
+                "marca": "Iguana",
+                "tipo": "Cerveza Retornable"
+            },
+            {
+                "id": "cervezalata6",
+                "nombre": "Cerveza Imperial APA lata",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/lataApa473-min.jpg",
+                "medida": "473cc",
+                "precio": "1490",
+                "marca": "Imperial",
+                "tipo": "Cerveza Lata"
+            },
+            {
+                "id": "cervezalata7",
+                "nombre": "Cerveza Imperial Extra Lager lata",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/lataLager473-min.jpg",
+                "medida": "473cc",
+                "precio": "1300",
+                "marca": "Imperial",
+                "tipo": "Cerveza Lata"
+            },
+            {
+                "id": "cervezalata8",
+                "nombre": "Cerveza Imperial Golden lata",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/lataGolden473-min.jpg",
+                "medida": "473cc",
+                "precio": "2050",
+                "marca": "Imperial",
+                "tipo": "Cerveza Lata"
+            },
+            {
+                "id": "cervezalata9",
+                "nombre": "Cerveza Imperial IPA lata",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/lataIpa473-min.jpg",
+                "medida": "473cc",
+                "precio": "1490",
+                "marca": "Imperial",
+                "tipo": "Cerveza Lata"
+            },  
+            {
+                "id": "licor1",
+                "nombre": "Legui",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/legui750-min.jpg",
+                "medida": "750cc",
+                "precio": "1490",
+                "marca": "Legui",
+                "tipo": "Licor"
+            },  
+            {
+                "id": "cervezalata10",
+                "nombre": "Cerveza Miller lata",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/lataMiller473-min.jpg",
+                "medida": "473cc",
+                "precio": "1300",
+                "marca": "Miller",
+                "tipo": "Cerveza Lata"
+            },
+            {
+                "id": "espumante1",
+                "nombre": "Mumm",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/mumm750-min.jpg",
+                "medida": "750cc",
+                "precio": "1490",
+                "marca": "Mumm",
+                "tipo": "Vino Espumante"
+            },  
+            {
+                "id": "profugo1",
+                "nombre": "Profugo Tinto",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/profugo750-min.jpeg",
+                "medida": "750cc",
+                "precio": "1000",
+                "marca":"Profugo",
+                "tipo":"Vinos"
+            },          
+            {
+                "id": "cervezalata11",
+                "nombre": "Cerveza Quilmes lata",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/lataQuilmes473-min.jpg",
+                "medida": "473cc",
+                "precio": "2050",
+                "marca": "Quilmes",
+                "tipo": "Cerveza Lata"
+            },
+            {
+                "id": "santajulia1",
+                "nombre": "Santa Julia Blanco",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/santaJuliaBlanco750-min.jpg",
+                "medida": "750cc",
+                "precio": "1000",
+                "marca":"Santa Julia",
+                "tipo":"Vinos"
+            },
+            {
+                "id": "cervezalata12",
+                "nombre": "Cerveza Schneider lata",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/lataSchneider473-min.jpg",
+                "medida": "473cc",
+                "precio": "1490",
+                "marca": "Schneider",
+                "tipo": "Cerveza Lata"
+            },
+            {
+                "id": "vodka1",
+                "nombre": "Vodka Sernova caribbean blend",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/sernovaCaribbeanBlend700-min.jpg",
+                "medida": "700cc",
+                "precio": "1490",
+                "marca": "Sernova",
+                "tipo": "Vodka"
+            },
+            {
+                "id": "vodka2",
+                "nombre": "Vodka Sky Apricot",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/skyApricot750-min.jpg",
+                "medida": "750cc",
+                "precio": "1490",
+                "marca": "Sky",
+                "tipo": "Vodka"
+            },
+            {
+                "id": "vodka3",
+                "nombre": "Vodka Sky Boold Orange",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/skyBloodOrange750-min.jpg",
+                "medida": "750cc",
+                "precio": "1490",
+                "marca": "Sky",
+                "tipo": "Vodka"
+            }, 
+            {
+                "id": "vodka4",
+                "nombre": "Vodka Passion Fruit",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/skyPassionFruit750-min.jpg",
+                "medida": "750cc",
+                "precio": "1490",
+                "marca": "Sky",
+                "tipo": "Vodka"
+            },
+            {
+                "id": "vodka5",
+                "nombre": "Vodka Sky Pinneaple",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/skyPineapple750-min.jpg",
+                "medida": "750cc",
+                "precio": "1490",
+                "marca": "Sky",
+                "tipo": "Vodka"
+            },
+            {
+                "id": "vodka6",
+                "nombre": "Vodka Smirnoff Green Apple",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/smirnoffGreenApple473-min.jpg",
+                "medida": "473cc",
+                "precio": "1490",
+                "marca": "Smirnoff",
+                "tipo": "Vodka"
+            },
+            {
+                "id": "vodka7",
+                "nombre": "Vodka Smirnoff Red Berries",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/smirnoffRedBerries473-min.jpg",
+                "medida": "473cc",
+                "precio": "1490",
+                "marca": "Smirnoff",
+                "tipo": "Vodka"
+            },
+            {
+                "id": "vodka8",
+                "nombre": "Vodka Smirnoff Citric",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/smirnoffCitric700-min.jpg",
+                "medida": "700cc",
+                "precio": "1490",
+                "marca": "Smirnoff",
+                "tipo": "Vodka"
+            },
+            {
+                "id": "vodka9",
+                "nombre": "Vodka Smirnoff Green Apple",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/smirnoffGreenApple700-min.jpg",
+                "medida": "700cc",
+                "precio": "1490",
+                "marca": "Smirnoff",
+                "tipo": "Vodka"
+            },
+            {
+                "id": "vodka10",
+                "nombre": "Vodka SixtySeven berries",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/sixtySeven750-min.jpg",
+                "medida": "750cc",
+                "precio": "1490",
+                "marca": "SixtySeven",
+                "tipo": "Vodka"
+            },     
+            {
+                "id": "toro1",
+                "nombre": "Toro Tetra Tinto",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/toroTinto1-min.jpg",
+                "medida": "1L",
+                "precio": "1000",
+                "marca":"Toro",
+                "tipo":"Vinos"
+            },
+            {
+                "id": "toro2",
+                "nombre": "Toro Tetra Blanco",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/toroBlanco1-min.jpg",
+                "medida": "1L",
+                "precio": "1000",
+                "marca":"Toro",
+                "tipo":"Vinos"
+            },
+            {
+                "id": "toro3",
+                "nombre": "Toro Tinto",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/toro750-min.jpg",
+                "medida": "750cc",
+                "precio": "1000",
+                "marca":"Toro",
+                "tipo":"Vinos"
+            },
+            {
+                "id": "toro4",
+                "nombre": "Toro Tinto",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/toro1-min.jpg",
+                "medida": "1L",
+                "precio": "1000",
+                "marca":"Toro",
+                "tipo":"Vinos"
+            },
+            {
+                "id": "trumpeter1",
+                "nombre": "Trumpeter Tinto",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/trumpeter750-min.jpg",
+                "medida": "750cc",
+                "precio": "1000",
+                "marca":"Trumpeter",
+                "tipo":"Vinos"
+            }, 
+            {
+                "id": "balvo1",
+                "nombre": "Viñas de Balbo Tinto",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/balbo1,125-min.jpg",
+                "medida": "1,125Lts",
+                "precio": "1000",
+                "marca":"Viñas de Balbo",
+                "tipo":"Vinos"
+            },
+            {
+                "id": "fernet3",
+                "nombre": "Fernet Vittone",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/vitone750-min.jpg",
+                "medida": "450cc",
+                "precio": "2050",
+                "marca": "Vittone",
+                "tipo": "Fernet"
+            },
+            {
+                "id": "cervezalaton1",
+                "nombre": "Cerveza Heineken laton",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/latonHeineken710-min.jpg",
+                "medida": "710cc",
+                "precio": "1490",
+                "marca": "Heineken",
+                "tipo": "Cerveza Laton"
+            },
+            {
+                "id": "cervezalaton2",
+                "nombre": "Cerveza Imperial Golden laton",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/latonGolden710-min.jpg",
+                "medida": "710cc",
+                "precio": "1490",
+                "marca": "Imperial",
+                "tipo": "Cerveza Laton"
+            },
+            {
+                "id": "cervezalaton3",
+                "nombre": "Cerveza Imperial Lager laton",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/latonLager710-min.jpg",
+                "medida": "710cc",
+                "precio": "1490",
+                "marca": "Imperial",
+                "tipo": "Cerveza Laton"
+            },
+            {
+                "id": "cervezalaton4",
+                "nombre": "Cerveza Schneider",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/latonSchneider710-min.jpg",
+                "medida": "710cc",
+                "precio": "1490",
+                "marca": "Schneider",
+                "tipo": "Cerveza Laton"
+            },
+            {
+                "id": "cervezaretor1",
+                "nombre": "Cerveza Brahma Ret.",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/retorBrahma1-min.jpg",
+                "medida": "1L",
+                "precio": "1300",
+                "marca": "Brahma",
+                "tipo": "Cerveza Retornable"
+            },
+            {
+                "id": "cervezaretor2",
+                "nombre": "Cerveza Cordoba Ret.",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/retorCordoba1-min.jpg",
+                "medida": "1L",
+                "precio": "1490",
+                "marca": "Cordoba",
+                "tipo": "Cerveza Retornable"
+            }, 
+            {
+                "id": "cervezaretor3",
+                "nombre": "Cerveza Heineken Ret.",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/retorHeineken1-min.jpg",
+                "medida": "1L",
+                "precio": "2050",
+                "marca": "Heineken",
+                "tipo": "Cerveza Retornable"
+            },
+            {
+                "id": "cervezaretor5",
+                "nombre": "Cerveza Imperial APA Ret.",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/retorImpApa1-min.jpg",
+                "medida": "1L",
+                "precio": "1490",
+                "marca": "Imperial",
+                "tipo": "Cerveza Retornable"
+            },
+            {
+                "id": "cervezaretor6",
+                "nombre": "Cerveza Imperial Lager Ret.",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/retorImpLager1-min.jpg",
+                "medida": "1L",
+                "precio": "2050",
+                "marca": "Imperial",
+                "tipo": "Cerveza Retornable"
+            },
+            {
+                "id": "cervezaretor7",
+                "nombre": "Cerveza Imperial Golden Ret.",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/retorImpGolden1-min.jpg",
+                "medida": "1L",
+                "precio": "1300",
+                "marca": "Imperial",
+                "tipo": "Cerveza Retornable"
+            },
+            {
+                "id": "cervezaretor8",
+                "nombre": "Cerveza Imperial IPA Ret.",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/retorImpIpa1-min.jpg",
+                "medida": "1L",
+                "precio": "2050",
+                "marca": "Imperial",
+                "tipo": "Cerveza Retornable"
+            },
+            {
+                "id": "cervezaretor9",
+                "nombre": "Cerveza Quilmes Ret.",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/retorQuilmes1-min.jpg",
+                "medida": "1L",
+                "precio": "1490",
+                "marca": "Quilmes",
+                "tipo": "Cerveza Retornable"
+            },
+            {
+                "id": "cervezaretor10",
+                "nombre": "Cerveza Schneider Ret.",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/retorSchneider1-min.jpg",
+                "medida": "1L",
+                "precio": "1300",
+                "marca": "Schneider",
+                "tipo": "Cerveza Retornable"
+            },
+            {
+                "id": "cervezabotella2",
+                "nombre": "Cerveza 361 Desc.",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/descartable361-min.jpg",
+                "medida": "1L",
+                "precio": "2050",
+                "marca": "361",
+                "tipo": "Cerveza Botella"
+            },
+            {
+                "id": "cervezabotella3",
+                "nombre": "Cerveza Corona",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/corona330-min.jpg",
+                "medida": "330cc",
+                "precio": "1490",
+                "marca": "Corona",
+                "tipo": "Cerveza Botella"
+            },
+            {
+                "id": "cervezabotella4",
+                "nombre": "Cerveza Heineken",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/heineken330-min.jpg",
+                "medida": "330cc",
+                "precio": "1300",
+                "marca": "Heineken",
+                "tipo": "Cerveza Botella"
+            },
+            {
+                "id": "cervezbotella5",
+                "nombre": "Cerveza Miller",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/miller330-min.jpg",
+                "medida": "330cc",
+                "precio": "2050",
+                "marca": "Miller",
+                "tipo": "Cerveza Botella"
+            }
+        ],
+
+
+
+
+
+        "Bebidas sin Alcohol":[ 
+            {
+                "id": "ades1",
+                "nombre": "Ades MultiFruta",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/adesManz20-min.jpg",
+                "medida": "200cc",
+                "precio": "1000",
+                "marca":"Ades",
+                "tipo":"Jugo"
+            },
+            {
+                "id": "ades2",
+                "nombre": "Ades Manzana",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/adesManz20-min.jpg",
+                "medida": "200cc",
+                "precio": "1000",
+                "marca":"Ades",
+                "tipo":"Jugo"
+            },
+            {
+                "id": "ades3",
+                "nombre": "Ades Manzana",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/adesManz1-min.jpg",
+                "medida": "1L",
+                "precio": "1000",
+                "marca":"Ades",
+                "tipo":"Jugo"
+            },
+            {
+                "id": "aquarius1",
+                "nombre": "Aquarius Manzana",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/aquariusManz500-min.jpg",
+                "medida": "500cc",
+                "precio": "1000",
+                "marca":"Aguarius",
+                "tipo":"Agua Saborizada"
+            },
+            {
+                "id": "aquarius2",
+                "nombre": "Aquarius Naranja",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/aquariusNaranja500-min.jpg",
+                "medida": "500cc",
+                "precio": "1000",
+                "marca":"Aguarius",
+                "tipo":"Agua Saborizada"
+            },
+            {
+                "id": "aquarius3",
+                "nombre": "Aquarius Pera",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/aquariusPera500-min.jpg",
+                "medida": "500cc",
+                "precio": "1000",
+                "marca":"Aguarius",
+                "tipo":"Agua Saborizada"
+            },
+            {
+                "id": "aquarius4",
+                "nombre": "Aquarius Pomelo",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/aquariusPomelo500-min.jpg",
+                "medida": "500cc",
+                "precio": "1000",
+                "marca":"Aguarius",
+                "tipo":"Agua Saborizada"
+            },
+            {
+                "id": "arcor1",
+                "nombre": "Arcor Manzana",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/arcorManz200-min.jpg",
+                "medida": "200cc",
+                "precio": "1000",
+                "marca":"Arcor",
+                "tipo":"Jugo"
+            },
+            {
+                "id": "arcor2",
+                "nombre": "Arcor Multifruta",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/arcorMulti200-min.jpg",
+                "medida": "200cc",
+                "precio": "1000",
+                "marca":"Arcor",
+                "tipo":"Jugo"
+            },
+            {
+                "id": "arcor3",
+                "nombre": "Arcor Naranja",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/arcorNaran200-min.jpg",
+                "medida": "200cc",
+                "precio": "1000",
+                "marca":"Arcor",
+                "tipo":"Jugo"
+            },
+            {
+                "id": "arcor4",
+                "nombre": "Arcor Manzana",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/arcorManz1-min.jpg",
+                "medida": "1L",
+                "precio": "1000",
+                "marca":"Arcor",
+                "tipo":"Jugo"
+            },
+            {
+                "id": "arcor5",
+                "nombre": "Arcor Multifruta",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/arcorMulti1-min.jpg",
+                "medida": "1L",
+                "precio": "1000",
+                "marca":"Arcor",
+                "tipo":"Jugo"
+            },
+            {
+                "id": "baggio1",
+                "nombre": "Baggio Durazno",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/baggioDurazno1-min.jpg",
+                "medida": "1L",
+                "precio": "1000",
+                "marca":"Baggio",
+                "tipo":"Jugo"
+            },
+            {
+                "id": "baggio2",
+                "nombre": "Baggio Manzana",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/baggioManz1-min.jpg",
+                "medida": "1L",
+                "precio": "1000",
+                "marca":"Baggio",
+                "tipo":"Jugo"
+            },
+            {
+                "id": "baggio3",
+                "nombre": "Baggio Pera",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/baggioPera1-min.jpg",
+                "medida": "1L",
+                "precio": "1000",
+                "marca":"Baggio",
+                "tipo":"Jugo"
+            },
+            {
+                "id": "bc1",
+                "nombre": "BC Manzana",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/jugoBCManz200-min.jpg",
+                "medida": "200cc",
+                "precio": "1000",
+                "marca":"BC",
+                "tipo":"Jugo"
+            },
+            {
+                "id": "bc2",
+                "nombre": "BC Multifruta",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/jugoBCMulti200-min.jpg",
+                "medida": "200cc",
+                "precio": "1000",
+                "marca":"BC",
+                "tipo":"Jugo"
+            },
+            {
+                "id": "bc3",
+                "nombre": "BC Naranja",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/jugoBCNaran200-min.jpg",
+                "medida": "200cc",
+                "precio": "1000",
+                "marca":"BC",
+                "tipo":"Jugo"
+            },
+            {
+                "id": "benedictino1",
+                "nombre": "Agua Benedictino",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/benedictino500-min.jpg",
+                "medida": "500cc",
+                "precio": "1000",
+                "marca":"Benedictino",
+                "tipo":"Agua"
+            },
+            {
+                "id": "bonaqua1",
+                "nombre": "Agua Bonaqua con Gas",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/bonaquaGas50-min.jpg",
+                "medida": "500cc",
+                "precio": "1000",
+                "marca":"Bonaqua",
+                "tipo":"Agua" 
+            },
+            {
+                "id": "coca1",
+                "nombre": "Coca Cola Lata",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/cocaLata220-min.jpg",
+                "medida": "220cc",
+                "precio": "1000",
+                "marca":"CocaCola",
+                "tipo":"Gaseosa"
+            }, 
+            {
+                "id": "coca2",
+                "nombre": "Coca Cola Lata",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/cocaLata310-min.jpg",
+                "medida": "310cc",
+                "precio": "1000",
+                "marca":"CocaCola",
+                "tipo":"Gaseosa"
+            },
+            {
+                "id": "coca3",
+                "nombre": "Coca Cola Cero Lata",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/cocaCeroLata310-min.jpg",
+                "medida": "310cc",
+                "precio": "1000",
+                "marca":"CocaCola",
+                "tipo":"Gaseosa"
+            },
+            {
+                "id": "coca4",
+                "nombre": "Coca Cola",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/coca500-min.jpg",
+                "medida": "500cc",
+                "precio": "1000",
+                "marca":"CocaCola",
+                "tipo":"Gaseosa"
+            },
+            {
+                "id": "coca5",
+                "nombre": "Coca Cola Cero",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/cocaCero500-min.jpg",
+                "medida": "500cc",
+                "precio": "1000",
+                "marca":"CocaCola",
+                "tipo":"Gaseosa"
+            },
+            {
+                "id": "coca6",
+                "nombre": "Coca Cola",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/coca1,5-min.jpg",
+                "medida": "1,5Lts",
+                "precio": "2500",
+                "marca":"CocaCola",
+                "tipo":"Gaseosa"
+            },
+            {
+                "id": "coca7",
+                "nombre": "Coca Cola Cero",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/cocaCero1,5-min.jpg",
+                "medida": "1,5Lts",
+                "precio": "2500",
+                "marca":"CocaCola",
+                "tipo":"Gaseosa"
+            },
+            {
+                "id": "coca8",
+                "nombre": "Coca Cola",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/coca2,25-min.jpg",
+                "medida": "2,25Lts",
+                "precio": "2500",
+                "marca":"CocaCola",
+                "tipo":"Gaseosa"
+            },
+            {
+                "id": "coca9",
+                "nombre": "Coca Cola Cero",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/cocaCero2,25-min.jpg",
+                "medida": "2,25Lts",
+                "precio": "2500",
+                "marca":"CocaCola",
+                "tipo":"Gaseosa"
+            },
+            {
+                "id": "coca10",
+                "nombre": "Coca Cola Vidrio Ret.",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/cocaRetorVidrio350-min.jpg",
+                "medida": "350cc",
+                "precio": "1000",
+                "marca":"CocaCola",
+                "tipo":"Gaseosa"
+            },
+            {
+                "id": "coca11",
+                "nombre": "Coca Cola Vidrio Ret.",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/cocaRetorVidrio1,5-min.jpg",
+                "medida": "1,5Lts",
+                "precio": "1000",
+                "marca":"CocaCola",
+                "tipo":"Gaseosa"
+            },      
+            {
+                "id": "coca12",
+                "nombre": "Coca Cola Ret.",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/cocaRetor2-min.jpg",
+                "medida": "2Lts",
+                "precio": "1000",
+                "marca":"CocaCola",
+                "tipo":"Gaseosa"
+            },
+            {
+                "id": "coca13",
+                "nombre": "Coca Cola Ret.",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/cocaCeroRetor2-min.jpg",
+                "medida": "2Lts",
+                "precio": "1000",
+                "marca":"CocaCola",
+                "tipo":"Gaseosa"
+            },
+            {
+                "id": "coca14",
+                "nombre": "Coca Cola Ret",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/cocaRetor2,5-min.jpg",
+                "medida": "2,5Lts",
+                "precio": "1000",
+                "marca":"CocaCola",
+                "tipo":"Gaseosa"
+            }, 
+            {
+                "id": "doblecola1",
+                "nombre": "Doble Cola",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/dobleCola3-min.jpg",
+                "medida": "3Lts",
+                "precio": "1000",
+                "marca":"Doble Cola",
+                "tipo":"Gaseosa"
+            },
+            {
+            "id": "fanta1",
+            "nombre": "Fanta",
+            "img": "/img/imagenesKiosko/imgKioskoBebidas/fanta500-min.jpg",
+            "medida": "500cc",
+            "precio": "1000",
+            "marca":"Fanta",
+            "tipo":"Gaseosa"
+            },
+            {
+            "id": "fanta2",
+            "nombre": "Fanta",
+            "img": "/img/imagenesKiosko/imgKioskoBebidas/fanta1,5-min.jpg",
+            "medida": "1,5Lts",
+            "precio": "1000",
+            "marca":"Fanta",
+            "tipo":"Gaseosa"
+            },
+            { 
+            "id": "fanta3",
+            "nombre": "Fanta",
+            "img": "/img/imagenesKiosko/imgKioskoBebidas/fanta2,25-min.jpg",
+            "medida": "2,25Lts",
+            "precio": "1000",
+            "marca":"Fanta",
+            "tipo":"Gaseosa"
+            },
+            { 
+            "id": "fanta4",
+            "nombre": "Fanta Ret.",
+            "img": "/img/imagenesKiosko/imgKioskoBebidas/fantaRetor2-min.jpg",
+            "medida": "2Lts",
+            "precio": "1000",
+            "marca":"Fanta",
+            "tipo":"Gaseosa"
+            },
+            { 
+            "id": "fanta5",
+            "nombre": "Fanta Limon Ret.",
+            "img": "/img/imagenesKiosko/imgKioskoBebidas/fantaLimonRetor2-min.jpg",
+            "medida": "2Lts",
+            "precio": "1000",
+            "marca":"Fanta",
+            "tipo":"Gaseosa"
+            },
+            {
+                "id": "gatorade1",
+                "nombre": "Gatorade Manzana",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/gatoradeManz500-min.jpg",
+                "medida": "500cc",
+                "precio": "1000",
+                "marca":"Gatorade",
+                "tipo":"Bebida Energizante"
+            },
+            {
+                "id": "gatorade2",
+                "nombre": "Gatorade Manzana",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/gatoradeManz750-min.jpg",
+                "medida": "750cc",
+                "precio": "1000",
+                "marca":"Gatorade",
+                "tipo":"Bebida Energizante"
+            },
+            {
+                "id": "gatorade3",
+                "nombre": "Gatorade Frutos Tropicales",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/gatoradeFrutos750-min.jpg",
+                "medida": "750cc",
+                "precio": "1000",
+                "marca":"Gatorade",
+                "tipo":"Bebida Energizante"
+            },
+            {
+                "id": "monster1",
+                "nombre": "Monster",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/monsterRegular473-min.jpg",
+                "medida": "473Lts",
+                "precio": "1000",
+                "marca":"Monster",
+                "tipo":"Bebida Energizante"
+            },
+            {
+                "id": "monster2",
+                "nombre": "Monster",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/monsterSinAzuc473-min.jpg",
+                "medida": "473Lts",
+                "precio": "1000",
+                "marca":"Monster",
+                "tipo":"Bebida Energizante"
+            },
+            {
+                "id": "monster3",
+                "nombre": "Monster Mango Loco",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/monsterMangoLoco473-min.jpg",
+                "medida": "473Lts",
+                "precio": "1000",
+                "marca":"Monster",
+                "tipo":"Bebida Energizante"
+            },
+            {
+                "id": "levite1",
+                "nombre": "Levite Manzana",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/leviteManz1,5-min.jpg",
+                "medida": "1,5Lts",
+                "precio": "1000",
+                "marca":"Levite",
+                "tipo":"Agua Saborizada"
+            },
+            {
+                "id": "levite2",
+                "nombre": "Levite Naranja",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/leviteNaran1,5-min.jpg",
+                "medida": "1,5Lts",
+                "precio": "1000",
+                "marca":"Levite",
+                "tipo":"Agua Saborizada"
+            },
+            {
+                "id": "levite3",
+                "nombre": "Levite Pomelo",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/levitePomelo1,5-min.jpg",
+                "medida": "1,5Lts",
+                "precio": "1000",
+                "marca":"Levite",
+                "tipo":"Agua Saborizada"
+            },
+            {
+                "id": "levite4",
+                "nombre": "Levite Pera",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/levitePera1,5-min.jpg",
+                "medida": "1,5Lts",
+                "precio": "1000",
+                "marca":"Levite",
+                "tipo":"Agua Saborizada"
+            },
+            {
+                "id": "paso1",
+                "nombre": "Paso de los Toros Pomelo",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/pasoPomelo1,5-min.jpg",
+                "medida": "1,5Lts",
+                "precio": "1000",
+                "marca":"Paso de los Toros",
+                "tipo":"Gaseosa"
+            },
+            {
+                "id": "paso2",
+                "nombre": "Paso de los Toros Tonica",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/pasoTonica1,5-min.jpg",
+                "medida": "1,5Lts",
+                "precio": "1000",
+                "marca":"Paso de los Toros",
+                "tipo":"Gaseosa"
+            },
+            {
+                "id": "pepsi1",
+                "nombre": "Pepsi",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/pepsi2-min.jpg",
+                "medida": "2Lts",
+                "precio": "1000",
+                "marca":"Pepsi",
+                "tipo":"Gaseosa"
+            },
+            {
+                "id": "powerade1",
+                "nombre": "Powerade Manzana",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/poweradeManz500-min.jpg",
+                "medida": "500cc",
+                "precio": "1000",
+                "marca":"Powerade",
+                "tipo":"Bebida Energizante"
+            },
+            {
+                "id": "powerade2",
+                "nombre": "Powerade Mountain Blast",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/poweradeMountain500-min.jpg",
+                "medida": "500cc",
+                "precio": "1000",
+                "marca":"Powerade",
+                "tipo":"Bebida Energizante"
+            },
+            { 
+                "id": "pritty1",
+                "nombre": "Pritty",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/pritty500-min.jpg",
+                "medida": "500cc",
+                "precio": "1000",
+                "marca":"Pritty",
+                "tipo":"Gaseosa"
+            },
+            { 
+                "id": "pritty2",
+                "nombre": "Pritty",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/pritty1-min.jpg",
+                "medida": "1L",
+                "precio": "1000",
+                "marca":"Pritty",
+                "tipo":"Gaseosa"
+            },
+            { 
+                "id": "pritty3",
+                "nombre": "Pritty",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/pritty2,25-min.jpg",
+                "medida": "2,25Lts",
+                "precio": "1000",
+                "marca":"Pritty",
+                "tipo":"Gaseosa"
+            },
+            { 
+                "id": "pritty4",
+                "nombre": "Pritty Cero",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/prittyCero2,25-min.jpg",
+                "medida": "2,25Lts",
+                "precio": "1000",
+                "marca":"Pritty",
+                "tipo":"Gaseosa"
+            },
+            { 
+                "id": "pritty5",
+                "nombre": "Pritty",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/pritty3-min.jpg",
+                "medida": "3Lts",
+                "precio": "1000",
+                "marca":"Pritty",
+                "tipo":"Gaseosa"
+            },
+            {
+                "id": "schweppes",
+                "nombre": "Schweppes Pomelo Ret.",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/scweppesRetor2-min.jpg",
+                "medida": "2Lts",
+                "precio": "1000",
+                "marca":"Schweppes",
+                "tipo":"Gaseosa"
+            },
+            { 
+                "id": "secco1",
+                "nombre": "Secco Pomelo",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/secco2,25-min.jpg",
+                "medida": "2,25Lts",
+                "precio": "1000",
+                "marca":"Secco",
+                "tipo":"Gaseosa"
+            },
+            { 
+                "id": "secco2",
+                "nombre": "Secco Pomelo",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/secco3-min.jpg",
+                "medida": "3Lts",
+                "precio": "1000",
+                "marca":"Secco",
+                "tipo":"Gaseosa"
+            },
+            {
+                "id": "saldan1",
+                "nombre": "Soda Saldan",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/sodaSaldan2-min.jpg",
+                "medida": "2Lts",
+                "precio": "1000",
+                "marca":"Saldan",
+                "tipo":"Agua"
+            },
+            {
+                "id": "speed1",
+                "nombre": "Speed",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/speed473-min.jpg",
+                "medida": "473cc",
+                "precio": "1000",
+                "marca":"Speed",
+                "tipo":"Bebida Energizante"
+            },
+            {
+                "id": "speed2",
+                "nombre": "Speed",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/speed269-min.jpg",
+                "medida": "269cc",
+                "precio": "1000",
+                "marca":"Speed",
+                "tipo":"Bebida Energizante"
+            },
+            {
+                "id": "speed3",
+                "nombre": "Speed",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/speed250-min.jpg",
+                "medida": "250cc",
+                "precio": "1000",
+                "marca":"Speed",
+                "tipo":"Bebida Energizante"
+            },
+            {
+                "id": "sprite1",
+                "nombre": "Sprite lata",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/lataSprite220-min.jpg",
+                "medida": "220cc",
+                "precio": "1300",
+                "marca": "Sprite",
+                "tipo": "gase"
+            },
+            { 
+                "id": "sprite12",
+                "nombre": "Sprite",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/sprite500-min.jpg",
+                "medida": "500cc",
+                "precio": "1000",
+                "marca":"Sprite",
+                "tipo":"Gaseosa"
+            },
+            { 
+                "id": "sprite3",
+                "nombre": "Sprite",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/sprite1,5-min.jpg",
+                "medida": "1,5Lts",
+                "precio": "1000",
+                "marca":"Sprite",
+                "tipo":"Gaseosa"
+            },
+            { 
+                "id": "Sprite4",
+                "nombre": "Sprite Ret.",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/spriteRetor2-min.jpg",
+                "medida": "2Lts",
+                "precio": "1000",
+                "marca":"Sprite",
+                "tipo":"Gaseosa"
+            }, 
+            {
+                "id": "terma1",
+                "nombre": "Terma Cero Pomelo Rosado",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/termaPomeloRosado1,35-min.jpg",
+                "medida": "1,35Lts",
+                "precio": "1000",
+                "marca":"Terma",
+                "tipo":"Bebida a base de Hierbas"
+            },
+            {
+                "id": "terma2",
+                "nombre": "Terma Cero Limon",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/termaLimon1,35-min.jpg",
+                "medida": "1,35Lts",
+                "precio": "1000",
+                "marca":"Terma",
+                "tipo":"Bebida a base de Hierbas"
+            },
+            {
+                "id": "terma3",
+                "nombre": "Terma Serrano",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/termaSerrano1,35-min.jpg",
+                "medida": "1,35Lts",
+                "precio": "1000",
+                "marca":"Terma",
+                "tipo":"Bebida a base de Hierbas"
+            },
+            {
+                "id": "villadelsur1",
+                "nombre": "Agua Villa del Sur",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/villaDelSur1,65-min.jpg",
+                "medida": "1,65Lts",
+                "precio": "1000",
+                "marca":"Villa del Sur",
+                "tipo":"Agua"
+            },
+            {
+                "id": "villavicencio1",
+                "nombre": "Agua Villavicencio",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/villavicencio1,5-min.jpg",
+                "medida": "1,5Lts",
+                "precio": "1000",
+                "marca":"Villavicencio",
+                "tipo":"Agua"
+            },              
+            { 
+                "id": "7up1",
+                "nombre": "7up",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/sevenUp2-min.jpg",
+                "medida": "2Lts",
+                "precio": "1000",
+                "marca":"7up",
+                "tipo":"Gaseosa"
+            }
+        ],   
+
+
+
+
+        
+        "Cigarrillos y Tabaco":[
+            {
+                "id": "cigarrilos1",
+                "nombre": "Malboro",
+                "medida": "10",
+                "precio": "2000"
+            },
+            {
+                "id": "cigarrilos2",
+                "nombre": "Malboro",
+                "medida": "20",
+                "precio": "3000"
+            },
+            {
+                "id": "cigarrilos3",
+                "nombre": "Malboro Crafted Rojo",
+                "medida": "20",
+                "precio": "2200"
+            }
+        ],
+
+        "Fiambres y Embutidos":[
+            {
+                "id": "fiambres1",
+                "nombre": "Jamon",
+                "medida": "100gr",
+                "precio": "690"
+            },
+            {
+                "id": "fiambres2",
+                "nombre": "Queso",
+                "medida": "100gr",
+                "precio": "940"
+            },
+            {
+                "id": "fiambres3",
+                "nombre": "Salame",
+                "medida": "100gr",
+                "precio": "670"
+            } 
+        ],
+
+        "Golosinas y Chocolates":[
+            {
+                "id": "golosinas1",
+                "nombre": "Alfajor Cofler",
+                "medida": "80gr",
+                "precio": "1100"
+            },
+            {
+                "id": "golosinas2",
+                "nombre": "Alfajor Tatin Blanco",
+                "medida": "55gr",
+                "precio": "700"
+            },
+            {
+                "id": "golosinas3",
+                "nombre": "Mogul",
+                "medida": "125gr",
+                "precio": "1300"
+            } 
+        ],
+        
+        "Hielos y Congelados":[
+            {
+                "id": "hielos1",
+                "nombre": "Hielo Grande",
+                "medida": "1,5kg",
+                "precio": "2000"
+            },
+            {
+                "id": "hielos2",
+                "nombre": "Hielo Chico",
+                "medida": "1kg",
+                "precio": "1400"
+            },
+            {
+                "id": "hielos3",
+                "nombre": "Hamburguesa Swift",
+                "medida": "4",
+                "precio": "2800"
+            } 
+        ],
+
+        "Higiene y Salud":[
+             {
+                "id": "higiene1",
+                "nombre": "Jabon Blanco",
+                "medida": "200gr",
+                "precio": "1200"
+            },
+            {
+                "id": "higiene2",
+                "nombre": "Shampoo Plusbelle",
+                "medida": "700cc",
+                "precio": "1500"
+            },
+            {
+                "id": "higiene3",
+                "nombre": "Pañuelos Elite",
+                "medida": "6",
+                "precio": "1100"
+            }              
+        ],
+
+        "Lacteos, Quesos y Frescos":[
+             {
+                "id": "lacteo1",
+                "nombre": "Leche Serenisima",
+                "medida": "1L",
+                "precio": "1280"
+            },
+            {
+                "id": "lacteo2",
+                "nombre": "Leche Tregar",
+                "medida": "1L",
+                "precio": "1500"
+            },
+            {
+                "id": "lacteo3",
+                "nombre": "Yogurt Frutilla Tregar",
+                "medida": "900cc",
+                "precio": "1600"
+            } 
+        ],
+
+        "Limpieza": [
+             {
+                "id": "limpieza1",
+                "nombre": "Esponja",
+                "medida": "1",
+                "precio": "650"
+            },
+            {
+                "id": "limpieza2",
+                "nombre": "Virulana",
+                "medida": "1",
+                "precio": "900"
+            },
+            {
+                "id": "limpieza3",
+                "nombre": "Detergente",
+                "medida": "500cc",
+                "precio": "1050"
+            } 
+        ],
+
+        "Panaderia":[
+             {
+                "id": "panaderia1",
+                "nombre": "Pan Tira",
+                "medida": "1",
+                "precio": "650"
+            },
+            {
+                "id": "panaderia2",
+                "nombre": "Pan Criollo",
+                "medida": "250gr",
+                "precio": "825"
+            },
+            {
+                "id": "panaderia3",
+                "nombre": "Pan Bollo Negro",
+                "medida": "1",
+                "precio": "120"
+            } 
+        ],
+
+        "Snacks":[
+             {
+                "id": "snacks1",
+                "nombre": "Quento Serrano",
+                "medida": "200gr",
+                "precio": "1500"
+            },
+            {
+                "id": "snacks2",
+                "nombre": "Lays",
+                "medida": "55gr",
+                "precio": "1530"
+            },
+            {
+                "id": "snacks3",
+                "nombre": "Oreo",
+                "medida": "125gr",
+                "precio": "1200"
+            } 
+        ]
+
+    }
+}

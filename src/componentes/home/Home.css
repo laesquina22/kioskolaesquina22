@@ -1,0 +1,250 @@
+.main-home{
+    height: 100%;
+}
+
+/* SECCION HOME */
+
+.link-promociones{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+    background-color: #f15a24;
+    font-weight: 500;
+    font-style: italic;
+    width: 80%;
+    height: 50px;
+    margin: 20px;
+    border-radius: 5px;
+    transition: all .4s;
+}
+
+.link-promociones:hover{
+   background-color: #d1431f;
+}
+
+.div-categ{
+    background-color: white;
+    margin: 10px;
+    height: 120px;
+    width: 130px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5px;   
+    text-decoration: none;
+}
+
+.h4-categ{
+    font-size: 16px;
+    text-align: center;
+    height: 40px;
+
+    color: #293255;
+}
+.h4-lacteos{
+    width: 120px;
+    font-size: 14px;
+}
+
+.img-icono-home{
+    width: 60px;
+}
+.golosinas{
+    width: 80px;
+}
+.salud{
+    width: 80px;
+}
+.almacen{
+    width: 125px;
+}
+.hielos{
+    width: 100px;
+    margin-top: -10px;
+}
+.panaderia{
+    width: 120px;
+}
+.lacteos{
+    margin-top: -10px;
+    width: 120px;
+}
+.fiambres{
+    margin-top: -10px;
+    width: 120px;
+}
+
+/* FOOTER */
+
+footer{
+    margin-top: 20px;
+    border-top: 1px solid white;
+    height: 80px!important;
+    padding: 10px 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.p-footer{
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    margin: 0px;
+    font-style: italic;
+}
+
+@media screen and (min-width: 590px) {
+       .seccion-home{
+          height: 600px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .img-logo {
+        width: 300px;
+        margin: 0px 25px;
+    }
+    
+    .img-carrito{
+        width: 45px;
+        margin: 0px 25px;
+    }
+    
+    /* SECCION HOME */
+    
+ 
+    .link-promociones{
+        width: 50%;
+        margin: 25px;
+        border-radius: 7px;
+    }
+    
+    .div-categ{
+        margin: 15px;
+        height: 135px;
+        width: 145px;
+        border-radius: 7px;
+    }
+    
+    .h4-categ{
+        font-size: 17px;
+        margin-top: 5px;
+    }
+
+    .h4-lacteos{
+        width: 130px;
+        font-size: 15px;
+    }
+    
+    .img-icono-home{
+        width: 70px;
+    }
+    .golosinas{
+        width: 90px;
+    }
+    .salud{
+        width: 90px;
+    }
+    .almacen{
+        width: 135px;
+    }
+    .hielos{
+        width: 110px;
+        margin-top: -10px;
+    }
+    .panaderia{
+        width: 130px;
+    }
+    .lacteos{
+        margin-top: -10px;
+        width: 130px;
+    }
+    .fiambres{
+        margin-top: -10px;
+        width: 130px;
+    }
+    
+    /* FOOTER */
+
+    .p-footer{
+        font-size: 20px;
+    }
+    
+}
+
+
+@media screen and (min-width: 1040px) {
+    /* SECCION HOME */
+    .seccion-home{
+        height: 600px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+  }
+
+  .divContainerCateg{
+       width: 80%;
+  }
+
+    .div-categ{
+        width: 170px;
+    }
+    
+    .h4-categ{
+        font-size: 18px;
+    }
+
+    .h4-lacteos{
+        width: 160px;
+        font-size: 16px;
+    }
+    
+    .img-icono-home{
+        width: 75px;
+    }
+    .golosinas{
+        width: 95px;
+    }
+    .salud{
+        width: 95px;
+    }
+    .almacen{
+        width: 145px;
+    }
+    .hielos{
+        width: 115px;
+        margin-top: -10px;
+    }
+    .panaderia{
+        width: 135px;
+    }
+    .lacteos{
+        margin-top: -10px;
+        width: 135px;
+    }
+    .fiambres{
+        margin-top: -10px;
+        width: 135px;
+    }
+}
+
+@media screen and (min-width: 1516px) {
+    /* SECCION HOME */
+    .seccion-home{
+        justify-content: center;
+  }
+
+  .link-promociones{
+    width: 49%;
+    margin: 25px;
+    border-radius: 7px;
+}
+
+  .divContainerCateg{
+       width: 60%;
+  }
+}

@@ -1,13 +1,26 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+
+import Home from './componentes/home/Home';
+import Promociones from './componentes/promociones/Promociones';
+import Carrito from './componentes/carrito/Carrito';
+import Productos from './componentes/productos/Productos'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <BrowserRouter>
+       <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/promociones" element={<Promociones />} />
+          <Route path="/carrito" element={<Carrito />} />
+          <Route path="/productos/:category" element={<Productos />} />
+        </Routes>
+    </BrowserRouter>
   </React.StrictMode>
 );
 
