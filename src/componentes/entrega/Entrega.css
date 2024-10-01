@@ -1,0 +1,153 @@
+  .form-entrega {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 22px;   
+    padding-bottom: 130px;
+  }
+
+  .h2-form-entrega{
+    color: white;
+    margin: 0px 10px;
+  }
+
+  .btn-entrega {
+    width: 200px;
+    height: 40px;
+    margin: 10px;
+    background-color: #f15b24; 
+    color: white;
+    font-style: italic;
+    cursor: pointer;
+    border-radius: 7px;
+    font-size: 1rem;
+    border: 1px solid #f15b24;
+  }
+  
+  .btn-entrega.activo {
+    border: 1px solid white;
+    color: white;
+  }
+  
+  .btn-entrega:hover {
+    background-color: #e35622;
+  }
+
+  .div-formas-entrega{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .form-entrega label {
+    color: white;
+    margin-bottom: 5px;
+    font-weight: 500;
+  }
+  
+  .form-entrega input[type="text"] {
+    padding: 8px;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    outline: none;
+  }
+  
+  .form-entrega div {
+    margin-bottom: 20px;
+  }
+  
+  .resumen-flotante {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    text-align: center;
+    border-top: 1px solid #e0e0e0;
+  }
+
+  .div-resumen-entrega{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-bottom: 10px;
+  }
+  
+  .resumen-flotante p {
+    font-size: 1.2rem;
+  }
+  
+  .resumen-flotante span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 17px;
+  }
+
+  .btn-entrega-resumen {
+     font-weight: 500;
+  }
+  
+  .btn-pedir-wspp:hover {
+    background-color: #1ebe56;
+  }
+  
+@media screen and (min-width: 500px) {
+  .btn-entrega {
+    width: 250px;
+    height: 40px;
+    margin-top: 20px;
+    font-size: 1.1rem;
+    font-weight: 500;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .entrega-container{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+  }
+
+  .div-formas-entrega{
+  max-width: 650px;
+  }
+
+  .div-input-entrega{
+    max-width: 650px;
+  }
+
+  .div-total-entrega{
+    max-width: 450px;
+  }
+}
+
+@media screen and (min-width: 980px) {
+  .form-entrega {
+   flex-direction: row;
+   justify-content: center;
+  padding-bottom: 0px;
+  gap: 70px;
+  }
+
+  .div-medios-entrega{
+    margin: 75px 0px;
+  }
+
+  .btn-entrega {
+    width: 200px;
+    margin-top: 0px;
+    margin: 30px 15px 0px 15px;
+    font-size: 1.1rem;
+    font-weight: 500;
+  }
+
+  .div-input-entrega{
+    margin: 45px 0px;
+  }
+}

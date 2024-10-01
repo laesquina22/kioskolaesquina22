@@ -52,7 +52,8 @@
     width: 60px;
 }
 .golosinas{
-    width: 80px;
+    margin-top: 10px;
+    width: 100px;
 }
 .salud{
     width: 80px;
@@ -143,7 +144,8 @@ footer{
         width: 70px;
     }
     .golosinas{
-        width: 90px;
+        margin-top: 15px;
+        width: 110px!important;
     }
     .salud{
         width: 90px;

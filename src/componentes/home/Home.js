@@ -39,12 +39,12 @@ const Home = () => {
                     <h4 className='h4-categ'>Cigarrillos y Tabaco</h4>
                     <img className='img-icono-home' src='/img/img-iconos/cigarrillos.png' alt='icono'></img>
                 </Link>
-                <Link to='/productos/Golosinas y Chocolates' className='col-3 col-sm-3 col-md-3 col-lg-2 div-categ'>
-                    <h4 className='h4-categ'>Golosinas y Chocolates</h4>
-                    <img className='img-icono-home golosinas' src='/img/img-iconos/golosinas.png' alt='icono'></img>
+                <Link to='/productos/Alfajores, Chocolates y Golosinas' className='col-3 col-sm-3 col-md-3 col-lg-2 div-categ'>
+                    <h4 className='h4-categ h4-lacteos'>Alfajores, Chocolates y Golosinas</h4>
+                    <img className='img-icono-home golosinas' src='/img/img-iconos/golosinas3.png' alt='icono'></img>
                 </Link>
-                <Link to='/productos/Snacks' className='col-3 col-sm-3 col-md-3 col-lg-2 div-categ'>
-                    <h4 className='h4-categ'>Snacks</h4>
+                <Link to='/productos/Galletas y Snacks' className='col-3 col-sm-3 col-md-3 col-lg-2 div-categ'>
+                    <h4 className='h4-categ'>Galletas y Snacks</h4>
                     <img className='img-icono-home' src='/img/img-iconos/snacks.png' alt='icono'></img>
                 </Link>    
                 <Link to='/productos/Almacen' className='col-3 col-sm-3 col-md-3 col-lg-2 div-categ'>

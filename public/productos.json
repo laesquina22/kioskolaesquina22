@@ -2,24 +2,1698 @@
     "productos": {
 
         "Almacen": [
-        {
-            "id": "almacen1",
-            "nombre": "Yerba Verdeflor",
-            "medida": "1kg",
-            "precio": "1560"
-        },
-        {
-            "id": "almacen2",
-            "nombre": "yerba Don Arregui",
-            "medida": "1kg",
-            "precio": "1280"
-        },
-        {
-            "id": "almacen3",
-            "nombre": "Yerba Taragui",
-            "medida": "1kg",
-            "precio": "2500"
-        }
+            {
+                "id": "almacen1",
+                "nombre": "Jugo Arcor Ananá",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/jugoArcorAnana18-min.png",
+                "medida": "18g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Jugos"
+            },
+            {
+                "id": "almacen2",
+                "nombre": "Jugo Arcor Limonada",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/jugoArcorLimonada18-min.png",
+                "medida": "18g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Jugos"
+            },
+            {
+                "id": "almacen3",
+                "nombre": "Jugo Arcor Manzana",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/jugoArcorManzana18-min.png",
+                "medida": "18g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Jugos"
+            },
+            {
+                "id": "almacen4",
+                "nombre": "Jugo Arcor Multifruta",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/jugoArcorMultifruta18-min.png",
+                "medida": "18g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Jugos"
+            },
+            {
+                "id": "almacen5",
+                "nombre": "Jugo Arcor Narnaja",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/jugoArcorNaranja18-min.png",
+                "medida": "18g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Jugos"
+            },
+            {
+                "id": "almacen6",
+                "nombre": "Jugo Arcor Narnaja Durazno",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/jugoArcorNaranjaDurazno18-min.png",
+                "medida": "18g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Jugos"
+            },
+            {
+                "id": "almacen7",
+                "nombre": "Jugo Arcor Naranja Mango",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/jugoArcorNaranjaMango18-min.png",
+                "medida": "18g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Jugos"
+            },
+            {
+                "id": "almacen8",
+                "nombre": "Jugo Arcor Pomelo Rosado",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/jugoArcorPomeloRosado18-min.png",
+                "medida": "18g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Jugos"
+            },
+            {
+                "id": "almacen9",
+                "nombre": "Jugo Rinde Dos Durazno",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/jugoRindeDosDurazno13-min.png",
+                "medida": "13g",
+                "precio": "1300",
+                "marca": "Rinde Dos",
+                "tipo": "Jugos"
+            },
+            {
+                "id": "almacen10",
+                "nombre": "Jugo Rinde Dos Manzana",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/jugoRindeDosManzana13-min.png",
+                "medida": "13g",
+                "precio": "1300",
+                "marca": "Rinde Dos",
+                "tipo": "Jugos"
+            },
+            {
+                "id": "almacen11",
+                "nombre": "Jugo Rinde Dos Mix Frutal",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/jugoRindeDosMixFrutal13-min.png",
+                "medida": "13g",
+                "precio": "1300",
+                "marca": "Rinde Dos",
+                "tipo": "Jugos"
+            },
+            {
+                "id": "almacen12",
+                "nombre": "Jugo Rinde Dos Naranja",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/jugoRindeDosNaranja13-min.png",
+                "medida": "13g",
+                "precio": "1300",
+                "marca": "Rinde Dos",
+                "tipo": "Jugos"
+            },
+            {
+                "id": "almacen13",
+                "nombre": "Jugo Rinde Dos Naranja Durazno",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/jugoRindeDosNaranjaDurazno13-min.png",
+                "medida": "13g",
+                "precio": "1300",
+                "marca": "Rinde Dos",
+                "tipo": "Jugos"
+            },
+            {
+                "id": "almacen14",
+                "nombre": "Jugo Rinde Dos Naranja Mango",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/jugoRindeDosNaranjaMango13-min.png",
+                "medida": "13g",
+                "precio": "1300",
+                "marca": "Rinde Dos",
+                "tipo": "Jugos"
+            },
+            {
+                "id": "almacen15",
+                "nombre": "Yerba Amanda",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/yerbaAmanda500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "Amanda",
+                "tipo": "Yerba"
+            },
+            {
+                "id": "almacen16",
+                "nombre": "Yerba CBSé",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/yerbaCBSé500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "CBSé",
+                "tipo": "Yerba"
+            },
+            {
+                "id": "almacen17",
+                "nombre": "Yerba Don Arregui con Burrito",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/yerbaDonArreguiBurrito500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "Don Arregui",
+                "tipo": "Yerba"
+            },
+            {
+                "id": "almacen17b",
+                "nombre": "Yerba Don Arregui con Cedron",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/yerbaDonArreguiCedron500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "Don Arregui",
+                "tipo": "Yerba"
+            },
+            {
+                "id": "almacen18",
+                "nombre": "Yerba Don Arregui Compuesta",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/yerbaDonArreguiCompuesta500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "Don Arregui",
+                "tipo": "Yerba"
+            },
+            {
+                "id": "almacen19",
+                "nombre": "Yerba Don Arregui con Peperina",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/yerbaDonArreguiPeperina500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "Don Arregui",
+                "tipo": "Yerba"
+            },
+            {
+                "id": "almacen20",
+                "nombre": "Yerba La Hoja",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/yerbaLaHoja500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "La Hoja",
+                "tipo": "Yerba"
+            },
+            {
+                "id": "almacen21",
+                "nombre": "Yerba Nobleza Gaucha",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/yerbaNoblezaGaucha500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "Nobleza Gaucha",
+                "tipo": "Yerba"
+            },
+            {
+                "id": "almacen22",
+                "nombre": "Yerba Playadito",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/yerbaPlayadito500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "Playadito",
+                "tipo": "Yerba"
+            },
+            {
+                "id": "almacen23",
+                "nombre": "Yerba Rosamonte",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/yerbaRosamonte500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "Rosamonte",
+                "tipo": "Yerba"
+            },
+            {
+                "id": "almacen24",
+                "nombre": "Yerba La Hoja",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/yerbaLaHoja500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "La Hoja",
+                "tipo": "Yerba"
+            },
+            {
+                "id": "almacen25",
+                "nombre": "Yerba Verdeflor",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/yerbaVerdeflor500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "Verdeflor",
+                "tipo": "Yerba"
+            },
+            {
+                "id": "almacen26",
+                "nombre": "Arlistán",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/arlistan50-min.png",
+                "medida": "50g",
+                "precio": "1300",
+                "marca": "Arlistán",
+                "tipo": "Cafe"
+            },
+            {
+                "id": "almacen27",
+                "nombre": "Arlistán",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/arlistan100-min.png",
+                "medida": "100g",
+                "precio": "1300",
+                "marca": "Arlistán",
+                "tipo": "Cafe"
+            },
+            {
+                "id": "almacen28",
+                "nombre": "Dolca Original",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/dolca100-min.png",
+                "medida": "100g",
+                "precio": "1300",
+                "marca": "Dolca",
+                "tipo": "Cafe"
+            },
+            {
+                "id": "almacen29",
+                "nombre": "Dolca Suave",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/dolcaSuave100-min.png",
+                "medida": "100g",
+                "precio": "1300",
+                "marca": "Dolca",
+                "tipo": "Cafe"
+            },
+            {
+                "id": "almacen30",
+                "nombre": "Dolca Suave",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/dolcaSuave170-min.png",
+                "medida": "170g",
+                "precio": "1300",
+                "marca": "Dolca",
+                "tipo": "Cafe"
+            },
+            {
+                "id": "almacen31",
+                "nombre": "La Virginia Torrado Cafe Molido",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/LaVirginiaTorradoCafeMolido125-min.png",
+                "medida": "125g",
+                "precio": "1300",
+                "marca": "La Virginia",
+                "tipo": "Cafe"
+            },
+            {
+                "id": "almacen32",
+                "nombre": "La Virginia Torrado Cafe Molido",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/LaVirginiaTorradoCafeMolido250-min.png",
+                "medida": "250g",
+                "precio": "1300",
+                "marca": "La Virginia",
+                "tipo": "Cafe"
+            },
+            {
+                "id": "almacen33",
+                "nombre": "Velez Saquito",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/velezSaquitoCafe5-min.png",
+                "medida": "1u",
+                "precio": "1300",
+                "marca": "Velez",
+                "tipo": "Cafe"
+            },
+            {
+                "id": "almacen34",
+                "nombre": "La Virginia Saquito",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/saquitoLaVirginiaCafe5-min.png",
+                "medida": "1u",
+                "precio": "1300",
+                "marca": "La Virginia",
+                "tipo": "Cafe"
+            },
+            {
+                "id": "almacen35",
+                "nombre": "Azucar Dulcy",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/azucarDulcy1-min.png",
+                "medida": "1Kg",
+                "precio": "1300",
+                "marca": "Dulcy",
+                "tipo": "Azucar"
+            },
+            {
+                "id": "almacen36",
+                "nombre": "Sal Fina Celusal",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/celusalFina500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "Celusal",
+                "tipo": "Sal"
+            },
+            {
+                "id": "almacen37",
+                "nombre": "Sal Gruesa Celusal",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/celusalGruesa500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "Celusal",
+                "tipo": "Sal"
+            },
+            {
+                "id": "almacen38",
+                "nombre": "Celusal para Parrilla",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/celusalParrilla500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "Celusal",
+                "tipo": "Sal"
+            },
+            {
+                "id": "almacen39",
+                "nombre": "Sal de Campo 5 Pimientos",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/salDeCampo5Pimientos250-min.png",
+                "medida": "250g",
+                "precio": "1300",
+                "marca": "Sal de Campo",
+                "tipo": "Sal"
+            },
+            {
+                "id": "almacen40",
+                "nombre": "Sal de Campo Ahumado",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/salDeCampoAhumado250-min.png",
+                "medida": "250g",
+                "precio": "1300",
+                "marca": "Sal de Campo",
+                "tipo": "Sal"
+            },
+            {
+                "id": "almacen41",
+                "nombre": "Sal de Campo Original",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/salDeCampoOriginal250-min.png",
+                "medida": "250g",
+                "precio": "1300",
+                "marca": "Sal de Campo",
+                "tipo": "Sal"
+            },
+            {
+                "id": "almacen42",
+                "nombre": "Edulcorante Sidiet",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/sidiet200-min.png",
+                "medida": "200cc",
+                "precio": "1300",
+                "marca": "Sidiet",
+                "tipo": "Edulcorante"
+            },
+            {
+                "id": "almacen43",
+                "nombre": "Edulcorante Sidiet",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/sidiet500-min.png",
+                "medida": "500cc",
+                "precio": "1300",
+                "marca": "Sidiet",
+                "tipo": "Edulcorante"
+            },
+            {
+                "id": "almacen44",
+                "nombre": "Edulcorante Sidiet",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/sidiet600-min.png",
+                "medida": "600cc",
+                "precio": "1300",
+                "marca": "Sidiet",
+                "tipo": "Edulcorante"
+            },
+            {
+                "id": "almacen45",
+                "nombre": "Puré de Tomate Salsati",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/laCampagnola520-min.png",
+                "medida": "520g",
+                "precio": "1300",
+                "marca": "La Campagnola",
+                "tipo": "Pure de Tomate"
+            },
+            {
+                "id": "almacen46",
+                "nombre": "Puré de Tomate De La Huerta",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/deLaHuerta530-min.png",
+                "medida": "530g",
+                "precio": "1300",
+                "marca": "De La Huerta",
+                "tipo": "Pure de Tomate"
+            },
+            {
+                "id": "almacen47",
+                "nombre": "Puré de Tomate Arcor",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/arcorPureDeTomate210-min.png",
+                "medida": "210g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Pure de Tomate"
+            },
+            {
+                "id": "almacen48",
+                "nombre": "Puré de Tomate Profecia",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/profecia950-min.png",
+                "medida": "950g",
+                "precio": "1300",
+                "marca": "Profecia",
+                "tipo": "Pure de Tomate"
+            },
+            {
+                "id": "almacen49",
+                "nombre": "Puré de Tomate Perita",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/tomatePeritaArcor250-min.png",
+                "medida": "250g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Pure de Tomate"
+            },
+            {
+                "id": "almacen50",
+                "nombre": "Harina Integral para pizzas con Levadura",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/harinaPurezaIntegral1-min.png",
+                "medida": "1Kg",
+                "precio": "1300",
+                "marca": "Pureza",
+                "tipo": "Harina"
+            },
+            {
+                "id": "almacen51",
+                "nombre": "Harina para pizzas caseras con Levadura",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/harinaPureza1-min.png",
+                "medida": "1Kg",
+                "precio": "1300",
+                "marca": "Pureza",
+                "tipo": "Harina"
+            },
+            {
+                "id": "almacen52",
+                "nombre": "Harina 0000 Ultra Refinada",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/harinaPurezaUltraRefinada00001-min.png",
+                "medida": "1Kg",
+                "precio": "1300",
+                "marca": "Pureza",
+                "tipo": "Harina"
+            },
+            {
+                "id": "almacen53",
+                "nombre": "Harina Leundate Ultra Refinada",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/harinaPurezaLeudante1-min.png",
+                "medida": "1Kg",
+                "precio": "1300",
+                "marca": "Pureza",
+                "tipo": "Harina"
+            },
+            {
+                "id": "almacen54",
+                "nombre": "Harina 000",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/gracielaReal0001-min.png",
+                "medida": "1Kg",
+                "precio": "1300",
+                "marca": "Graciela real",
+                "tipo": "Harina"
+            },
+            {
+                "id": "almacen55",
+                "nombre": "Levex Levadura Instantanea Natural",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/levexLevaduraInstantaneaNatural-min.png",
+                "medida": "",
+                "precio": "1300",
+                "marca": "Levex",
+                "tipo": "Harina"
+            },
+            {
+                "id": "almacen56",
+                "nombre": "Salsa Golf Natura",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/naturaSalsaGolf125-min.png",
+                "medida": "125g",
+                "precio": "1300",
+                "marca": "Natura",
+                "tipo": "Aderezos"
+            },
+            {
+                "id": "almacen57",
+                "nombre": "Salsa Golf Natura",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/naturaSalsaGolf250-min.png",
+                "medida": "250g",
+                "precio": "1300",
+                "marca": "Natura",
+                "tipo": "Aderezos"
+            },
+            {
+                "id": "almacen58",
+                "nombre": "Mayonesa Natura",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/natura118-min.png",
+                "medida": "118g",
+                "precio": "1300",
+                "marca": "Natura",
+                "tipo": "Aderezos"
+            },
+            {
+                "id": "almacen59",
+                "nombre": "Mayonesa Natura",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/natura237-min.png",
+                "medida": "237g",
+                "precio": "1300",
+                "marca": "Natura",
+                "tipo": "Aderezos"
+            },
+            {
+                "id": "almacen60",
+                "nombre": "Mayonesa BC",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/BC250-min.png",
+                "medida": "250g",
+                "precio": "1300",
+                "marca": "BC",
+                "tipo": "Aderezos"
+            },
+            {
+                "id": "almacen61",
+                "nombre": "Ketchup Hellmann´s",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/ketchupHellmanns60-min.png",
+                "medida": "60g",
+                "precio": "1300",
+                "marca": "Hellmann´s",
+                "tipo": "Aderezos"
+            },
+            {
+                "id": "almacen62",
+                "nombre": "Ketchup La Campagnola",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/ketchupLaCampagnola250-min.png",
+                "medida": "250g",
+                "precio": "1300",
+                "marca": "La Campagnola",
+                "tipo": "Aderezos"
+            },
+            {
+                "id": "almacen63",
+                "nombre": "Mostaza Savora",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/savora60-min.png",
+                "medida": "60g",
+                "precio": "1300",
+                "marca": "Savora",
+                "tipo": "Aderezos"
+            },
+            {
+                "id": "almacen64",
+                "nombre": "Mostaza Savora",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/savora250-min.png",
+                "medida": "250g",
+                "precio": "1300",
+                "marca": "Savora",
+                "tipo": "Aderezos"
+            },
+            {
+                "id": "almacen65",
+                "nombre": "Ají Triturado",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/ajíTrituradoLaCampagnola23-min.png",
+                "medida": "23g",
+                "precio": "1300",
+                "marca": "La Campagnola",
+                "tipo": "Condimentos"
+            },
+            {
+                "id": "almacen66",
+                "nombre": "Comino Molido",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/cominoMolidoLaCampagnola23-min.png",
+                "medida": "23g",
+                "precio": "1300",
+                "marca": "La Campagnola",
+                "tipo": "Condimentos"
+            },
+            {
+                "id": "almacen67",
+                "nombre": "Condimento para Arroz",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/condimentoArrozYuspe25-min.png",
+                "medida": "25g",
+                "precio": "1300",
+                "marca": "Yuspe",
+                "tipo": "Condimentos"
+            },
+            {
+                "id": "almacen68",
+                "nombre": "condimento para Carnes",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/condimentoCarnesLaCampagnola23-min.png",
+                "medida": "23g",
+                "precio": "1300",
+                "marca": "La Campagnola",
+                "tipo": "Condimentos"
+            },
+            {
+                "id": "almacen69",
+                "nombre": "Condimento para preparar Chimichurri",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/condimentoChimichurriLaCampagnola23-min.png",
+                "medida": "23g",
+                "precio": "1300",
+                "marca": "La Campagnola",
+                "tipo": "Condimentos"
+            },
+            {
+                "id": "almacen70",
+                "nombre": "Condimento para Pizza",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/condimentoPizzaLaCampagnola23-min.png",
+                "medida": "23g",
+                "precio": "1300",
+                "marca": "La Campagnola",
+                "tipo": "Condimentos"
+            },
+            {
+                "id": "almacen71",
+                "nombre": "Laurel Triturado",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/laurelTrituradoYuspe25-min.png",
+                "medida": "25g",
+                "precio": "1300",
+                "marca": "Yuspe",
+                "tipo": "Condimentos"
+            },
+            {
+                "id": "almacen72",
+                "nombre": "Nuez Moscada Molida",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/nuezMoscadaYuspe25-min.png",
+                "medida": "25g",
+                "precio": "1300",
+                "marca": "Yuspe",
+                "tipo": "Condimentos"
+            },
+            {
+                "id": "almacen73",
+                "nombre": "Orégano",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/oréganoLaCampagnola48-min.png",
+                "medida": "48g",
+                "precio": "1300",
+                "marca": "La Campagnola",
+                "tipo": "Condimentos"
+            },
+            {
+                "id": "almacen74",
+                "nombre": "Perejil Deshidratado",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/perejilDeshidratadoYuspe25-min.png",
+                "medida": "25g",
+                "precio": "1300",
+                "marca": "Yuspe",
+                "tipo": "Condimentos"
+            },
+            {
+                "id": "almacen75",
+                "nombre": "Pimento Seleccionado",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/pimentonLaCampagnola23-min.png",
+                "medida": "23g",
+                "precio": "1300",
+                "marca": "LaCampagnola",
+                "tipo": "Condimentos"
+            },
+            {
+                "id": "almacen76",
+                "nombre": "Pimienta Blanca Molida",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/pimientaBlancaYuspe25-min.png",
+                "medida": "25g",
+                "precio": "1300",
+                "marca": "Yuspe",
+                "tipo": "Condimentos"
+            },
+            {
+                "id": "almacen77",
+                "nombre": "Provenzal",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/provenzalLaCampagnola23-min.png",
+                "medida": "23g",
+                "precio": "1300",
+                "marca": "LaCampagnola",
+                "tipo": "Condimentos"
+            },
+            {
+                "id": "almacen78",
+                "nombre": "Romero",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/romeroLaCampagnola15-min.png",
+                "medida": "15g",
+                "precio": "1300",
+                "marca": "LaCampagnola",
+                "tipo": "Condimentos"
+            },
+            {
+                "id": "almacen79",
+                "nombre": "Tomillo",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/tomilloLaCampagnola15-min.png",
+                "medida": "15g",
+                "precio": "1300",
+                "marca": "LaCampagnola",
+                "tipo": "Condimentos"
+            },
+            {
+                "id": "almacen80",
+                "nombre": "Salsa Lista Pizza Arcor",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/salsaPizzaArcor340-min.png",
+                "medida": "340g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Salsas"
+            },
+            {
+                "id": "almacen81",
+                "nombre": "Salsa Lista Pomarola Arcor",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/salsaPomarolaArcor340-min.png",
+                "medida": "340g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Salsas"
+            },
+            {
+                "id": "almacen82",
+                "nombre": "Salsa Lista Portugesa Arcor",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/salsaPortuguesaArcor340-min.png",
+                "medida": "340g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Salsas"
+            },
+            {
+                "id": "almacen83",
+                "nombre": "Chimichurri Clásico Marolio",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/chimichurriClasicoMarolio285-min.jpeg",
+                "medida": "285g",
+                "precio": "1300",
+                "marca": "Marolio",
+                "tipo": "Chimichurri"
+            },
+            {
+                "id": "almacen84",
+                "nombre": "Chimichurri Criolla Marolio",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/chimichurriCriollaMarolio285-min.png",
+                "medida": "285g",
+                "precio": "1300",
+                "marca": "Marolio",
+                "tipo": "Chimichurri"
+            },
+            {
+                "id": "almacen85",
+                "nombre": "Chimichurri Picante Marolio",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/chimichurriPicanteMarolio285-min.png",
+                "medida": "285g",
+                "precio": "1300",
+                "marca": "Marolio",
+                "tipo": "Chimichurri"
+            },
+            {
+                "id": "almacen86",
+                "nombre": "Chimichurri Sabor Ahumado Marolio",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/chimichurriAhumadoMarolio285-min.png",
+                "medida": "285g",
+                "precio": "1300",
+                "marca": "Marolio",
+                "tipo": "Chimichurri"
+            },
+            {
+                "id": "almacen87",
+                "nombre": "Puré de Papas",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/pureDePapaMaggi125-min.png",
+                "medida": "125g",
+                "precio": "1300",
+                "marca": "Maggi",
+                "tipo": "Pure de Papa"
+            },
+            {
+                "id": "almacen88",
+                "nombre": "Leche en Polvo Liviana La Serenisima",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/lecheEnPolvoLivianaLaSerenisima200-min.png",
+                "medida": "200g",
+                "precio": "1300",
+                "marca": "La Serenisima",
+                "tipo": "Leche en Polvo"
+            },
+            {
+                "id": "almacen89",
+                "nombre": "Leche en Polvo Clásica La Serenisima",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/lecheEnPolvoClasicaLaSerenisima200-min.png",
+                "medida": "200g",
+                "precio": "1300",
+                "marca": "La Serenisima",
+                "tipo": "Leche en Polvo"
+            },
+            {
+                "id": "almacen90",
+                "nombre": "Leche en Polvo Entera Lheritier",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/lecheEnPolvoEnteraLheritier200-min.png",
+                "medida": "200g",
+                "precio": "1300",
+                "marca": "Lhetirier",
+                "tipo": "Leche en Polvo"
+            },
+            {
+                "id": "almacen91",
+                "nombre": "Maizena",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/maizenaLaOriginal500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "La Original",
+                "tipo": "Maizena"
+            },
+            {
+                "id": "almacen92",
+                "nombre": "Avena Instantánea",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/avenaInstantaneaEgran350-min.png",
+                "medida": "350g",
+                "precio": "1300",
+                "marca": "Egran",
+                "tipo": "Avena"
+            },
+            {
+                "id": "almacen93",
+                "nombre": "Avena Tradicional",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/avenaTradicionalEgran400-min.png",
+                "medida": "400g",
+                "precio": "1300",
+                "marca": "Egran",
+                "tipo": "Avena"
+            },
+            {
+                "id": "almacen94",
+                "nombre": "Azucar Impalpable",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/azucarImpalpableVelez250-min.png",
+                "medida": "250g",
+                "precio": "1300",
+                "marca": "Velez",
+                "tipo": "Azucar"
+            },
+            {
+                "id": "almacen95",
+                "nombre": "Salsa Barbacoa La Campagnola",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/barbacoaLaCampagnola250-min.png",
+                "medida": "250g",
+                "precio": "1300",
+                "marca": "La Campagnola",
+                "tipo": "Aderezos"
+            },
+            {
+                "id": "almacen96",
+                "nombre": "Cereal Zucaritas",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/cerealZucaritas150-min.png",
+                "medida": "150g",
+                "precio": "1300",
+                "marca": "",
+                "tipo": "Cereal"
+            },
+            {
+                "id": "almacen97",
+                "nombre": "Bizcochuelo de Chocolate Exquisita",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/bizcochueloChocolateExquisita540-min.png",
+                "medida": "540g",
+                "precio": "1300",
+                "marca": "Exquisita",
+                "tipo": "Bizcochuelo"
+            },
+            {
+                "id": "almacen98",
+                "nombre": "Bizcochuelo de Vainilla Exquisita",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/bizcochueloVainillaExquisita540-min.png",
+                "medida": "540g",
+                "precio": "1300",
+                "marca": "Exquisita",
+                "tipo": "Bizcochuelo"
+            },
+            {
+                "id": "almacen99",
+                "nombre": "Bizcochuelo de Chocolate Godet",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/bizcochueloGodetChocolateArcor480-min.png",
+                "medida": "480g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Bizcochuelo"
+            },
+            {
+                "id": "almacen100",
+                "nombre": "Bizcochuelo de Vainila Godet",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/bizcochueloGodetVainillaArcor480-min.png",
+                "medida": "480g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Bizcochuelo"
+            },
+            {
+                "id": "almacen101",
+                "nombre": "Esencia de Vainilla Velez",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/esenciaVainillaVelez110-min.png",
+                "medida": "110cc",
+                "precio": "1300",
+                "marca": "Velez",
+                "tipo": "Esencias"
+            },
+            {
+                "id": "almacen102",
+                "nombre": "Aceite de Girasol Marolio",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/marolioAceite900-min.png",
+                "medida": "900cc",
+                "precio": "1300",
+                "marca": "Marolio",
+                "tipo": "Aceites"
+            },
+            {
+                "id": "almacen103",
+                "nombre": "Aceite de Girasol Natura",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/naturaAceite900-min.png",
+                "medida": "900cc",
+                "precio": "1300",
+                "marca": "Natura",
+                "tipo": "Aceites"
+            },
+            {
+                "id": "almacen104",
+                "nombre": "Aceite de Oliva",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/aceiteDeOlivaRossi1-min.png",
+                "medida": "1L",
+                "precio": "1300",
+                "marca": "Rossi",
+                "tipo": "Aceites"
+            },
+            {
+                "id": "almacen105",
+                "nombre": "Rocio Vegetal de Girasol Molto",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/rocioDeGirasolMolto150cc-min.png",
+                "medida": "150cc",
+                "precio": "1300",
+                "marca": "Molto",
+                "tipo": "Aceites"
+            },
+            {
+                "id": "almacen106",
+                "nombre": "Vinagre de Alcohol Marolio",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/vinagreAlcoholMarolio500-min.png",
+                "medida": "500cc",
+                "precio": "1300",
+                "marca": "Marolio",
+                "tipo": "Vinagres"
+            },
+            {
+                "id": "almacen107",
+                "nombre": "Vinagre de Vino Marolio",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/vinagreVinoMarolio500-min.png",
+                "medida": "500cc",
+                "precio": "1300",
+                "marca": "Marolio",
+                "tipo": "Vinagres"
+            },
+            {
+                "id": "almacen108",
+                "nombre": "Vinagre de Alcohol San Bernandino",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/vinagreAlcoholSanBernandino500-min.png",
+                "medida": "500cc",
+                "precio": "1300",
+                "marca": "San Bernandino",
+                "tipo": "Vinagres"
+            },
+            {
+                "id": "almacen109",
+                "nombre": "Vinagre de Vino San Bernandino",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/vinagreVinoSanBernandino500-min.png",
+                "medida": "500cc",
+                "precio": "1300",
+                "marca": "San Bernandino",
+                "tipo": "Vinagres"
+            },
+            {
+                "id": "almacen110",
+                "nombre": "Limon Minerva",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/minerva250-min.png",
+                "medida": "250cc",
+                "precio": "1300",
+                "marca": "Minerva",
+                "tipo": "Limones"
+            },
+            {
+                "id": "almacen111",
+                "nombre": "Limon Minerva",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/minerva500-min.png",
+                "medida": "500cc",
+                "precio": "1300",
+                "marca": "Minerva",
+                "tipo": "Limones"
+            },
+            {
+                "id": "almacen112",
+                "nombre": "Aceto Balsámico Marolio",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/acetoBalsamicoMarolio250-min.png",
+                "medida": "250cc",
+                "precio": "1300",
+                "marca": "Marolio",
+                "tipo": "Aceto"
+            },
+            {
+                "id": "almacen113",
+                "nombre": "Maiz Pisingallo Egran",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/maizPisingalloEgran400-min.png",
+                "medida": "400g",
+                "precio": "1300",
+                "marca": "Egran",
+                "tipo": "Maiz"
+            },
+            {
+                "id": "almacen114",
+                "nombre": "Maiz Pisingallo Trofy",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/maizPisingalloTrofy400-min.png",
+                "medida": "400g",
+                "precio": "1300",
+                "marca": "Trofy",
+                "tipo": "Maiz"
+            },
+            {
+                "id": "almacen115",
+                "nombre": "Poroto Arcor",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/porotosLataArcor300-min.png",
+                "medida": "300g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Porotos"
+            },
+            {
+                "id": "almacen116",
+                "nombre": "Poroto Marolio",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/porotosMarolio400-min.png",
+                "medida": "400g",
+                "precio": "1300",
+                "marca": "Marolio",
+                "tipo": "Porotos"
+            },
+            {
+                "id": "almacen117",
+                "nombre": "Lentejas Arcor",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/lentejasArcor300-min.png",
+                "medida": "300g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Lentejas"
+            },
+            {
+                "id": "almacen118",
+                "nombre": "Lentejas Sytari",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/lentejasSytari400-min.png",
+                "medida": "400g",
+                "precio": "1300",
+                "marca": "Sytari",
+                "tipo": "Lentejas"
+            },
+            {
+                "id": "almacen119",
+                "nombre": "Arroz Largo Fino 00000 Mandisoví",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/arrozLargoFinoMandisovi500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "Mandisovi",
+                "tipo": "Arroz"
+            },
+            {
+                "id": "almacen120",
+                "nombre": "Arroz Parboil Dos Hermanos",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/arrozParboilDosHermanos500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "Dos Hermanos",
+                "tipo": "Arroz"
+            },
+            {
+                "id": "almacen121",
+                "nombre": "Arroz Largo Fino Dos Hermanos",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/arrozLargoFinoDosHermanos500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "Dos Hermanos",
+                "tipo": "Arroz"
+            },
+            {
+                "id": "almacen122",
+                "nombre": "Arroz Largo Fino Gallo",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/arrozLargoFinoGallo500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "Gallo",
+                "tipo": "Arroz"
+            },
+            {
+                "id": "almacen123",
+                "nombre": "Arroz Largo Fino Marolio",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/arrozLargoFinoMarolio1-min.png",
+                "medida": "1K",
+                "precio": "1300",
+                "marca": "Marolio",
+                "tipo": "Arroz"
+            },
+            {
+                "id": "almacen124",
+                "nombre": "Garbanzos Arcor",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/garbanzosArcor300-min.png",
+                "medida": "300g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Garbanzos"
+            },
+            {
+                "id": "almacen125",
+                "nombre": "Jardinera Arcor",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/jardineraArcor300-min.png",
+                "medida": "300g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Jardinera"
+            },
+            {
+                "id": "almacen126",
+                "nombre": "Arvejas Secas Arcor",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/arvejasSecasArcor300-min.png",
+                "medida": "300g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Arvejas"
+            },
+            {
+                "id": "almacen127",
+                "nombre": "Choclo Cremoso Arcor",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/chocloCremosoArcor300-min.png",
+                "medida": "300g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Choclo"
+            },
+            {
+                "id": "almacen128",
+                "nombre": "Choclo Entero La Campagnola",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/chocloEnteroLaCampagnola300-min.png",
+                "medida": "300g",
+                "precio": "1300",
+                "marca": "La Campagnola",
+                "tipo": "Choclo"
+            },
+            {
+                "id": "almacen129",
+                "nombre": "Atún En Aceite Puglisi",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/atunEnAceitePuglisi120-min.png",
+                "medida": "120g",
+                "precio": "1300",
+                "marca": "Puglisi",
+                "tipo": "Atun"
+            },
+            {
+                "id": "almacen130",
+                "nombre": "Atún Al Natural Puglisi",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/atunAlNaturalPuglisi120-min.png",
+                "medida": "120g",
+                "precio": "1300",
+                "marca": "Puglisi",
+                "tipo": "Atun"
+            },
+            {
+                "id": "almacen131",
+                "nombre": "Pate de Foie Swift",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/pateDeFoieSwift90-min.png",
+                "medida": "90g",
+                "precio": "1300",
+                "marca": "Swift",
+                "tipo": "Pate"
+            },
+            {
+                "id": "almacen132",
+                "nombre": "Picadillo de Carne Swift",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/picadilloDeCarneSwift90-min.png",
+                "medida": "90g",
+                "precio": "1300",
+                "marca": "Swift",
+                "tipo": "Picadillo"
+            },
+            {
+                "id": "almacen133",
+                "nombre": "Palmitos en Trozos Cumaná",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/palmitosEnTrozosCumana236-min.png",
+                "medida": "236g",
+                "precio": "1300",
+                "marca": "Cumaná",
+                "tipo": "Palmitos"
+            },
+            {
+                "id": "almacen134",
+                "nombre": "Polvo para Hornear Velez",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/polvoHornearVelez50-min.png",
+                "medida": "50g",
+                "precio": "1300",
+                "marca": "Velez",
+                "tipo": "Polvo para Hornear"
+            },
+            {
+                "id": "almacen135",
+                "nombre": "Dulce de Leche La Paulina",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/dulceDeLecheLaPaulina400-min.png",
+                "medida": "400g",
+                "precio": "1300",
+                "marca": "La Paulina",
+                "tipo": "Dulce de Leche"
+            },
+            {
+                "id": "almacen136",
+                "nombre": "Dulce de Leche La Serenisima",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/dulceDeLecheLaSerenisima250-min.png",
+                "medida": "250g",
+                "precio": "1300",
+                "marca": "La Serenisima",
+                "tipo": "Dulce de Leche"
+            },
+            {
+                "id": "almacen137",
+                "nombre": "Dulce de L. Repostero La Serenisima",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/dulceDeLecheReposteroLaSerenisima400-min.png",
+                "medida": "400g",
+                "precio": "1300",
+                "marca": "La Serenisima",
+                "tipo": "Dulce de Leche"
+            },
+            {
+                "id": "almacen138",
+                "nombre": "Dulce de Leche Tregar",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/dulceDeLecheTregar200-min.png",
+                "medida": "200g",
+                "precio": "1300",
+                "marca": "Tregar",
+                "tipo": "Dulce de Leche"
+            },
+            {
+                "id": "almacen139",
+                "nombre": "Dulce de Leche Tregar",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/dulceDeLecheTregar400-min.png",
+                "medida": "400g",
+                "precio": "1300",
+                "marca": "Tregar",
+                "tipo": "Dulce de Leche"
+            },
+            {
+                "id": "almacen140",
+                "nombre": "Dulce de Leche Milkaut",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/dulceDeLecheMilkaut245-min.png",
+                "medida": "245g",
+                "precio": "1300",
+                "marca": "Milkaut",
+                "tipo": "Dulce de Leche"
+            },
+            {
+                "id": "almacen141",
+                "nombre": "Dulce de Leche Milkaut",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/dulceDeLecheMilkaut400-min.png",
+                "medida": "400g",
+                "precio": "1300",
+                "marca": "Milkaut",
+                "tipo": "Dulce de Leche"
+            },
+            {
+                "id": "almacen142",
+                "nombre": "Mermelada Ciruela Dulcor",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/dulcorCiruela420-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "Dulcor",
+                "tipo": "Mermeladas"
+            },
+            {
+                "id": "almacen143",
+                "nombre": "Mermelada Naranja Dulcor",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/dulcorNaranja500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "Dulcor",
+                "tipo": "Mermeladas"
+            },
+            {
+                "id": "almacen144",
+                "nombre": "Mermelada Ciruela Arcor",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/mermeladaCiruelaArcor390-min.png",
+                "medida": "390g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Mermeladas"
+            },
+            {
+                "id": "almacen145",
+                "nombre": "Mermelada Naranja Arcor",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/mermeladaNaranjaArcor390-min.png",
+                "medida": "390g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Mermeladas"
+            },
+            {
+                "id": "almacen146",
+                "nombre": "Mermelada Naranja Arcor",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/mermeladaNaranjaArcor454-min.png",
+                "medida": "454g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Mermeladas"
+            },
+            {
+                "id": "almacen147",
+                "nombre": "Mermelada Ciruela Arcor",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/mermeladaCiruelaArcor454-min.png",
+                "medida": "454g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Mermeladas"
+            },
+            {
+                "id": "almacen148",
+                "nombre": "Mermelada Frutilla Arcor",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/mermeladaFrutillaArcor454-min.png",
+                "medida": "454g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Mermeladas"
+            },
+            {
+                "id": "almacen149",
+                "nombre": "Mermelada Durazno Arcor",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/mermeladaDuraznoArcor454-min.png",
+                "medida": "454g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Mermeladas"
+            },
+            {
+                "id": "almacen150",
+                "nombre": "Chocolatada Nesquik",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/chocolatadaNesquik180-min.png",
+                "medida": "180g",
+                "precio": "1300",
+                "marca": "Nesquik",
+                "tipo": "Chocolatada"
+            },
+            {
+                "id": "almacen151",
+                "nombre": "Sabor en Polvo Albahaca y Ajo",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/saborEnPolvoAlicanteAlbahacaYajo7,5-min.png",
+                "medida": "7,5g",
+                "precio": "1300",
+                "marca": "Alicante",
+                "tipo": "Sabor en Polvo"
+            },
+            {
+                "id": "almacen152",
+                "nombre": "Sabor en Polvo Carne",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/saborEnPolvoAlicanteCarne7,5-min.png",
+                "medida": "7,5g",
+                "precio": "1300",
+                "marca": "Alicante",
+                "tipo": "Sabor en Polvo"
+            },
+            {
+                "id": "almacen153",
+                "nombre": "S. en P. Champignones y Hongos",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/saborEnPolvoAlicanteChampignonesyHongos7,5-min.png",
+                "medida": "7,5g",
+                "precio": "1300",
+                "marca": "Alicante",
+                "tipo": "Sabor en Polvo"
+            },
+            {
+                "id": "almacen154",
+                "nombre": "Sabor en Polvo Finas Hierbas",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/saborEnPolvoAlicanteFinasHierbas7,5-min.png",
+                "medida": "7,5g",
+                "precio": "1300",
+                "marca": "Alicante",
+                "tipo": "Sabor en Polvo"
+            },
+            {
+                "id": "almacen155",
+                "nombre": "Sabor en Polvo Verdura",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/saborEnPolvoAlicanteVerdura7,5-min.png",
+                "medida": "7,5g",
+                "precio": "1300",
+                "marca": "Alicante",
+                "tipo": "Sabor en Polvo"
+            },
+            {
+                "id": "almacen156",
+                "nombre": "Bicarbonato de Sodio Dos Anclas",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/bicarbonatoDeSodio25-min.png",
+                "medida": "25g",
+                "precio": "1300",
+                "marca": "Dos Anclas",
+                "tipo": "Bicarbonato de Sodio"
+            },
+            {
+                "id": "almacen157",
+                "nombre": "Fideos para Sopa Letritas Lucchetti",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/lucchettiLetritas500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "Lucchetti",
+                "tipo": "Fideos"
+            },
+            {
+                "id": "almacen158",
+                "nombre": "Fideos para Sopa Dedalitos Lucchetti",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/lucchettiDedalitos500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "Lucchetti",
+                "tipo": "Fideos"
+            },
+            {
+                "id": "almacen159",
+                "nombre": "Fideos Foratini Lucchetti",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/lucchettiForatini500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "Lucchetti",
+                "tipo": "Fideos"
+            },
+            {
+                "id": "almacen160",
+                "nombre": "Fideos Moños Lucchetti",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/lucchettiMoños500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "Lucchetti",
+                "tipo": "Fideos"
+            },
+            {
+                "id": "almacen161",
+                "nombre": "Fideos Mostachol Lucchetti",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/lucchettiMostachol500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "Lucchetti",
+                "tipo": "Fideos"
+            },
+            {
+                "id": "almacen162",
+                "nombre": "Fideos Tirabuzón Lucchetti",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/lucchettiTirabuzon500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "Lucchetti",
+                "tipo": "Fideos"
+            },
+            {
+                "id": "almacen163",
+                "nombre": "Fideos Spaghetti Marolio",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/marolioSpaghetti500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "Marolio",
+                "tipo": "Fideos"
+            },
+            {
+                "id": "almacen164",
+                "nombre": "Fideos Tirabuzón Marolio",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/marolioTirabuzon500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": "Marolio",
+                "tipo": "Fideos"
+            },
+            {
+                "id": "almacen165",
+                "nombre": "Cabello de Ángel San Agustin",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/cabelloDeAngel500-min.png",
+                "medida": "500g",
+                "precio": "1300",
+                "marca": " San Agustin",
+                "tipo": "Fideos"
+            },
+            {
+                "id": "almacen166",
+                "nombre": "Gelatina de Cereza Exquisita",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/gelatinaExquisitaCereza40-min.png",
+                "medida": "40g",
+                "precio": "1300",
+                "marca": "Exquisita",
+                "tipo": "Gelatina"
+            },
+            {
+                "id": "almacen167",
+                "nombre": "Gelatina de Cereza Godet",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/gelatinaGodetCereza25-min.png",
+                "medida": "25g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Gelatina"
+            },
+            {
+                "id": "almacen168",
+                "nombre": "Gelatina de Durazno Godet",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/gelatinaGodetDurazno25-min.png",
+                "medida": "25g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Gelatina"
+            },
+            {
+                "id": "almacen169",
+                "nombre": "Gelatina de Frambuesa Godet",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/gelatinaGodetFrambuesa25-min.png",
+                "medida": "25g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Gelatina"
+            },
+            {
+                "id": "almacen170",
+                "nombre": "Gelatina de Frutilla Godet",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/gelatinaGodetFrutilla25-min.png",
+                "medida": "25g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Gelatina"
+            },
+            {
+                "id": "almacen171",
+                "nombre": "Gelatina de Vainilla Godet",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/gelatinaGodetVainilla25-min.png",
+                "medida": "25g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Gelatina"
+            },
+            {
+                "id": "almacen172",
+                "nombre": "Postre Godet de Chocolate",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/postreGodetChocolate60-min.png",
+                "medida": "60g",
+                "precio": "1300",
+                "marca": "Arcor",
+                "tipo": "Postre"
+            },
+            {
+                "id": "almacen173",
+                "nombre": "Mate Cocido La Tranquera",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/mateCocidoLaTranquera25u-min.png",
+                "medida": "25u",
+                "precio": "1300",
+                "marca": "La Tranquera",
+                "tipo": "Mate Cocido"
+            },
+            {
+                "id": "almacen174",
+                "nombre": "Mate Cocido Nobleza Gaucha",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/mateCocidoNoblezaGaucha50u-min.png",
+                "medida": "50u",
+                "precio": "1300",
+                "marca": "Nobleza Gaucha",
+                "tipo": "Mate Cocido"
+            },
+            {
+                "id": "almacen175",
+                "nombre": "Mate Cocido Velez",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/mateCocidoVelez25u-min.png",
+                "medida": "25u",
+                "precio": "1300",
+                "marca": "Velez",
+                "tipo": "Mate Cocido"
+            },
+            {
+                "id": "almacen176",
+                "nombre": "Saquito de Té de Boldo La Virginia",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/saquitoLaVirginiaBoldo-min.png",
+                "medida": "1u",
+                "precio": "1300",
+                "marca": "La Virginia",
+                "tipo": "Té"
+            },
+            {
+                "id": "almacen177",
+                "nombre": "Saquito de Té de Limón La Virginia",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/saquitoLaVirginiaLimon-min.png",
+                "medida": "1u",
+                "precio": "1300",
+                "marca": "La Virginia",
+                "tipo": "Té"
+            },
+            {
+                "id": "almacen178",
+                "nombre": "Saquito de Té de Manzanilla La Virginia",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/saquitoLaVirginiaManzanilla-min.png",
+                "medida": "1u",
+                "precio": "1300",
+                "marca": "La Virginia",
+                "tipo": "Té"
+            },
+            {
+                "id": "almacen179",
+                "nombre": "Saquito de Té de Tilo La Virginia",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/saquitoLaVirginiaTilo-min.png",
+                "medida": "1u",
+                "precio": "1300",
+                "marca": "La Virginia",
+                "tipo": "Té"
+            },
+            {
+                "id": "almacen180",
+                "nombre": "Té La Virginia",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/teLaVirginia25u-min.png",
+                "medida": "25u",
+                "precio": "1300",
+                "marca": "La Virginia",
+                "tipo": "Té"
+            },
+            {
+                "id": "almacen181",
+                "nombre": "Saquito de Cafe Cappuccino La Virginia",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/saquitoLaVirginiaCappuccino-min.png",
+                "medida": "1u",
+                "precio": "1300",
+                "marca": "La Virginia",
+                "tipo": "Cafe"
+            },
+            {
+                "id": "almacen182",
+                "nombre": "Queso Rallado La Quesera",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/quesoRalladoLaQuesera40-min.png",
+                "medida": "40g",
+                "precio": "1300",
+                "marca": "La Quesera",
+                "tipo": "Queso Rallado"
+            },
+            {
+                "id": "almacen183",
+                "nombre": "Queso Rallado La Serenisima",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/quesoRalladoLaSerenisima35-min.png",
+                "medida": "35g",
+                "precio": "1300",
+                "marca": "La Serenisima",
+                "tipo": "Queso Rallado"
+            },
+            {
+                "id": "almacen184",
+                "nombre": "Caldo de Carne",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/caldoCarne1u-min.png",
+                "medida": "1u",
+                "precio": "1300",
+                "marca": "Knor",
+                "tipo": "Caldos"
+            },
+            {
+                "id": "almacen185",
+                "nombre": "Caldo de Gallina",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/caldoGallina1u-min.png",
+                "medida": "1u",
+                "precio": "1300",
+                "marca": "Knor",
+                "tipo": "Caldos"
+            },
+            {
+                "id": "almacen186",
+                "nombre": "Caldo de Verduras",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/caldoVerduras1u-min.png",
+                "medida": "1u",
+                "precio": "1300",
+                "marca": "Knor",
+                "tipo": "Caldos"
+            },
+            {
+                "id": "almacen187",
+                "nombre": "Sopa Crema de Vegetales Knor",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/sopaCremaVegetalesKnor60-min.png",
+                "medida": "60g",
+                "precio": "1300",
+                "marca": "Knor",
+                "tipo": "Sopa"
+            }
         ],
 
 
@@ -29,7 +1703,7 @@
            {
                 "id": "cervezalata1",
                 "nombre": "Cerveza Amstel lata",
-                "img": "/img/imagenesKiosko/imgKioskoBebidas/lataAmstel473-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidas/lataAmstel473.jpg",
                 "medida": "473cc",
                 "precio": "1300",
                 "marca": "Amstel",
@@ -612,7 +2286,6 @@
                 "tipo": "Cerveza Botella"
             }
         ],
-
 
 
 
@@ -1316,28 +2989,371 @@
 
 
 
-        
         "Cigarrillos y Tabaco":[
             {
-                "id": "cigarrilos1",
-                "nombre": "Malboro",
-                "medida": "10",
-                "precio": "2000"
+                "id": "cigarrillos1",
+                "nombre": "Boxer 20",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/boxer20.png",
+                "medida": "20 un",
+                "precio": "2000",
+                "marca": "Boxer",
+                "tipo": "Cigarrillos"
+            }, 
+            {
+                "id": "cigarrillos2",
+                "nombre": "Chesterfield 12",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/chester12.png",
+                "medida": "12 un",
+                "precio": "2000",
+                "marca": "Chesterfield",
+                "tipo": "Cigarrillos"
             },
             {
-                "id": "cigarrilos2",
-                "nombre": "Malboro",
-                "medida": "20",
-                "precio": "3000"
+                "id": "cigarrillos3",
+                "nombre": "Chesterfield Convertible 12",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/chesterConv12.png",
+                "medida": "12 un",
+                "precio": "2000",
+                "marca": "Chesterfield",
+                "tipo": "Cigarrillos Convertibles"
             },
             {
-                "id": "cigarrilos3",
-                "nombre": "Malboro Crafted Rojo",
-                "medida": "20",
-                "precio": "2200"
+                "id": "cigarrillos4",
+                "nombre": "Chesterfield 20",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/chester20.png",
+                "medida": "20 un",
+                "precio": "2000",
+                "marca": "Chesterfield",
+                "tipo": "Cigarrillos"
+            },
+            {
+                "id": "cigarrillos5",
+                "nombre": "Chesterfield Convertible Box 20",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/chesterConv20.png",
+                "medida": "20 un",
+                "precio": "2000",
+                "marca": "Chesterfield",
+                "tipo": "Cigarrillos Convertibles"
+            },
+            {
+                "id": "cigarrillos6",
+                "nombre": "Chesterfield Convertible Box Uva 20",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/chesterConvUva20.png",
+                "medida": "20 un",
+                "precio": "2000",
+                "marca": "Chesterfield",
+                "tipo": "Cigarrillos Convertibles"
+            },
+            {
+                "id": "cigarrillos7",
+                "nombre": "Dolchester 20",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/dolchester20.png",
+                "medida": "20 un",
+                "precio": "2000",
+                "marca": "Dolchester",
+                "tipo": "Cigarrillos"
+            },
+            {
+                "id": "cigarrillos8",
+                "nombre": "Kiel 20",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/kiel20.png",
+                "medida": "20 un",
+                "precio": "2000",
+                "marca": "Kiel",
+                "tipo": "Cigarrillos"
+            },
+            {
+                "id": "cigarrillos9",
+                "nombre": "Lucky Strike 12",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/lucky12.png",
+                "medida": "12 un",
+                "precio": "2000",
+                "marca": "Lucky Strike",
+                "tipo": "Cigarrillos"
+            },
+            {
+                "id": "cigarrillos10",
+                "nombre": "Lucky Strike Convertible 12",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/luckyConv12.png",
+                "medida": "12 un",
+                "precio": "2000",
+                "marca": "Lucky Strike",
+                "tipo": "Cigarrillos Convertibles"
+            },
+            {
+                "id": "cigarrillos11",
+                "nombre": "Lucky Strike 20",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/lucky20.png",
+                "medida": "20 un",
+                "precio": "2000",
+                "marca": "Lucky Strike",
+                "tipo": "Cigarrillos"
+            },
+            {
+                "id": "cigarrillos12",
+                "nombre": "Lucky Strike Convertible 20",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/luckyConv20.png",
+                "medida": "20 un",
+                "precio": "2000",
+                "marca": "Lucky Strike",
+                "tipo": "Cigarrillos Convertibles"
+            },
+            {
+                "id": "cigarrillos13",
+                "nombre": "Lucky Strike Convertible XL 20",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/luckyConvXL20.png",
+                "medida": "20 un",
+                "precio": "2000",
+                "marca": "Lucky Strike",
+                "tipo": "Cigarrillos Convertibles"
+            },
+            {
+                "id": "cigarrillos14",
+                "nombre": "Malboro 12",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/malboro12.png",
+                "medida": "12 un",
+                "precio": "2000",
+                "marca": "Malboro",
+                "tipo": "Cigarrillos"
+            },
+            {
+                "id": "cigarrillos15",
+                "nombre": "Malboro Convertible 12",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/malboroConv12.png",
+                "medida": "12 un",
+                "precio": "2000",
+                "marca": "Malboro",
+                "tipo": "Cigarrillos Convertibles"
+            },
+            {
+                "id": "cigarrillos16",
+                "nombre": "Malboro 20",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/malboro20.png",
+                "medida": "20 un",
+                "precio": "2000",
+                "marca": "Malboro",
+                "tipo": "Cigarrillos"
+            },
+            {
+                "id": "cigarrillos17",
+                "nombre": "Malboro Box 20",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/malboroBox20.png",
+                "medida": "20 un",
+                "precio": "2000",
+                "marca": "Malboro",
+                "tipo": "Cigarrillos"
+            },
+            {
+                "id": "cigarrillos18",
+                "nombre": "Malboro Crafted Azul 20",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/malboroCraftedAzul20.png",
+                "medida": "20 un",
+                "precio": "2000",
+                "marca": "Malboro",
+                "tipo": "Cigarrillos"
+            },
+            {
+                "id": "cigarrillos19",
+                "nombre": "Malboro Crafted Rojo 20",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/malboroCraftedRojo20.png",
+                "medida": "20 un",
+                "precio": "2000",
+                "marca": "Malboro",
+                "tipo": "Cigarrillos"
+            },
+            {
+                "id": "cigarrillos20",
+                "nombre": "Malboro Convertible Box XL 20",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/malboroConvXL20.png",
+                "medida": "20 un",
+                "precio": "2000",
+                "marca": "Malboro",
+                "tipo": "Cigarrillos Convertibles"
+            },
+            {
+                "id": "cigarrillos21",
+                "nombre": "Master 20",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/master20.png",
+                "medida": "20 un",
+                "precio": "2000",
+                "marca": "Malboro",
+                "tipo": "Cigarrillos"
+            },
+            {
+                "id": "cigarrillo22",
+                "nombre": "Milenio Convertible 20",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/milenioConv20.png",
+                "medida": "20 un",
+                "precio": "2000",
+                "marca": "Malboro",
+                "tipo": "Cigarrillos Convertibles"
+            },
+            {
+                "id": "cigarrillos23",
+                "nombre": "Parliament 20",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/parliament.png",
+                "medida": "20 un",
+                "precio": "2000",
+                "marca": "Parliament",
+                "tipo": "Cigarrillos"
+            },
+            {
+                "id": "cigarrillos24",
+                "nombre": "Philip Morris 12",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/philipMorris12.png",
+                "medida": "12 un",
+                "precio": "2000",
+                "marca": "Philip Morris",
+                "tipo": "Cigarrillos"
+            },
+            {
+                "id": "cigarrillos25",
+                "nombre": "Philip Morris Convertible 12",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/philipMorrisConv12.png",
+                "medida": "12 un",
+                "precio": "2000",
+                "marca": "Philip Morris",
+                "tipo": "Cigarrillos Convertibles"
+            },
+            {
+                "id": "cigarrillos26",
+                "nombre": "Philip Morris 20",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/philipMorris20.png",
+                "medida": "20 un",
+                "precio": "2000",
+                "marca": "Philip Morris",
+                "tipo": "Cigarrillos"
+            },
+            {
+                "id": "cigarrillos27",
+                "nombre": "Philip Morris Convertible 20",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/philipMorrisConv20.png",
+                "medida": "20 un",
+                "precio": "2000",
+                "marca": "Philip Morris",
+                "tipo": "Cigarrillos Convertibles"
+            },
+            {
+                "id": "cigarrillos28",
+                "nombre": "Red Point 20",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/redPoint20.png",
+                "medida": "20 un",
+                "precio": "2000",
+                "marca": "Red Point",
+                "tipo": "Cigarrillos"
+            },
+            {
+                "id": "cigarrillos29",
+                "nombre": "Red Point Convertible 20",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/redPointConv20.png",
+                "medida": "20 un",
+                "precio": "2000",
+                "marca": "Red Point",
+                "tipo": "Cigarrillos Convertibles"
+            },
+            {
+                "id": "bluntwrap1",
+                "nombre": "Blunt Wrap Berries",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/bluntWrapBerries.png",
+                "medida": "2 un",
+                "precio": "2000",
+                "marca": "Blunt Wrap",
+                "tipo": "Blunt"
+            },
+            {
+                "id": "bluntwrap2",
+                "nombre": "Blunt Wrap Chocolate",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/bluntWrapChocolate.png",
+                "medida": "2 un",
+                "precio": "2000",
+                "marca": "Blunt Wrap",
+                "tipo": "Blunt"
+            },
+            {
+                "id": "bluntwrap3",
+                "nombre": "Blunt Wrap Mango",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/bluntWrapMango.png",
+                "medida": "2 un",
+                "precio": "2000",
+                "marca": "Blunt Wrap",
+                "tipo": "Blunt"
+            },
+            {
+                "id": "bluntwrap4",
+                "nombre": "Blunt Wrap White Grape",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/bluntWrapWhiteGrape.png",
+                "medida": "2 un",
+                "precio": "2000",
+                "marca": "Blunt Wrap",
+                "tipo": "Blunt"
+            },
+            {
+                "id": "filtros1",
+                "nombre": "6mm Slim Filters",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/6mmSlimFilters.png",
+                "medida": "120+30 un",
+                "precio": "2000",
+                "marca": "Gizeh",
+                "tipo": "Filtros"
+            },
+            {
+                "id": "seda1",
+                "nombre": "Seda 1 1/4",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/sedaObc.png",
+                "medida": "25",
+                "precio": "2000",
+                "marca": "OBC",
+                "tipo": "Seda"
+            },
+            {
+                "id": "tabaco1",
+                "nombre": "Tabaco Cuatro Leguas",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/tabacoCuatroLeguas.png",
+                "medida": "20 un",
+                "precio": "2000",
+                "marca": "Cuatro Leguas",
+                "tipo": "Tabaco"
+            },
+            {
+                "id": "tabaco2",
+                "nombre": "Tabaco Las Hojas",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/tabacoLasHojas.png",
+                "medida": "20 un",
+                "precio": "2000",
+                "marca": "Las Hojas",
+                "tipo": "Tabaco"
+            },
+            {
+                "id": "tabaco3",
+                "nombre": "Tabaco Sayri",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/tabacoSayri.png",
+                "medida": "20 un",
+                "precio": "2000",
+                "marca": "Sayri",
+                "tipo": "Tabaco"
+            },
+            {
+                "id": "tabaco4",
+                "nombre": "Tabaco Van Haasen",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/tabacoVanHaasen.png",
+                "medida": "20 un",
+                "precio": "2000",
+                "marca": "Van Haasen",
+                "tipo": "Tabaco"
             }
+            
+          
+
+
+
+
+
+
         ],
 
+
+
+        
         "Fiambres y Embutidos":[
             {
                 "id": "fiambres1",
@@ -1359,26 +3375,1097 @@
             } 
         ],
 
-        "Golosinas y Chocolates":[
+
+
+
+
+        "Alfajores, Chocolates y Golosinas":[
+            {
+                "id": "alfajores1",
+                "nombre": "Aguila Chocolate",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/aguilaChocolate50-min.png",
+                "medida": "50g",
+                "precio": "1100",
+                "marca": "Aguila",
+                "tipo": "Alfajores"
+            },
+            {
+                "id": "alfajores2",
+                "nombre": "Aguila Minitorta Blanco",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/aguilaMinitortaBlanco69-min.png",
+                "medida": "69g",
+                "precio": "1100",
+                "marca": "Aguila",
+                "tipo": "Alfajores"
+            },
+            {
+                "id": "alfajores3",
+                "nombre": "Aguila Minitorta Brownie",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/aguilaMinitortaBrownie71,5-min.png",
+                "medida": "71,5g",
+                "precio": "1100",
+                "marca": "Aguila",
+                "tipo": "Alfajores"
+            },
+            {
+                "id": "alfajores4",
+                "nombre": "Aguila Minitorta Clasica",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/aguilaMinitortaClasica69-min.png",
+                "medida": "69g",
+                "precio": "1100",
+                "marca": "Aguila",
+                "tipo": "Alfajores"
+            },     
+            {
+                "id": "alfajores5",
+                "nombre": "Aguila Minitorta Coco",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/aguilaMinitortaCoco70,5-min.png",
+                "medida": "70,5g",
+                "precio": "1100",
+                "marca": "Aguila",
+                "tipo": "Alfajores"
+            },
+            {
+                "id": "chocolate1",
+                "nombre": "Chocolate Arcor Blanco",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/arcorBlanco25-min.png",
+                "medida": "25g",
+                "precio": "1100",
+                "marca": "Arcor",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "chocolate2",
+                "nombre": "Chocolate Chocolate con Leche",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/arcorConLeche25-min.png",
+                "medida": "25g",
+                "precio": "1100",
+                "marca": "Arcor",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "chocolate3",
+                "nombre": "Chocolatin Arcor",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/arcorChocolatinLeche8-min.png",
+                "medida": "8g",
+                "precio": "1100",
+                "marca": "Arcor",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "chocolate4",
+                "nombre": "Chocolate Arcor Milk",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/arcorMilk12-min.png",
+                "medida": "12g",
+                "precio": "1100",
+                "marca": "Arcor",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "alfajores6",
+                "nombre": "Bon o Bon Blanco",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/bonobonBlanco40-min.png",
+                "medida": "40g",
+                "precio": "1100",
+                "marca": "Bon o Bon",
+                "tipo": "Alfajores"
+            },
+            {
+                "id": "alfajores7",
+                "nombre": "Bon o Bon Triple",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/bonobonNegroTriple60-min.png",
+                "medida": "60g",
+                "precio": "1100",
+                "marca": "Bon o Bon",
+                "tipo": "Alfajores"
+            },
+            {
+                "id": "chocolate5",
+                "nombre": "Bon o Bon",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/bonobon15-min.png",
+                "medida": "15g",
+                "precio": "1100",
+                "marca": "Arcor",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "chocolate6",
+                "nombre": "Bon o Bon Blanco",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/bonobonBlanco15-min.png",
+                "medida": "15g",
+                "precio": "1100",
+                "marca": "Arcor",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "chocolate7",
+                "nombre": "Bon o Bon",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/bonobon30-min.png",
+                "medida": "30g",
+                "precio": "1100",
+                "marca": "Arcor",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "chocolate8",
+                "nombre": "Bon o Bon Blanco",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/bonobonBlanco30-min.png",
+                "medida": "30g",
+                "precio": "1100",
+                "marca": "Arcor",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "chocolate9",
+                "nombre": "Bon o Bon XL",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/bonobonXL45-min.png",
+                "medida": "45g",
+                "precio": "1100",
+                "marca": "Arcor",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "alfajores8",
+                "nombre": "ByN Blanco Triple",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/ByNBlancoTriple73,5-min.png",
+                "medida": "73,5g",
+                "precio": "1100",
+                "marca": "ByN",
+                "tipo": "Alfajores"
+            },  
+            {
+                "id": "alfajores9",
+                "nombre": "ByN Negro Triple",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/ByNNegroTriple73,5-min.png",
+                "medida": "73,5g",
+                "precio": "1100",
+                "marca": "ByN",
+                "tipo": "Alfajores"
+            },
+            {
+                "id": "alfajores10",
+                "nombre": "Cofler Block",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/coflerBlock40,7-min.png",
+                "medida": "40,7g",
+                "precio": "1100",
+                "marca": "Cofler",
+                "tipo": "Alfajores"
+            },
+            {
+                "id": "alfajores11",
+                "nombre": "Cofler Choco-Cookies",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/coflerChoco-Cookies105,6-min.png",
+                "medida": "105,6g",
+                "precio": "1100",
+                "marca": "Cofler",
+                "tipo": "Alfajores"
+            },
+            {
+                "id": "alfajores12",
+                "nombre": "Cofler Choco-Cookies",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/coflerChoco-CookiesBoB105,6-min.png",
+                "medida": "105,6g",
+                "precio": "1100",
+                "marca": "Cofler",
+                "tipo": "Alfajores"
+            },
+            {
+                "id": "alfajores13",
+                "nombre": "Cofler Mousse",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/coflerMousse40-min.png",
+                "medida": "40g",
+                "precio": "1100",
+                "marca": "Cofler",
+                "tipo": "Alfajores"
+            },
+            {
+                "id": "chocolate10",
+                "nombre": "Cofler Air Blanco",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/coflerAirBlanco27-min.png",
+                "medida": "27g",
+                "precio": "1100",
+                "marca": "Cofler",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "chocolate11",
+                "nombre": "Cofler Air Blanco",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/coflerAirBlanco55-min.png",
+                "medida": "55g",
+                "precio": "1100",
+                "marca": "Cofler",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "chocolate12",
+                "nombre": "Cofler Air Leche",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/coflerAirLeche27-min.png",
+                "medida": "27g",
+                "precio": "1100",
+                "marca": "Cofler",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "chocolate13",
+                "nombre": "Cofler Air Leche",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/coflerAirLeche55-min.png",
+                "medida": "55g",
+                "precio": "1100",
+                "marca": "Cofler",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "chocolate14",
+                "nombre": "Cofler Air Mixto",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/coflerAirMixto27-min.png",
+                "medida": "27g",
+                "precio": "1100",
+                "marca": "Cofler",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "chocolate15",
+                "nombre": "Cofler Air Mixto",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/coflerAirMixto55-min.png",
+                "medida": "55g",
+                "precio": "1100",
+                "marca": "Cofler",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "chocolate16",
+                "nombre": "Cofler con Almendras",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/coflerAlmendras55-min.png",
+                "medida": "55g",
+                "precio": "1100",
+                "marca": "Cofler",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "chocolate17",
+                "nombre": "Cofler Blanco con Chocolinas",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/coflerBlancoChocolinas55-min.png",
+                "medida": "55g",
+                "precio": "1100",
+                "marca": "Cofler",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "chocolate18",
+                "nombre": "Cofler Block",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/coflerBlock38-min.png",
+                "medida": "38g",
+                "precio": "1100",
+                "marca": "Cofler",
+                "tipo": "Chocolates"
+            },
+            {
+                "id" : "chocolate35",
+                "nombre": "Cofler Block Blanco",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/coflerBlockBlanco38-min.png",
+                "medida": "38g",
+                "precio": "1100",
+                "marca": "Cofler",
+                "tipo": "Chocolates"
+                },
+            {
+                "id": "chocolate19",
+                "nombre": "Cofler Block",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/coflerBlock110-min.png",
+                "medida": "110g",
+                "precio": "1100",
+                "marca": "Cofler",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "chocolate20",
+                "nombre": "Cofler Chocolate con Leche",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/coflerChocolateConLeche55-min.png",
+                "medida": "55g",
+                "precio": "1100",
+                "marca": "Cofler",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "chocolate21",
+                "nombre": "Cofler Graffiti Blanco",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/coflerGraffitiBlanco45-min.png",
+                "medida": "45g",
+                "precio": "1100",
+                "marca": "Cofler",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "chocolate22",
+                "nombre": "Cofler Graffiti Negro",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/coflerGraffitiNegro45-min.png",
+                "medida": "45g",
+                "precio": "1100",
+                "marca": "Cofler",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "chocolate23",
+                "nombre": "Cofler con Rocklets",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/coflerRocklets55-min.png",
+                "medida": "55g",
+                "precio": "1100",
+                "marca": "Cofler",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "chocolate24",
+                "nombre": "Cofler Tres Placeres",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/cofler3Placeres55-min.png",
+                "medida": "55g",
+                "precio": "1100",
+                "marca": "Cofler",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "alfajores14",
+                "nombre": "Fantoche Blanco Triple",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/fantocheBlancoTriple85-min.png",
+                "medida": "85g",
+                "precio": "1100",
+                "marca": "Fantoche",
+                "tipo": "Alfajores"
+            },
+            {
+                "id": "alfajores15",
+                "nombre": "Fantoche Negro Triple",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/fantocheChocolateTriple85-min.png",
+                "medida": "85g",
+                "precio": "1100",
+                "marca": "Fantoche",
+                "tipo": "Alfajores"
+            },
+            {
+                "id": "alfajores16",
+                "nombre": "Fulbito Negro",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/fulbitoChocolate30-min.png",
+                "medida": "30g",
+                "precio": "1100",
+                "marca": "Fulbito",
+                "tipo": "Alfajores"
+            },
+            {
+                "id": "alfajores17",
+                "nombre": "Genio Dulce de Leche Triple",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/genioDulceDeLecheTriple60-min.png",
+                "medida": "60g",
+                "precio": "1100",
+                "marca": "Genio",
+                "tipo": "Alfajores"
+            },
+            {
+                "id": "chocolate25",
+                "nombre": "Hamlet Bicolor",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/hamletBicolor42-min.png",
+                "medida": "42g",
+                "precio": "1100",
+                "marca": "Hamlet",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "chocolate26",
+                "nombre": "Hamlet Blanco y Cookies",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/hamletBlanco-Cookies46-min.png",
+                "medida": "46g",
+                "precio": "1100",
+                "marca": "Hamlet",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "chocolate27",
+                "nombre": "Hamlet Leche y Cookies",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/hamletLeche-Cookies43-min.png",
+                "medida": "43g",
+                "precio": "1100",
+                "marca": "Hamlet",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "chocolate28",
+                "nombre": "Kinder Huevo",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/kinderHuevo20-min.png",
+                "medida": "20g",
+                "precio": "1100",
+                "marca": "Kinder",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "chocolate29",
+                "nombre": "PicNic",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/picnic38-min.png",
+                "medida": "38g",
+                "precio": "1100",
+                "marca": "PicNic",
+                "tipo": "Chocolates"
+            },
+            {
+                "id" : "alfajores28",
+                "nombre": "Milka Dulce de Leche Triple",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/milkaDulceDeLeche70-min.png",
+                "medida": "70g",
+                "precio": "1100",
+                "marca": "Milka",
+                "tipo": "Alfajores"
+            },
+            {
+                "id" : "alfajores29",
+                "nombre": "Milka Mousse Triple",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/milkaMousse55-min.png",
+                "medida": "55g",
+                "precio": "1100",
+                "marca": "Milka",
+                "tipo": "Alfajores"
+            },
+            {
+                "id" : "alfajores30",
+                "nombre": "Milka Mousse Blanco Triple",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/milkaMousseBlanco55-min.png",
+                "medida": "55g",
+                "precio": "1100",
+                "marca": "Milka",
+                "tipo": "Alfajores"
+            },  
+            {     
+            "id" : "alfajores31",
+            "nombre": "Milka Oreo Triple",
+            "img": "/img/imagenesKiosko/imgKioskoAlfajores/milkaOreo61-min.png",
+            "medida": "61g",
+            "precio": "1100",
+            "marca": "Milka",
+            "tipo": "Alfajores"
+            }, 
+            {
+                "id" : "chocolate36",
+                "nombre": "Tableta Milka Almendras",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/tabletaMilkaAlmendras55-min.png",
+                "medida": "55g",
+                "precio": "1100",
+                "marca": "Milka",
+                "tipo": "Chocolates"
+                },
+                {
+                "id" : "chocolate37",
+                "nombre": "Tableta Milka Blanco",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/tabletaMilkaBlanco55-min.png",
+                "medida": "55g",
+                "precio": "1100",
+                "marca": "Milka",
+                "tipo": "Chocolates"
+                },
+                {
+                "id" : "chocolate38",
+                "nombre": "Tableta Milka Leche",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/tabletaMilkaLeche55-min.png",
+                "medida": "55g",
+                "precio": "1100",
+                "marca": "Milka",
+                "tipo": "Chocolates"
+                },
+                {
+                "id" : "chocolate39",
+                "nombre": "Tableta Milka Oreo",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/tabletaMilkaOreo-min.png",
+                "medida": "55g",
+                "precio": "1100",
+                "marca": "Milka",
+                "tipo": "Chocolates"
+                },
+            {
+            "id" : "alfajores26",
+            "nombre": "Oreo Triple",
+            "img": "/img/imagenesKiosko/imgKioskoAlfajores/oreo56-min.png",
+            "medida": "56g",
+            "precio": "1100",
+            "marca": "Oreo",
+            "tipo": "Alfajores"
+            },
+            {
+                "id" : "alfajores27",
+                "nombre": "Pepitos Triple",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/pepitos57-min.png",
+                "medida": "57g",
+                "precio": "1100",
+                "marca": "Pepitos",
+                "tipo": "Alfajores"
+                }
+            ,
+            {
+                "id": "alfajores18",
+                "nombre": "Rasta Negro",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/rastaNegro70-min.png",
+                "medida": "70g",
+                "precio": "1100",
+                "marca": "Rasta",
+                "tipo": "Alfajores"
+            },
+            {
+                "id": "chocolate30",
+                "nombre": "Rhodesia",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/rhodesia22-min.png",
+                "medida": "22g",
+                "precio": "1100",
+                "marca": "Rhodesia",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "chocolate31",
+                "nombre": "Rocklets",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/rocklets20-min.png",
+                "medida": "20g",
+                "precio": "1100",
+                "marca": "Rocklets",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "chocolate32",
+                "nombre": "Rocklets",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/rocklets40-min.png",
+                "medida": "40g",
+                "precio": "1100",
+                "marca": "Rocklets",
+                "tipo": "Chocolates"
+            },
+            {
+                "id": "alfajores19",
+                "nombre": "Tatin Blanco",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/tatinBlanco33-min.png",
+                "medida": "33g",
+                "precio": "1100",
+                "marca": "Tatin",
+                "tipo": "Alfajores"
+            },
+            {
+                "id": "alfajores20",
+                "nombre": "Tatin Negro",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/tatinNegro33-min.png",
+                "medida": "33g",
+                "precio": "1100",
+                "marca": "Tatin",
+                "tipo": "Alfajores"
+            },
+            {
+                "id": "alfajores21",
+                "nombre": "Tatin Blanco Triple",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/tatinBlancoTriple60-min.png",
+                "medida": "60g",
+                "precio": "1100",
+                "marca": "Tatin",
+                "tipo": "Alfajores"
+            },
+            {
+                "id": "alfajores22",
+                "nombre": "Tatin Negro Triple",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/tatinNegroTriple60-min.png",
+                "medida": "60g",
+                "precio": "1100",
+                "marca": "Tatin",
+                "tipo": "Alfajores"
+            },
+            {
+                "id" : "alfajores33",
+                "nombre": "Terrabusi Dulce de Leche Triple",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/terrabusiDulceDeLeche70-min.png",
+                "medida": "70g",
+                "precio": "1100",
+                "marca": "Terrabusi",
+                "tipo": "Alfajores"
+            },
+            {
+                "id" : "alfajores34",
+                "nombre": "Terrabusi Torta Triple",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/terrabusiTorta70-min.png",
+                "medida": "70g",
+                "precio": "1100",
+                "marca": "Terrabusi",
+                "tipo": "Alfajores"
+            },
+            {
+                "id": "alfajores23",
+                "nombre": "Tofi Blanco Triple",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/tofiBlancoTriple73-min.png",
+                "medida": "73g",
+                "precio": "1100",
+                "marca": "Tofi",
+                "tipo": "Alfajores"
+            },     
+            {
+                "id": "alfajores24",
+                "nombre": "Tofi Negro Triple",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/tofiNegroTriple73-min.png",
+                "medida": "73g",
+                "precio": "1100",
+                "marca": "Tofi",
+                "tipo": "Alfajores"
+            },
+            {
+                "id": "chocolate33",
+                "nombre": "Tofi",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/Tofi28-min.png",
+                "medida": "28g",
+                "precio": "1100",
+                "marca": "Tofi",
+                "tipo": "Chocolates"
+            },
+            {
+                "id" : "alfajores32",
+                "nombre": "Tri Shot",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/triShot60-min.png",
+                "medida": "60g",
+                "precio": "1100",
+                "marca": "Tri Shot",
+                "tipo": "Alfajores"
+            },
+            {
+                "id": "alfajores25",
+                "nombre": "4:8 Alfajor de Arroz y Dulce de Leche",
+                "img": "/img/imagenesKiosko/imgKioskoAlfajores/arrozDulceDeLeche24-min.png",
+                "medida": "24g",
+                "precio": "1100",
+                "marca": "4:8",
+                "tipo": "Alfajores"
+            },
+            {
+                "id": "chocolate34",
+                "nombre": "El Kiosko en Casa",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/kioskoEnCasa246-min.png",
+                "medida": "246g",
+                "precio": "1100",
+                "marca": "Arcor",
+                "tipo": "Chocolates"
+            },
             {
                 "id": "golosinas1",
-                "nombre": "Alfajor Cofler",
-                "medida": "80gr",
-                "precio": "1100"
+                "nombre": "Pops Cereza",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/popCereza-min.png",
+                "medida": "1un",
+                "precio": "1100",
+                "marca": "Pops",
+                "tipo": "Chupetines"
             },
             {
                 "id": "golosinas2",
-                "nombre": "Alfajor Tatin Blanco",
-                "medida": "55gr",
-                "precio": "700"
+                "nombre": "Pops Manzana",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/popManzana-min.png",
+                "medida": "1un",
+                "precio": "1100",
+                "marca": "Pops",
+                "tipo": "Chupetines"
             },
             {
                 "id": "golosinas3",
-                "nombre": "Mogul",
-                "medida": "125gr",
-                "precio": "1300"
-            } 
+                "nombre": "Pops Naranja",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/popNaranja-min.png",
+                "medida": "1un",
+                "precio": "1100",
+                "marca": "Pops",
+                "tipo": "Chupetines"
+            },
+            {
+                "id": "golosinas4",
+                "nombre": "Pops Evolution Blue Berry",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/popEvolutionBlueberry-min.png",
+                "medida": "1un",
+                "precio": "1100",
+                "marca": "Pops",
+                "tipo": "Chupetines"
+            },
+            {
+                "id": "golosinas5",
+                "nombre": "Pops Evolution Cereza",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/popEvolutionCereza-min.png",
+                "medida": "1un",
+                "precio": "1100",
+                "marca": "Pops",
+                "tipo": "Chupetines"
+            },
+            {
+                "id": "golosinas6",
+                "nombre": "Flyn Paff",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/flynPaff-min.png",
+                "medida": "1un",
+                "precio": "1100",
+                "marca": "Flyn Paff",
+                "tipo": "Caramelos"
+            },
+            {
+                "id": "golosinas7",
+                "nombre": "Gomitas en bolsa",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/bolsaGomitas-min.png",
+                "medida": "",
+                "precio": "1100",
+                "marca": "Mogul",
+                "tipo": "Gomitas"
+            },
+            {
+                "id": "golosinas8",
+                "nombre": "Gomitas en bolsa (conitos)",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/bolsaGomitasTriangulitos-min.png",
+                "medida": "",
+                "precio": "1100",
+                "marca": "Mogul",
+                "tipo": "Gomitas"
+            },
+            {
+                "id": "golosinas9",
+                "nombre": "Mogul Cerebritos Rellenos",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/mogulCerebritosRellenos30-min.png",
+                "medida": "30g",
+                "precio": "1100",
+                "marca": "Mogul",
+                "tipo": "Gomitas"
+            },
+            {
+                "id": "golosinas10",
+                "nombre": "Mogul Extreme",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/mogulExtremeAcidoDulce8u-min.png",
+                "medida": "8un",
+                "precio": "1100",
+                "marca": "Mogul",
+                "tipo": "Gomitas"
+            },
+            {
+                "id": "golosinas11",
+                "nombre": "Mogul Extreme Ladrillos Frutilla",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/mogulExtremeLadrillosFrutilla50-min.png",
+                "medida": "50g",
+                "precio": "1100",
+                "marca": "Mogul",
+                "tipo": "Gomitas"
+            },
+            {
+                "id": "golosinas12",
+                "nombre": "Mogul Extreme Osos",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/mogulExtremeOso50-min.png",
+                "medida": "50g",
+                "precio": "1100",
+                "marca": "Mogul",
+                "tipo": "Gomitas"
+            },
+            {
+                "id": "golosinas13",
+                "nombre": "Mogul Extreme Rocks",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/mogulExtremeRocks45-min.png",
+                "medida": "45g",
+                "precio": "1100",
+                "marca": "Mogul",
+                "tipo": "Gomitas"
+            },
+            {
+                "id": "golosinas14",
+                "nombre": "Mogul Extreme Sandia",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/mogulExtremeSandia50-min.png",
+                "medida": "50g",
+                "precio": "1100",
+                "marca": "Mogul",
+                "tipo": "Gomitas"
+            },
+            {
+                "id": "golosinas15",
+                "nombre": "Mogul Extreme Tubitos Frutilla",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/mogulExtremeTubitosFrutilla20-min.png",
+                "medida": "20g",
+                "precio": "1100",
+                "marca": "Mogul",
+                "tipo": "Gomitas"
+            },
+            {
+                "id": "golosinas16",
+                "nombre": "Mogul Extreme Tubitos Frutilla",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/mogulExtremeTubitosFrutilla70-min.png",
+                "medida": "70g",
+                "precio": "1100",
+                "marca": "Mogul",
+                "tipo": "Gomitas"
+            },
+            {
+                "id": "golosinas17",
+                "nombre": "Mogul Extreme Tubitos Tutti Frutti",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/mogulExtremeTubitosTuttiFrutti70-min.png",
+                "medida": "70g",
+                "precio": "1100",
+                "marca": "Mogul",
+                "tipo": "Gomitas"
+            },
+            {
+                "id": "golosinas18",
+                "nombre": "Mogul Frutales",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/mogulFrutales-min.png",
+                "medida": "8un",
+                "precio": "1100",
+                "marca": "Mogul",
+                "tipo": "Gomitas"
+            },
+            {
+                "id": "golosinas19",
+                "nombre": "Mogul Ositos",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/mogulOsitos30-min.png",
+                "medida": "30g",
+                "precio": "1100",
+                "marca": "Mogul",
+                "tipo": "Gomitas"
+            },
+            {
+                "id": "golosinas20",
+                "nombre": "Mogul Tiburoncitos",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/mogulTiburoncitos30-min.png",
+                "medida": "30g",
+                "precio": "1100",
+                "marca": "Mogul",
+                "tipo": "Gomitas"
+            },
+            {
+                "id": "golosinas21",
+                "nombre": "Menthoplus Frio Cafe Latte",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/menthoplusFrioCafeLatte8u-min.png",
+                "medida": "8u",
+                "precio": "1100",
+                "marca": "Menthoplus",
+                "tipo": "Caramelos"
+            },
+            {
+                "id": "golosinas22",
+                "nombre": "Menthoplus Frio Cherry",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/menthoplusFrioCherry8u-min.png",
+                "medida": "8u",
+                "precio": "1100",
+                "marca": "Menthoplus",
+                "tipo": "Caramelos"
+            },
+            {
+                "id": "golosinas23",
+                "nombre": "Menthoplus Frio Manzana",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/menthoplusFrioManzana8u-min.png",
+                "medida": "8u",
+                "precio": "1100",
+                "marca": "Menthoplus",
+                "tipo": "Caramelos"
+            },
+            {
+                "id": "golosinas24",
+                "nombre": "Menthoplus Mentol",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/menthoplusMentol9u-min.png",
+                "medida": "9u",
+                "precio": "1100",
+                "marca": "Menthoplus",
+                "tipo": "Caramelos"
+            },
+            {
+                "id": "golosinas25",
+                "nombre": "Menthoplus Mentol Cereza",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/menthoplusMentolCereza9u-min.png",
+                "medida": "9u",
+                "precio": "1100",
+                "marca": "Menthoplus",
+                "tipo": "Caramelos"
+            },
+            {
+                "id": "golosinas26",
+                "nombre": "Menthoplus Mentol Miel",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/menthoplusMentolMiel9u-min.png",
+                "medida": "9u",
+                "precio": "1100",
+                "marca": "Menthoplus",
+                "tipo": "Caramelos"
+            },
+            {
+                "id": "golosinas27",
+                "nombre": "Menthoplus Mentol Strong",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/menthoplusMentolStrong9u-min.png",
+                "medida": "9u",
+                "precio": "1100",
+                "marca": "Menthoplus",
+                "tipo": "Caramelos"
+            },
+            {
+                "id": "golosinas28",
+                "nombre": "Menthoplus Mentol Zero",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/menthoplusZeroMentol7u-min.png",
+                "medida": "7u",
+                "precio": "1100",
+                "marca": "Menthoplus",
+                "tipo": "Caramelos"
+            },
+            {
+                "id": "golosinas29",
+                "nombre": "Topline Fruta",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/toplineFruta4u-min.png",
+                "medida": "4u",
+                "precio": "1100",
+                "marca": "Topline",
+                "tipo": "Chicles"
+            },
+            {
+                "id": "golosinas30",
+                "nombre": "Topline Menta",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/toplineMenta4u-min.png",
+                "medida": "4u",
+                "precio": "1100",
+                "marca": "Topline",
+                "tipo": "Chicles"
+            },
+            {
+                "id": "golosinas31",
+                "nombre": "Topline Menta Fresca",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/toplineMentaFresca4u-min.png",
+                "medida": "4u",
+                "precio": "1100",
+                "marca": "Topline",
+                "tipo": "Chicles"
+            },
+            {
+                "id": "golosinas32",
+                "nombre": "Topline Sandia",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/toplineSandia4u-min.png",
+                "medida": "4u",
+                "precio": "1100",
+                "marca": "Topline",
+                "tipo": "Chicles"
+            },
+            {
+                "id": "golosinas33",
+                "nombre": "Topline Seven Atomic Strong",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/toplineSevenAtomicStrong-min.png",
+                "medida": "7un",
+                "precio": "1100",
+                "marca": "Topline",
+                "tipo": "Chicles"
+            },
+            {
+                "id": "golosinas34",
+                "nombre": "Topline Seven Sandia Mania",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/toplineSevenSandiaMania-min.png",
+                "medida": "7un",
+                "precio": "1100",
+                "marca": "Topline",
+                "tipo": "Chicles"
+            },
+            {
+                "id": "golosinas35",
+                "nombre": "Topline Seven Vibrant Strawberry",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/toplineSevenVibrantStrawberry-min.png",
+                "medida": "7un",
+                "precio": "1100",
+                "marca": "Topline",
+                "tipo": "Chicles"
+            },
+            {
+                "id": "golosinas36",
+                "nombre": "Yipi",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/yipi30-min.png",
+                "medida": "30g",
+                "precio": "1100",
+                "marca": "Yipi",
+                "tipo": "Caramelos"
+            },
+            {
+                "id": "golosinas37",
+                "nombre": "Baby Doll",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/babydoll4u-min.png",
+                "medida": "4un",
+                "precio": "1100",
+                "marca": "Baby Doll",
+                "tipo": "Chupetines"
+            },
+            {
+                "id": "golosinas38",
+                "nombre": "Tic Tac Frutilla",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/ticTacFrutilla16-min.png",
+                "medida": "16g",
+                "precio": "1100",
+                "marca": "Tic Tac",
+                "tipo": "Caramelos"
+            },
+            {
+                "id": "golosinas39",
+                "nombre": "Tic Tac Mix de Frutas",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/ticTacMixDeFrutas16-min.png",
+                "medida": "16g",
+                "precio": "1100",
+                "marca": "Tic Tac",
+                "tipo": "Caramelos"
+            },
+            {
+                "id": "golosinas40",
+                "nombre": "Tic Tac Naranja",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/ticTacNaranja16-min.png",
+                "medida": "16g",
+                "precio": "1100",
+                "marca": "Tic Tac",
+                "tipo": "Caramelos"
+            },
+            {
+                "id": "golosinas41",
+                "nombre": "Pico Dulce",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/picoDulce-min.png",
+                "medida": "1un",
+                "precio": "1100",
+                "marca": "Pico Dulce",
+                "tipo": "Chupetines"
+            },
+            {
+                "id": "golosinas42",
+                "nombre": "Topline Strong",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/toplineStrong-min.png",
+                "medida": "4u",
+                "precio": "1100",
+                "marca": "Topline",
+                "tipo": "Chicles"
+            },
+            {
+                "id": "golosinas43",
+                "nombre": "Topline Seven Blowing Mandarine",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/toplineSevenBlowingMandarine-min.png",
+                "medida": "7u",
+                "precio": "1100",
+                "marca": "Topline",
+                "tipo": "Chicles"
+            },
+            {
+                "id": "golosinas44",
+                "nombre": "Topline Seven Buuble Fun",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/toplineSevenBubbleFun-min.png",
+                "medida": "7u",
+                "precio": "1100",
+                "marca": "Topline",
+                "tipo": "Chicles"
+            },
+            {
+                "id": "golosinas45",
+                "nombre": "Topline Seven Freezing Menthol",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/toplineSevenFreezingMenthol-min.png",
+                "medida": "7u",
+                "precio": "1100",
+                "marca": "Topline",
+                "tipo": "Chicles"
+            },
+            {
+                "id": "golosinas46",
+                "nombre": "Topline Seven Violet Cherry",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/toplineSevenVioletCherry-min.png",
+                "medida": "7u",
+                "precio": "1100",
+                "marca": "Topline",
+                "tipo": "Chicles"
+            },
+            {
+                "id": "golosinas47",
+                "nombre": "Topline Seven X-Plosive Mist",
+                "img": "/img/imagenesKiosko/imgKioskoGolosinas/toplineSevenX-PlosiveMist-min.png",
+                "medida": "7u",
+                "precio": "1100",
+                "marca": "Topline",
+                "tipo": "Chicles"
+            }
         ],
+
+
+
+
         
         "Hielos y Congelados":[
             {
@@ -1444,24 +4531,231 @@
         ],
 
         "Limpieza": [
-             {
+            {
                 "id": "limpieza1",
-                "nombre": "Esponja",
-                "medida": "1",
-                "precio": "650"
-            },
-            {
+                "nombre": "Detergente Esencial Rosa Mosqueta",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/detergenteEsencialRosaMosqueta750-min.png",
+                "medida": "750cc",
+                "precio": "1300",
+                "marca": "Esencial",
+                "tipo": "Detergente"
+            },{
                 "id": "limpieza2",
-                "nombre": "Virulana",
-                "medida": "1",
-                "precio": "900"
-            },
-            {
+                "nombre": "Detergente Esencial Limón",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/detergenteEsencialLimon750-min.png",
+                "medida": "750cc",
+                "precio": "1300",
+                "marca": "Esencial",
+                "tipo": "Detergente"
+            },{
                 "id": "limpieza3",
-                "nombre": "Detergente",
+                "nombre": "Detergente Magistral",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/detergenteMagistral215-min.png",
+                "medida": "215cc",
+                "precio": "1300",
+                "marca": "Magistral",
+                "tipo": "Detergente"
+            },{
+                "id": "limpieza4",
+                "nombre": "Lavavajillas Ala Cremoso",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/lavavajillasAlaCremoso750-min.png",
+                "medida": "750cc",
+                "precio": "1300",
+                "marca": "Ala",
+                "tipo": "Lavavajillas"
+            },{
+                "id": "limpieza5",
+                "nombre": "Desodorante para piso Dulzura de Bebe",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/esencialDulzuraDeBebe900-min.png",
+                "medida": "900cc",
+                "precio": "1300",
+                "marca": "Esencial",
+                "tipo": "Desodorante Para Piso"
+            },{
+                "id": "limpieza6",
+                "nombre": "Desodorante para piso Lavanda Natural",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/esencialLavandaNatural900-min.png",
+                "medida": "900cc",
+                "precio": "1300",
+                "marca": "Esencial",
+                "tipo": "Desodorante Para Piso"
+            },{
+                "id": "limpieza7",
+                "nombre": "Desodorante para piso Frescura De Mar",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/esencialFrescuraDeMar900-min.png",
+                "medida": "900cc",
+                "precio": "1300",
+                "marca": "Esencial",
+                "tipo": "Desodorante Para Piso"
+            },{
+                "id": "limpieza8",
+                "nombre": "Desodorante para piso Intensidad Limón",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/esencialIntensidadLimon900-min.png",
+                "medida": "900cc",
+                "precio": "1300",
+                "marca": "Esencial",
+                "tipo": "Desodorante Para Piso"
+            },{
+                "id": "limpieza9",
+                "nombre": "Lavandina Bagort",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/lavandinaBagort1-min.png",
+                "medida": "1L",
+                "precio": "1300",
+                "marca": "Bagort",
+                "tipo": "Lavandina"
+            },{
+                "id": "limpieza10",
+                "nombre": "Alcohol Étilico",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/alcoholEtilico500-min.png",
                 "medida": "500cc",
-                "precio": "1050"
-            } 
+                "precio": "1300",
+                "marca": "",
+                "tipo": "Alcohol Étilico"
+            },{
+                "id": "limpieza11",
+                "nombre": "Desod. de Ambiente Manzana y Canela",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/desodoranteAmbienteManzanayCanela300-min.png",
+                "medida": "300cc",
+                "precio": "1300",
+                "marca": "Esencial",
+                "tipo": "Desodorante de Ambiente"
+            },{
+                "id": "limpieza12",
+                "nombre": "Desod. de Ambiente Rosas",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/desodoranteAmbienteRosas300-min.png",
+                "medida": "300cc",
+                "precio": "1300",
+                "marca": "Esencial",
+                "tipo": "Desodorante de Ambiente"
+            },{
+                "id": "limpieza13",
+                "nombre": "Inseticida para Moscas y Mosquitos Selton",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/selton360-min.png",
+                "medida": "360cc",
+                "precio": "1300",
+                "marca": "Selton",
+                "tipo": "Insecticida"
+            },{
+                "id": "limpieza14",
+                "nombre": "Inseticida para Moscas, Mosquitos y Zancudos",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/raid380-min.png",
+                "medida": "380cc",
+                "precio": "1300",
+                "marca": "Raid",
+                "tipo": "Insecticida"
+            },{
+                "id": "limpieza15",
+                "nombre": "Esponja Esencial",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/esencialEsponja-min.png",
+                "medida": "1u",
+                "precio": "1300",
+                "marca": "Esencial",
+                "tipo": "Esponja"
+            },{
+                "id": "limpieza16",
+                "nombre": "Esponja Acero Inoxidable",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/esponjaAceroInoxidable-min.png",
+                "medida": "1u",
+                "precio": "1300",
+                "marca": "",
+                "tipo": "Esponja"
+            },{
+                "id": "limpieza17",
+                "nombre": "Virulana Rollito",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/virulanaRollito-min.png",
+                "medida": "1u",
+                "precio": "1300",
+                "marca": "",
+                "tipo": "Virulana"
+            },{
+                "id": "limpieza18",
+                "nombre": "Guantes Patito",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/guantesPatito1par-min.png",
+                "medida": "1par",
+                "precio": "1300",
+                "marca": "Patito",
+                "tipo": "Guantes"
+            },{
+                "id": "limpieza19",
+                "nombre": "Paño Absorbente Media Naranja",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/pañoAbsorbente-min.png",
+                "medida": "1u",
+                "precio": "1300",
+                "marca": "Media Naranja",
+                "tipo": "Paño Absorbente"
+            },{
+                "id": "limpieza20",
+                "nombre": "Jabon Blanco",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/jabonBlanco-min.png",
+                "medida": "1u",
+                "precio": "1300",
+                "marca": "Argentino",
+                "tipo": "Jabon Blanco"
+            },{
+                "id": "limpieza21",
+                "nombre": "Polvo para Ropa Ala Con Bicarbonato",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/polvoRopaAlaConBicarbonato400-min.png",
+                "medida": "400g",
+                "precio": "1300",
+                "marca": "Ala",
+                "tipo": "Polvo para Ropa"
+            },{
+                "id": "limpieza22",
+                "nombre": "Polvo p. Ropa Ala Con Bicarb. Lavado a Mano",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/polvoRopaAlaConBicarbonatoAMano400-min.png",
+                "medida": "400g",
+                "precio": "1300",
+                "marca": "Ala",
+                "tipo": "Polvo para Ropa"
+            },{
+                "id": "limpieza23",
+                "nombre": "Polvo p. Ropa Ala Eco Lavado Mañana de Sol",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/polvoRopaAlaEcoLavadoMañanaDeSol400-min.png",
+                "medida": "400g",
+                "precio": "1300",
+                "marca": "Ala",
+                "tipo": "Polvo para Ropa"
+            },{
+                "id": "limpieza24",
+                "nombre": "P. p. Ropa Ala Eco L. Remueve Manchas",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/polvoRopaAlaConBicarbonato400-min.png",
+                "medida": "400g",
+                "precio": "1300",
+                "marca": "Ala",
+                "tipo": "Polvo para Ropa"
+            },{
+                "id": "limpieza25",
+                "nombre": "Suavizante para Ropa Frescura Silvestre",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/suavizanteRopaEsencialFrescuraSilvestre900-min.png",
+                "medida": "900g",
+                "precio": "1300",
+                "marca": "Esencial",
+                "tipo": "Suavizante para Ropa"
+            },{
+                "id": "limpieza26",
+                "nombre": "Suavizante para Ropa Formula Economica",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/suavizanteRopaFormulaEconomica900-min.png",
+                "medida": "900g",
+                "precio": "1300",
+                "marca": "Gigante",
+                "tipo": "Suavizante para Ropa"
+            },{
+                "id": "limpieza27",
+                "nombre": "Suavizante para Ropa Rocio de Primavera",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/suavizanteRopaGiganteRocioDePrimavera900-min.png",
+                "medida": "900g",
+                "precio": "1300",
+                "marca": "Gigante",
+                "tipo": "Suavizante para Ropa"
+            },{
+                "id": "limpieza28",
+                "nombre": "Suavizante para Ropa Sueños de Ternura",
+                "img": "/img/imagenesKiosko/imgKioskoLimpieza/suavizanteRopaGiganteSueñosDeTernura900-min.png",
+                "medida": "900g",
+                "precio": "1300",
+                "marca": "Esencial",
+                "tipo": "Suavizante para Ropa"
+            }
         ],
 
         "Panaderia":[
@@ -1485,25 +4779,794 @@
             } 
         ],
 
-        "Snacks":[
+
+
+
+
+        "Galletas y Snacks":[
+            {
+                "id": "galletas1",
+                "nombre": "Formis Chocolate",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/formisChocolate102-min.png",
+                "medida": "102g",
+                "precio": "1100",
+                "marca": "Arcor",
+                "tipo": "Galletas"
+            },
+            {
+                "id": "galletas2",
+                "nombre": "Formis Frutilla",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/formisFrutilla102-min.png",
+                "medida": "102g",
+                "precio": "1100",
+                "marca": "Arcor",
+                "tipo": "Galletas"
+            },
+            {
+                "id": "galletas3",
+                "nombre": "Chocolinas",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/chocolinas170-min.png",
+                "medida": "170g",
+                "precio": "1100",
+                "marca": "Bagley",
+                "tipo": "Galletas"
+            },
+            {
+                "id": "galletas4",
+                "nombre": "Cereales con Salvado",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/galletasBagleySalvado507-min.png",
+                "medida": "507g",
+                "precio": "1100",
+                "marca": "Bagley",
+                "tipo": "Galletas"
+            }, 
+            {
+                "id" : "clubsocial1",
+                "nombre": "Club social Original",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/clubSocial24-min.png",
+                "medida": "24g",
+                "precio": "1100",
+                "marca": "Club Social",
+                "tipo": "Galletas"
+                },
+                {
+                "id" : "clubsocial2",
+                "nombre": "Club social Jamon",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/clubSocial23,5-min.png",
+                "medida": "23,5g",
+                "precio": "1100",
+                "marca": "Club Social",
+                "tipo": "Galletas"
+                },
+            {
+                "id": "gallletasdearroz1",
+                "nombre": "Galletas de Arroz Dulces",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/galletasArrozDosHermanos100-min.png",
+                "medida": "100g",
+                "precio": "1100",
+                "marca": "Dos Hermanos",
+                "tipo": "Galletas de arroz"
+            },
+            {
+                "id": "gallletasdearroz2",
+                "nombre": "Galletas de Arroz Saladas",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/galletasArrozDosHermanosSaladas100-min.png",
+                "medida": "100g",
+                "precio": "1100",
+                "marca": "Dos Hermanos",
+                "tipo": "Galletas de arroz"
+            },
+            {
+                "id": "galletas5",
+                "nombre": "Kesitas",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/kesitas125-min.png",
+                "medida": "125g",
+                "precio": "1100",
+                "marca": "Bagley",
+                "tipo": "Galletas"
+            },  
              {
-                "id": "snacks1",
-                "nombre": "Quento Serrano",
-                "medida": "200gr",
-                "precio": "1500"
+                "id": "galletas6",
+                "nombre": "Macucas",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/macucasChocolate110-min.png",
+                "medida": "110g",
+                "precio": "1100",
+                "marca": "Macucas",
+                "tipo": "Galletas"
             },
             {
-                "id": "snacks2",
-                "nombre": "Lays",
-                "medida": "55gr",
-                "precio": "1530"
+                "id": "galletas7",
+                "nombre": "Mana Rellenas sabor Chocolate",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/manaChocolate152-min.png",
+                "medida": "152g",
+                "precio": "1100",
+                "marca": "Mana",
+                "tipo": "Galletas"
             },
             {
-                "id": "snacks3",
+                "id": "galletas8",
+                "nombre": "Mana Rellenas sabor Frutilla",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/manaFrutilla152-min.png",
+                "medida": "152g",
+                "precio": "1100",
+                "marca": "Mana",
+                "tipo": "Galletas"
+            },
+            {
+                "id": "galletas9",
+                "nombre": "Mana Rellenas sabor Limon",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/manaLimon152-min.png",
+                "medida": "152g",
+                "precio": "1100",
+                "marca": "Mana",
+                "tipo": "Galletas"
+            },
+            {
+                "id": "galletas10",
+                "nombre": "Mana Rellenas sabor Vainilla",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/manaVainilla152-min.png",
+                "medida": "152g",
+                "precio": "1100",
+                "marca": "Mana",
+                "tipo": "Galletas"
+            },
+            {
+                "id": "galletas11",
+                "nombre": "Vainillas",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/vainillasMauri80-min.png",
+                "medida": "80g",
+                "precio": "1100",
+                "marca": "Mauri",
+                "tipo": "Galletas"
+            }, 
+            {
+                "id": "galletas12",
+                "nombre": "Media Tarde",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/mediaTarde315-min.png",
+                "medida": "315g",
+                "precio": "1100",
+                "marca": "Media Tarde",
+                "tipo": "Galletas"
+            },
+            {
+                "id": "galletas13",
+                "nombre": "Merengadas",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/merengadas88-min.png",
+                "medida": "88g",
+                "precio": "1100",
+                "marca": "Bagley",
+                "tipo": "Galletas"
+            },
+            {
+                "id": "galletas14",
+                "nombre": "Oblita Frutilla",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/oblitaFrutilla50-min.png",
+                "medida": "50g",
+                "precio": "1100",
+                "marca": "Oblita",
+                "tipo": "Galletas"
+            }, 
+            {
+                "id": "galletas15",
+                "nombre": "Oblita Vainilla",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/oblitaVainilla50-min.png",
+                "medida": "50g",
+                "precio": "1100",
+                "marca": "Oblita",
+                "tipo": "Galletas"
+            },
+            {
+                "id": "galletas16",
+                "nombre": "Mini Oreo",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/miniOreo50-min.png",
+                "medida": "50g",
+                "precio": "1100",
+                "marca": "Oreo",
+                "tipo": "Galletas"
+            },
+            {
+                "id" : "oreo",
+                "nombre": "Oreo Chocolate",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/oreoChocolate118-min.png",
+                "medida": "118g",
+                "precio": "1100",
+                "marca": "Oreo",
+                "tipo": "Galletas"
+            },
+            {
+                "id": "galletas17",
                 "nombre": "Oreo",
-                "medida": "125gr",
-                "precio": "1200"
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/oreo118-min.png",
+                "medida": "118g",
+                "precio": "1100",
+                "marca": "Oreo",
+                "tipo": "Galletas"
+            },
+            {
+                "id" : "pamela1",
+                "nombre": "Mini Pamela Chocolate",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/pamelaChocolate180-min.png",
+                "medida": "180g",
+                "precio": "1100",
+                "marca": "Pamela",
+                "tipo": "Galletas"
+                },
+                {
+                "id" : "pamela2",
+                "nombre": "Mini Pamela Manteca",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/pamelaManteca180-min.png",
+                "medida": "180g",
+                "precio": "1100",
+                "marca": "Pamela",
+                "tipo": "Galletas"
+                },
+                {
+                "id" : "pamela3",
+                "nombre": "Mini Pamela Scones",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/pamelaScones180-min.png",
+                "medida": "180g",
+                "precio": "1100",
+                "marca": "Pamela",
+                "tipo": "Galletas"
+                },
+                {
+                "id" : "pamela4",
+                "nombre": "Mini Pamela Limon",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/pamelaLimon180-min.png",
+                "medida": "180g",
+                "precio": "1100",
+                "marca": "Pamela",
+                "tipo": "Galletas"
+                },
+                {
+                "id" : "pamela5",
+                "nombre": "Mini Pamela Chips",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/pamelaChips180-min.png",
+                "medida": "180g",
+                "precio": "1100",
+                "marca": "Pamela",
+                "tipo": "Galletas"
+                },
+                {
+                "id" : "pamela6",
+                "nombre": "Mini Pamela Coco",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/pamelaCoco180-min.png",
+                "medida": "180g",
+                "precio": "1100",
+                "marca": "Pamela",
+                "tipo": "Galletas"
+                },
+            {
+                "id": "galletas18",
+                "nombre": "Pepitos",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/pepitos119-min.png",
+                "medida": "119g",
+                "precio": "1100",
+                "marca": "Pepitos",
+                "tipo": "Galletas"
+            },
+            {
+                "id" : "minpepitos",
+                "nombre": "Mini Pepitos",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/miniPepitos50-min.png",
+                "medida": "50g",
+                "precio": "1100",
+                "marca": "Ppeitos",
+                "tipo": "Galletas"
+            },
+            {
+                "id": "galletas19",
+                "nombre": "Polvorita Chocolate",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/polvoritaChocolate81-min.png",
+                "medida": "81g",
+                "precio": "1100",
+                "marca": "Polvorita",
+                "tipo": "Galletas"
+            },
+            {
+                "id": "galletas20",
+                "nombre": "Polvorita Frutilla",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/polvoritaFrutilla81-min.png",
+                "medida": "81g",
+                "precio": "1100",
+                "marca": "Polvorita",
+                "tipo": "Galletas"
+            },
+            {
+                "id": "galletas21",
+                "nombre": "Polvorita Vainilla",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/polvoritaVainilla81-min.png",
+                "medida": "81g",
+                "precio": "1100",
+                "marca": "Polvorita",
+                "tipo": "Galletas"
+            },  
+            {
+                "id": "galletasdearroz3",
+                "nombre": "Galletas de Arroz Saladas",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/galletasArrozRinconSaladas100-min.png",
+                "medida": "100g",
+                "precio": "1100",
+                "marca": "Rincon",
+                "tipo": "Galletas de arroz"
+            },
+            {
+                "id": "galletas22",
+                "nombre": "Rex",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/rex125-min.png",
+                "medida": "125g",
+                "precio": "1100",
+                "marca": "Bagley",
+                "tipo": "Galletas"
+            },
+            {
+                "id": "galletas23",
+                "nombre": "Saladix Calabresa",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/saladixCalabresa30-min.png",
+                "medida": "30g",
+                "precio": "1100",
+                "marca": "Saladix",
+                "tipo": "Galletas"
+            },
+            {
+                "id": "galletas24",
+                "nombre": "Saladix Calabresa",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/saladixCajaCalabresa100-min.png",
+                "medida": "100g",
+                "precio": "1100",
+                "marca": "Saladix",
+                "tipo": "Galletas"
+            },
+            {
+                "id": "galletas25",
+                "nombre": "Saladix Jamon",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/saladixCajaJamon100-min.png",
+                "medida": "100g",
+                "precio": "1100",
+                "marca": "Saladix",
+                "tipo": "Galletas"
+            },
+            {
+                "id": "galletas26",
+                "nombre": "Saladix Parmesano",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/saladixCajaParmesano100-min.png",
+                "medida": "100g",
+                "precio": "1100",
+                "marca": "Saladix",
+                "tipo": "Galletas"
+            },
+            {
+                "id" : "galletas38",
+                "nombre": "Saladix Picantes",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/saladixPicantes60-min.png",
+                "medida": "60g",
+                "precio": "1100",
+                "marca": "Saladix",
+                "tipo": "Galletas"
+                },
+            {
+                "id": "galletas27",
+                "nombre": "Saladix Pizza",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/saladixPizza30-min.png",
+                "medida": "30g",
+                "precio": "1100",
+                "marca": "Saladix",
+                "tipo": "Galletas"
+            },
+            {
+                "id": "galletas28",
+                "nombre": "Saladix Pizza",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/saladixCajaPizza100-min.png",
+                "medida": "100g",
+                "precio": "1100",
+                "marca": "Saladix",
+                "tipo": "Galletas"
+            },
+            {
+                "id": "galletas29",
+                "nombre": "Sonrisas",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/sonrisas108-min.png",
+                "medida": "108g",
+                "precio": "1100",
+                "marca": "Bagley",
+                "tipo": "Galletas"
+            },  
+            {
+                "id": "galletas30",
+                "nombre": "Tostadas",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/tostadas95-min.png",
+                "medida": "95g",
+                "precio": "1100",
+                "marca": "Tostadas",
+                "tipo": "Tostadas"
+            },
+            {
+                "id": "galletas31",
+                "nombre": "Pepas Trio",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/pepasTrio200-min.png",
+                "medida": "200g",
+                "precio": "1100",
+                "marca": "Trio",
+                "tipo": "Galletas"
+            },
+            {
+                "id": "galletas32",
+                "nombre": "Pepas Trio",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/pepasTrio500-min.png",
+                "medida": "500g",
+                "precio": "1100",
+                "marca": "Trio",
+                "tipo": "Galletas"
+            },  
+            {
+                "id" : "triangulitos1",
+                "nombre": "Ronda Triangulitos",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/triangulitosRonda150-min.png",
+                "medida": "150g",
+                "precio": "1100",
+                "marca": "Ronda",
+                "tipo": "Galletas"
+            },    
+            {
+                "id": "galletas33",
+                "nombre": "9 de Oro Agridulce",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/9deOroAgridulces200-min.png",
+                "medida": "200g",
+                "precio": "1100",
+                "marca": "9 de Oro",
+                "tipo": "Galletas"
+            },
+            {
+                "id": "galletas34",
+                "nombre": "9 de Oro Azucaradas",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/9deOroAzucaradas210-min.png",
+                "medida": "210g",
+                "precio": "1100",
+                "marca": "9 de Oro",
+                "tipo": "Galletas"
+            },
+            {
+                "id": "galletas35",
+                "nombre": "9 de Oro clasicos",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/9deOroClasicos200-min.png",
+                "medida": "200g",
+                "precio": "1100",
+                "marca": "9 de Oro",
+                "tipo": "Galletas"
+            },
+            {
+                "id": "galletas36",
+                "nombre": "Surtido Bagley",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/surtidoBagley400-min.png",
+                "medida": "400g",
+                "precio": "1100",
+                "marca": "Bagley",
+                "tipo": "Surtido"
+            },
+            {
+                "id": "galletas37",
+                "nombre": "Surtido Diversión",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/surtidoDiversión400-min.png",
+                "medida": "400g",
+                "precio": "1100",
+                "marca": "Arcor",
+                "tipo": "Surtido"
+            },
+            {
+                "id": "cereal1",
+                "nombre": "Cereal Almohaditas",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/cerealAlmohaditas100-min.png",
+                "medida": "100g",
+                "precio": "1530",
+                "marca": "",
+                "tipo": "Cereal"
+            },
+            {
+                "id": "cereal2",
+                "nombre": "Cereal Bolitas de Chocolate",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/cerealBolitasChocolate100-min.png",
+                "medida": "100g",
+                "precio": "1530",
+                "marca": "",
+                "tipo": "Cereal"
+            },
+            {
+                "id": "cereal3",
+                "nombre": "Cereal Frutty Loops",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/cerealFrutyLoops100-min.png",
+                "medida": "100g",
+                "precio": "1530",
+                "marca": "",
+                "tipo": "Cereal"
+            },
+            {
+                "id": "cereal4",
+                "nombre": "Cereal Mix Chocolate y Almendras",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/cerealMixChocolateYalmendras23-min.png",
+                "medida": "23g",
+                "precio": "1530",
+                "marca": "Mix",
+                "tipo": "Cereal"
+            },
+            {
+                "id": "cereal5",
+                "nombre": "Cereal Mix Frutilla y Chocolate",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/cerealMixFrutillaYchocolate26-min.png",
+                "medida": "26g",
+                "precio": "1530",
+                "marca": "Mix",
+                "tipo": "Cereal"
+            },
+            {
+                "id": "cereal6",
+                "nombre": "Cereal Mix Manzana y Avena",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/cerealMixManzanaYavena23-min.png",
+                "medida": "23g",
+                "precio": "1530",
+                "marca": "Mix",
+                "tipo": "Cereal"
+            },
+            {
+                "id": "cereal7",
+                "nombre": "Cereal Mix Yoghurt y Frutilla",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/cerealMixYoghurtYfrutilla26-min.png",
+                "medida": "26g",
+                "precio": "1530",
+                "marca": "Mix",
+                "tipo": "Cereal"
+            },
+            {
+                "id": "cereal8",
+                "nombre": "Cereal Ositos de Frutilla",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/cerealOsitos100-min.png",
+                "medida": "100g",
+                "precio": "1530",
+                "marca": "",
+                "tipo": "Cereal"
+            },
+            {
+                "id": "cereal9",
+                "nombre": "Cereal Tutuca",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/cerealTutuca100-min.png",
+                "medida": "100g",
+                "precio": "1530",
+                "marca": "",
+                "tipo": "Cereal"
+            },
+            {
+                "id": "cereal10",
+                "nombre": "Cereal Zucaritas",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/cerealZucaritas100-min.png",
+                "medida": "100g",
+                "precio": "1530",
+                "marca": "",
+                "tipo": "Cereal"
+            },
+            {
+                "id": "chisitos1",
+                "nombre": "Chetos",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/chetos43-min.png",
+                "medida": "43g",
+                "precio": "1530",
+                "marca": "Chetos",
+                "tipo": "Chisitos"
+            },
+            {
+                "id": "chisitos2",
+                "nombre": "Chisitos",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/chisitos100-min.png",
+                "medida": "100g",
+                "precio": "1530",
+                "marca": "",
+                "tipo": "Chisitos"
+            },
+            {
+                "id": "conitos1",
+                "nombre": "Conitos 3'D",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/conitos3D85-min.png",
+                "medida": "85g",
+                "precio": "1530",
+                "marca": "3'D",
+                "tipo": "Conitos"
+            },
+            {
+                "id": "doritos1",
+                "nombre": "Doritos clasicos",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/doritos77-min.png",
+                "medida": "77g",
+                "precio": "1530",
+                "marca": "Doritos",
+                "tipo": "Tortilla Chip"
+            },
+            {
+                "id": "magdalenas1",
+                "nombre": "Magdalenas clasicas",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/magdalenaClasicas200-min.png",
+                "medida": "200g",
+                "precio": "1100",
+                "marca": "Pozo",
+                "tipo": "Magdalenas"
+            },
+            {
+                "id": "magdalenas2",
+                "nombre": "Magdalenas Con Chips",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/magdalenaChips200-min.png",
+                "medida": "200g",
+                "precio": "1100",
+                "marca": "Pozo",
+                "tipo": "Magdalenas"
+            },
+            {
+                "id": "magdalenas3",
+                "nombre": "Magdalenas con Dulce de Leche",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/magdalenaDulceDeLeche200-min.png",
+                "medida": "200g",
+                "precio": "1100",
+                "marca": "Pozo",
+                "tipo": "Magdalenas"
+            },
+            {
+                "id": "mani1",
+                "nombre": "Maní",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/mani100-min.png",
+                "medida": "100g",
+                "precio": "1530",
+                "marca": "",
+                "tipo": "Maní"
+            },
+            {
+                "id": "mani2",
+                "nombre": "Maní Saborizado",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/maniSaborizado100-min.png",
+                "medida": "100g",
+                "precio": "1530",
+                "marca": "",
+                "tipo": "Maní"
+            },
+            {
+                "id": "palitos1",
+                "nombre": "Palitos",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/palitos100-min.png",
+                "medida": "100g",
+                "precio": "1530",
+                "marca": "",
+                "tipo": "Palitos"
+            },
+            {
+                "id": "lays1",
+                "nombre": "Lays clasicas",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/lays40-min.png",
+                "medida": "40g",
+                "precio": "1530",
+                "marca": "Lays",
+                "tipo": "Papas Fritas"
+            },
+            {
+                "id": "papas1",
+                "nombre": "Lluvia de Papas",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/papasSueltas100-min.png",
+                "medida": "100g",
+                "precio": "1530",
+                "marca": "",
+                "tipo": "Papas Fritas"
+            },
+            {
+                "id": "papas2",
+                "nombre": "Papas Sueltas",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/lluviaDePapas100-min.png",
+                "medida": "100g",
+                "precio": "1530",
+                "marca": "",
+                "tipo": "Papas Fritas"
+            },
+            {
+                "id": "quento1",
+                "nombre": "Quento Asaso Criollo",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/quentoAsado90-min.png",
+                "medida": "90g",
+                "precio": "1500",
+                "marca": "Quento",
+                "tipo": "Papas Fritas"
+            },
+            {
+                "id": "quento2",
+                "nombre": "Quento Jamon Serrano",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/quentoJamonSerrano90-min.png",
+                "medida": "90g",
+                "precio": "1530",
+                "marca": "Quento",
+                "tipo": "Papas Fritas"
+            },
+            {
+                "id": "quento3",
+                "nombre": "Quento Ketchup",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/quentoKetchup-min.png",
+                "medida": "90g",
+                "precio": "1530",
+                "marca": "Quento",
+                "tipo": "Papas Fritas"
+            }, 
+            {
+                "id": "quento4",
+                "nombre": "Quento Limon",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/quentoLimon90-min.png",
+                "medida": "90g",
+                "precio": "1530",
+                "marca": "Quento",
+                "tipo": "Papas Fritas"
+            }, 
+            {
+                "id": "quento5",
+                "nombre": "Quento Mostaza",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/quentoMostaza90-min.png",
+                "medida": "90g",
+                "precio": "1530",
+                "marca": "Quento",
+                "tipo": "Papas Fritas"
+            }, 
+            {
+                "id": "quento6",
+                "nombre": "Quento Nachos",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/quentoNachos90-min.png",
+                "medida": "70g",
+                "precio": "1530",
+                "marca": "Quento",
+                "tipo": "Papas Fritas"
+            },
+            {
+                "id": "quento7",
+                "nombre": "Quento Papas Picantes",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/quentoPapasPicante70-min.png",
+                "medida": "90g",
+                "precio": "1530",
+                "marca": "Quento",
+                "tipo": "Papas Fritas"
+            }, 
+            {
+                "id": "quento8",
+                "nombre": "Quento Queso Cheddar",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/quentoQuesoCheddar90-min.png",
+                "medida": "90g",
+                "precio": "1530",
+                "marca": "Quento",
+                "tipo": "Papas Fritas"
+            }, 
+            {
+                "id": "quento9",
+                "nombre": "Quento Queso y Ciboulette",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/quentoQuesoyCiboulette90-min.png",
+                "medida": "90g",
+                "precio": "1530",
+                "marca": "Quento",
+                "tipo": "Papas Fritas"
+            },
+            {
+                "id": "pipas1",
+                "nombre": "Pipas clasicas",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/pipas18-min.png",
+                "medida": "18g",
+                "precio": "1530",
+                "marca": "PIPAS",
+                "tipo": "Pipas"
             } 
+            ,{
+                "id": "pipas2",
+                "nombre": "Pipas Gigantes",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/pipasGigantes50-min.png",
+                "medida": "50g",
+                "precio": "1530",
+                "marca": "PIPAS",
+                "tipo": "Pipas"
+            },
+             {
+                "id": "turron1",
+                "nombre": "Turron y Mani",
+                "img": "/img/imagenesKiosko/imgKioskoSnacks/turronYmani25-min.png",
+                "medida": "25g",
+                "precio": "1530",
+                "marca": "",
+                "tipo": "Turron"
+            }
         ]
 
     }
