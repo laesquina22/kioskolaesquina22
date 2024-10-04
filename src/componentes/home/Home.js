@@ -4,19 +4,17 @@ import { Link } from 'react-router-dom';
 import NavBar from '../navBar/NavBar';
 
 const Home = () => {
-  const [productos, setProductos] = useState({});
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     fetch('/productos.json')
       .then(response => response.json())
-      .then(data => {
-        setProductos(data.productos);
-        setLoading(false);
+      .then(() => {
+        setLoading(false); // Solo actualiza el estado de carga
       })
       .catch(error => {
         console.error('Error fetching data:', error);
-        setLoading(false);
+        setLoading(false); // Manejo del error: detenemos la carga aunque haya fallado
       });
   }, []);
 
@@ -26,8 +24,7 @@ const Home = () => {
 
   return (
     <main className='main-home'>
-     
-     <NavBar/>
+      <NavBar/>
 
       <section className='seccion-home'>
         <div className='d-flex justify-content-center col-12'>
