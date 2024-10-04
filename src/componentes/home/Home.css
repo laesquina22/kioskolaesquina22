@@ -1,10 +1,9 @@
-/**/
 .main-home{
     height: 100%;
 }
 
 /* SECCION HOME */
-/**/
+
 .link-promociones{
     display: flex;
     justify-content: center;
@@ -20,7 +19,7 @@
     border-radius: 5px;
     transition: all .4s;
 }
-/**/
+
 .link-promociones:hover{
    background-color: #d1431f;
 }
@@ -98,34 +97,9 @@ footer{
     font-style: italic;
 }
 
-@media screen and (min-width: 510px){
-    .main-home{
-        height: 100%;
-    }
-    
-    /* SECCION HOME */
-    
-    .link-promociones{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        color: white;
-        text-decoration: none;
-        background-color: #f15a24;
-        font-weight: 500;
-        font-style: italic;
-        width: 80%;
-        height: 50px;
-        margin: 20px;
-        border-radius: 5px;
-        transition: all .4s;
-    }
-    
-    .link-promociones:hover{
-       background-color: #d1431f;
-    }
-    
-    .div-categ{
+@media screen and (min-width: 501px){
+/* SECCION HOME */
+      .div-categ{
         background-color: white;
         margin: 10px;
         height: 120px;
@@ -176,26 +150,6 @@ footer{
     .fiambres{
         margin-top: -10px;
         width: 120px;
-    }
-    
-    /* FOOTER */
-    
-    footer{
-        margin-top: 20px;
-        border-top: 1px solid white;
-        height: 80px!important;
-        padding: 10px 30px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-    
-    .p-footer{
-        color: white;
-        font-size: 18px;
-        text-align: center;
-        margin: 0px;
-        font-style: italic;
     }
 }
 

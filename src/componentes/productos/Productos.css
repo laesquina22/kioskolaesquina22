@@ -21,11 +21,11 @@
 .div-links{
     width: 100%;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 
 .link-productos{
-    width: 200px;
+    width: 170px;
     text-align: center;
     text-decoration: none;
     font-weight: 500;
@@ -50,7 +50,7 @@
 }
 
 .filtros-container{
-    margin-top: 20px;
+    margin-top: 10px;
     width: 100% !important;
     display: flex;
     justify-content: space-evenly;
@@ -60,13 +60,13 @@
    display: flex;
    flex-direction: column;
    align-items: center;
-   margin: 0px 20px;
+   margin: 0px 0px;
 }
 
 .label-marcas{
     color: white;
     margin: 7px 0px;
-    font-weight: 300;
+    font-weight: 400;
     text-align: center;
 }
 
@@ -97,16 +97,6 @@
     justify-content: space-around;
     align-items: center;
     box-shadow: 0px -5px 40px rgba(0, 0, 0, 0.7);
-}
-
-.btn-ver-carrito{
-    text-decoration: none;
-    color: white;
-    background-color: #f15a24;
-    border-radius: 5px;
-    padding: 5px 10px;
-    font-style: italic;
-    font-weight: 500;
 }
 
 .btn-ver-carrito{
@@ -150,7 +140,7 @@
 
 .div-producto-container{
     background-color: white;
-    width: 220px;
+    width: 180px;
     border-radius: 7px;
     display: flex;
     flex-direction: column;
@@ -159,24 +149,25 @@
 }
 
 .div-img-btn-producto{
-    height: 170px;
+    height: 130px;
 }
 
 .img-producto{
-    width: 90px;
-    max-height: 185px;
+    width: 80px;
+    max-height: 180px;
     margin: 0px 10px 0px 5px;
 }
 
 .div-btn-producto{  
     display: flex;
+    flex-direction: column-reverse;
     align-items: center;
     justify-content: center;
     border-radius: 5px;
     background-color: #f15a24;
-    height: 36px;
-    width: 100px;
-    margin: 0px 20px 0px 8px;
+    height: 90px;
+    width: 40px;
+    margin: 0px 10px 0px 5px;
 }
 
 .btn-resta-suma{
@@ -194,34 +185,38 @@
 .span-producto{
   background-color: white;
   height: 94%;
-  width: 20px;
+  width: 90%;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 .div-p-producto{
-    margin-top: 5px;
+    margin-top: 0px;
     width: 100%;
     display: flex;
     flex-direction: column;
-    margin-left: 5px;
-    margin-bottom: 10px;
+    justify-content: space-around;
+    margin-left: 0px;
+    margin-bottom: 5px;
+    height: 200px;
+    max-height: 220px;
 }
 
 .p-precio{
     font-weight: 600;
     font-size: 18px;
-    margin: 3px 0px;
+    margin: 3px 0px -5px 0px;
     color: #293255;
-    height: 20px;
+    height: 10px;
 }
 .p-nombre{
     font-weight: 500;
     font-style: italic;
     margin: 3px 0px;
     color: #293255;
-    height: 45px;
+    min-height: 45px;
+    max-height: 80px;
 }
 .p-medida{
     font-weight: 600;
@@ -245,7 +240,60 @@
     background-color: #d1431f;
 }
 
-@media screen and (min-width: 500px) {
+@media screen and (min-width: 501px) {
+
+    .div-links{
+        justify-content: space-around;
+    }
+    
+    .link-productos{
+        width: 200px;
+    }
+    
+    .filtros-container{
+        margin-top: 20px;
+    }
+    
+    .filtro-marca{
+       margin: 0px 20px;
+    }
+    
+    /* div-producto-container */
+    .div-producto-container{
+        width: 220px;
+    }
+    
+    .div-img-btn-producto{
+        height: 170px;
+    }
+    
+    .img-producto{
+        width: 90px;
+        max-height: 185px;
+        margin: 0px 10px 0px 5px;
+    }
+    
+    .div-btn-producto{  
+        flex-direction: row;
+        height: 36px;
+        width: 100px;
+        margin: 0px 20px 0px 8px;
+    }
+    
+    .span-producto{
+      width: 20px;
+    }
+    
+    .div-p-producto{
+        margin-top: 5px;
+        height: 180px;
+        max-height: 200px;
+    }
+    
+    .p-precio{
+        margin: 3px 0px;
+        height: 20px;
+    }
     .filtros-container{
         width: 80%;
     } 
