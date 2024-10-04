@@ -57,11 +57,11 @@ const Home = () => {
                     <img className='img-icono-home salud' src='/img/img-iconos/salud.png' alt='icono'></img>
                 </Link>
                 <Link to='/productos/Bebidas sin Alcohol' className='col-3 col-sm-3 col-md-3 col-lg-2 div-categ'>
-                    <h4 className='h4-categ'>Bebidas sin alcohol</h4>
+                    <h4 className='h4-categ'>Bebidas s/a</h4>
                     <img className='img-icono-home' src='/img/img-iconos/bebidaS.png' alt='icono'></img>
                 </Link>
                 <Link to='/productos/Bebidas con Alcohol' className='col-3 col-sm-3 col-md-3 col-lg-2 div-categ'>
-                    <h4 className='h4-categ'>Bebidas con alcohol</h4>
+                    <h4 className='h4-categ'>Bebidas c/a</h4>
                     <img className='img-icono-home' src='/img/img-iconos/bebidaC.png' alt='icono'></img>
                 </Link>
                 <Link to='/productos/Hielos y Congelados' className='col-3 col-sm-3 col-md-3 col-lg-2 div-categ'>

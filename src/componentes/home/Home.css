@@ -1,9 +1,10 @@
+/**/
 .main-home{
     height: 100%;
 }
 
 /* SECCION HOME */
-
+/**/
 .link-promociones{
     display: flex;
     justify-content: center;
@@ -19,7 +20,7 @@
     border-radius: 5px;
     transition: all .4s;
 }
-
+/**/
 .link-promociones:hover{
    background-color: #d1431f;
 }
@@ -27,8 +28,8 @@
 .div-categ{
     background-color: white;
     margin: 10px;
-    height: 120px;
-    width: 130px;
+    height: 100px;
+    width: 115px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -37,44 +38,44 @@
 }
 
 .h4-categ{
-    font-size: 16px;
+    font-size: 15px;
     text-align: center;
     height: 40px;
-
     color: #293255;
 }
 .h4-lacteos{
-    width: 120px;
-    font-size: 14px;
+    width: 100px;
+    font-size: 12px;
 }
 
 .img-icono-home{
-    width: 60px;
+    width: 50px;
+    margin-bottom: 10px;
 }
 .golosinas{
-    margin-top: 10px;
-    width: 100px;
+    margin-top: 0px;
+    width: 90px;
 }
 .salud{
-    width: 80px;
+    width: 70px;
 }
 .almacen{
-    width: 125px;
+    width: 110px;
 }
 .hielos{
-    width: 100px;
+    width: 90px;
     margin-top: -10px;
 }
 .panaderia{
-    width: 120px;
+    width: 100px;
 }
 .lacteos{
     margin-top: -10px;
-    width: 120px;
+    width: 100px;
 }
 .fiambres{
     margin-top: -10px;
-    width: 120px;
+    width: 95px;
 }
 
 /* FOOTER */
@@ -97,7 +98,108 @@ footer{
     font-style: italic;
 }
 
-@media screen and (min-width: 590px) {
+@media screen and (min-width: 510px){
+    .main-home{
+        height: 100%;
+    }
+    
+    /* SECCION HOME */
+    
+    .link-promociones{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        text-decoration: none;
+        background-color: #f15a24;
+        font-weight: 500;
+        font-style: italic;
+        width: 80%;
+        height: 50px;
+        margin: 20px;
+        border-radius: 5px;
+        transition: all .4s;
+    }
+    
+    .link-promociones:hover{
+       background-color: #d1431f;
+    }
+    
+    .div-categ{
+        background-color: white;
+        margin: 10px;
+        height: 120px;
+        width: 130px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border-radius: 5px;   
+        text-decoration: none;
+    }
+    
+    .h4-categ{
+        font-size: 16px;
+        text-align: center;
+        height: 40px;
+    
+        color: #293255;
+    }
+    .h4-lacteos{
+        width: 120px;
+        font-size: 14px;
+    }
+    
+    .img-icono-home{
+        width: 60px;
+    }
+    .golosinas{
+        margin-top: 10px;
+        width: 100px;
+    }
+    .salud{
+        width: 80px;
+    }
+    .almacen{
+        width: 125px;
+    }
+    .hielos{
+        width: 100px;
+        margin-top: -10px;
+    }
+    .panaderia{
+        width: 120px;
+    }
+    .lacteos{
+        margin-top: -10px;
+        width: 120px;
+    }
+    .fiambres{
+        margin-top: -10px;
+        width: 120px;
+    }
+    
+    /* FOOTER */
+    
+    footer{
+        margin-top: 20px;
+        border-top: 1px solid white;
+        height: 80px!important;
+        padding: 10px 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .p-footer{
+        color: white;
+        font-size: 18px;
+        text-align: center;
+        margin: 0px;
+        font-style: italic;
+    }
+}
+
+@media screen and (min-width: 590px){
        .seccion-home{
           height: 600px;
     }
