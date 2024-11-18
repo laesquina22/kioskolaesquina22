@@ -25,6 +25,7 @@
     align-items: center;
     justify-content: space-around;
     padding: 10px;
+    padding-right: 15px;
     width: 90%;
     border-radius: 5px;
     margin: 2px 0px;
@@ -37,6 +38,7 @@
 
 .img-producto-carrito {
     width: 80px;
+    max-height: 140px;
 }
 
 .p-nombre-carrito {

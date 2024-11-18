@@ -139,7 +139,9 @@ const ProductoItem = ({ producto, añadirAlCarrito }) => {
   return (
     <div className='col-6 col-md-4 col-lg-3 col-xl-2 div-producto-container'>
       <div className='w-100 d-flex align-items-center justify-content-between div-img-btn-producto'>
-        <img className='img-producto' src={producto.img} alt='imagen-producto'></img>
+        <img className={`img-producto img-${producto.id}`} 
+        src={producto.img} 
+        alt='imagen-producto'></img>
         <div className='div-btn-producto'>
           <button className='btn-resta-suma' onClick={handleRestar}>
             <img src='/img/img-iconos/minus-solid.svg' alt='icono-menos'></img>
