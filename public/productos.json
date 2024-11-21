@@ -653,7 +653,7 @@
             {
                 "id": "almacen72",
                 "nombre": "Nuez Mosada Molida",
-                "img": "/img/imagenesKiosko/imgKioskoAlmacen/nuezMosadaYuspe25-min.png",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/nuezMoscadaYuspe25-min.png",
                 "medida": "25g",
                 "precio": "1300",
                 "marca": "Yuspe",
@@ -2283,574 +2283,574 @@
 
         "Bebidas sin Alcohol":[ 
             {
-                "id": "ades1",
+                "id": "bebidaSA1",
                 "nombre": "Ades MultiFruta",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/adesMulti200-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/adesMulti200-min.png",
                 "medida": "200cc",
                 "precio": "1000",
                 "marca":"Ades",
                 "tipo":"Jugo"
             },
             {
-                "id": "ades2",
+                "id": "bebidaSA2",
                 "nombre": "Ades Manzana",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/adesManz20-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/adesManz200-min.png",
                 "medida": "200cc",
                 "precio": "1000",
                 "marca":"Ades",
                 "tipo":"Jugo"
             },
             {
-                "id": "ades3",
+                "id": "bebidaSA3",
                 "nombre": "Ades Manzana",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/adesManz1-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/adesManz1-min.png",
                 "medida": "1L",
                 "precio": "1000",
                 "marca":"Ades",
                 "tipo":"Jugo"
             },
             {
-                "id": "aquarius1",
+                "id": "bebidaSA4",
                 "nombre": "Aquarius Manzana",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/aquariusManz500-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/aquariusManz500-min.png",
                 "medida": "500cc",
                 "precio": "1000",
                 "marca":"Aguarius",
                 "tipo":"Agua Saborizada"
             },
             {
-                "id": "aquarius2",
+                "id": "bebidaSA5",
                 "nombre": "Aquarius Naranja",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/aquariusNaranja500-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/aquariusNaranja500-min.png",
                 "medida": "500cc",
                 "precio": "1000",
                 "marca":"Aguarius",
                 "tipo":"Agua Saborizada"
             },
             {
-                "id": "aquarius3",
+                "id": "bebidaSA6",
                 "nombre": "Aquarius Pera",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/aquariusPera500-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/aquariusPera500-min.png",
                 "medida": "500cc",
                 "precio": "1000",
                 "marca":"Aguarius",
                 "tipo":"Agua Saborizada"
             },
             {
-                "id": "aquarius4",
+                "id": "bebidaSA7",
                 "nombre": "Aquarius Pomelo",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/aquariusPomelo500-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/aquariusPomelo500-min.png",
                 "medida": "500cc",
                 "precio": "1000",
                 "marca":"Aguarius",
                 "tipo":"Agua Saborizada"
             },
             {
-                "id": "arcor1",
+                "id": "bebidaSA8",
                 "nombre": "Arcor Manzana",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/arcorManz200-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/arcorManz200-min.png",
                 "medida": "200cc",
                 "precio": "1000",
                 "marca":"Arcor",
                 "tipo":"Jugo"
             },
             {
-                "id": "arcor2",
+                "id": "bebidaSA9",
                 "nombre": "Arcor Multifruta",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/arcorMulti200-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/arcorMulti200-min.png",
                 "medida": "200cc",
                 "precio": "1000",
                 "marca":"Arcor",
                 "tipo":"Jugo"
             },
             {
-                "id": "arcor3",
+                "id": "bebidaSA10",
                 "nombre": "Arcor Naranja",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/arcorNaran200-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/arcorNaran200-min.png",
                 "medida": "200cc",
                 "precio": "1000",
                 "marca":"Arcor",
                 "tipo":"Jugo"
             },
             {
-                "id": "arcor4",
+                "id": "bebidaSA11",
                 "nombre": "Arcor Manzana",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/arcorManz1-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/arcorManz1-min.png",
                 "medida": "1L",
                 "precio": "1000",
                 "marca":"Arcor",
                 "tipo":"Jugo"
             },
             {
-                "id": "arcor5",
+                "id": "bebidaSA13",
                 "nombre": "Arcor Multifruta",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/arcorMulti1-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/arcorMulti1-min.png",
                 "medida": "1L",
                 "precio": "1000",
                 "marca":"Arcor",
                 "tipo":"Jugo"
             },
             {
-                "id": "baggio1",
+                "id": "bebidaSA14",
                 "nombre": "Baggio Durazno",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/baggioDurazno1-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/baggioDurazno1-min.png",
                 "medida": "1L",
                 "precio": "1000",
                 "marca":"Baggio",
                 "tipo":"Jugo"
             },
             {
-                "id": "baggio2",
+                "id": "bebidaSA15",
                 "nombre": "Baggio Manzana",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/baggioManz1-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/baggioManz1-min.png",
                 "medida": "1L",
                 "precio": "1000",
                 "marca":"Baggio",
                 "tipo":"Jugo"
             },
             {
-                "id": "baggio3",
+                "id": "bebidaSA16",
                 "nombre": "Baggio Pera",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/baggioPera1-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/baggioPera1-min.png",
                 "medida": "1L",
                 "precio": "1000",
                 "marca":"Baggio",
                 "tipo":"Jugo"
             },
             {
-                "id": "bc1",
+                "id": "bebidaSA17",
                 "nombre": "BC Manzana",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/jugoBCManz200-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/jugoBCManz200-min.png",
                 "medida": "200cc",
                 "precio": "1000",
                 "marca":"BC",
                 "tipo":"Jugo"
             },
             {
-                "id": "bc2",
+                "id": "bebidaSA18",
                 "nombre": "BC Multifruta",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/jugoBCMulti200-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/jugoBCMulti200-min.png",
                 "medida": "200cc",
                 "precio": "1000",
                 "marca":"BC",
                 "tipo":"Jugo"
             },
             {
-                "id": "bc3",
+                "id": "bebidaSA19",
                 "nombre": "BC Naranja",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/jugoBCNaran200-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/jugoBCNaran200-min.png",
                 "medida": "200cc",
                 "precio": "1000",
                 "marca":"BC",
                 "tipo":"Jugo"
             },
             {
-                "id": "benedictino1",
+                "id": "bebidaSA20",
                 "nombre": "Agua Benedictino",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/benedictino500-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/benedictino500-min.png",
                 "medida": "500cc",
                 "precio": "1000",
                 "marca":"Benedictino",
                 "tipo":"Agua"
             },
             {
-                "id": "bonaqua1",
+                "id": "bebidaSA21",
                 "nombre": "Agua Bonaqua con Gas",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/bonaquaGas50-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/bonaquaGas50-min.png",
                 "medida": "500cc",
                 "precio": "1000",
                 "marca":"Bonaqua",
                 "tipo":"Agua" 
             },
             {
-                "id": "coca1",
+                "id": "bebidaSA22",
                 "nombre": "Coca Cola Lata",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/cocaLata220-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/cocaLata220-min.png",
                 "medida": "220cc",
                 "precio": "1000",
                 "marca":"CocaCola",
                 "tipo":"Gaseosa"
             }, 
             {
-                "id": "coca2",
+                "id": "bebidaSA23",
                 "nombre": "Coca Cola Lata",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/cocaLata310-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/cocaLata310-min.png",
                 "medida": "310cc",
                 "precio": "1000",
                 "marca":"CocaCola",
                 "tipo":"Gaseosa"
             },
             {
-                "id": "coca3",
+                "id": "bebidaSA24",
                 "nombre": "Coca Cola Cero Lata",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/cocaCeroLata310-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/cocaCeroLata310-min.png",
                 "medida": "310cc",
                 "precio": "1000",
                 "marca":"CocaCola",
                 "tipo":"Gaseosa"
             },
             {
-                "id": "coca4",
+                "id": "bebidaSA25",
                 "nombre": "Coca Cola",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/coca500-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/coca500-min.png",
                 "medida": "500cc",
                 "precio": "1000",
                 "marca":"CocaCola",
                 "tipo":"Gaseosa"
             },
             {
-                "id": "coca5",
+                "id": "bebidaSA26",
                 "nombre": "Coca Cola Cero",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/cocaCero500-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/cocaCero500-min.png",
                 "medida": "500cc",
                 "precio": "1000",
                 "marca":"CocaCola",
                 "tipo":"Gaseosa"
             },
             {
-                "id": "coca6",
+                "id": "bebidaSA27",
                 "nombre": "Coca Cola",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/coca1,5-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/coca1,5-min.png",
                 "medida": "1,5Lts",
                 "precio": "2500",
                 "marca":"CocaCola",
                 "tipo":"Gaseosa"
             },
             {
-                "id": "coca7",
+                "id": "bebidaSA28",
                 "nombre": "Coca Cola Cero",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/cocaCero1,5-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/cocaCero1,5-min.png",
                 "medida": "1,5Lts",
                 "precio": "2500",
                 "marca":"CocaCola",
                 "tipo":"Gaseosa"
             },
             {
-                "id": "coca8",
+                "id": "bebidaSA29",
                 "nombre": "Coca Cola",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/coca2,25-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/coca2,25-min.png",
                 "medida": "2,25Lts",
                 "precio": "2500",
                 "marca":"CocaCola",
                 "tipo":"Gaseosa"
             },
             {
-                "id": "coca9",
+                "id": "bebidaSA30",
                 "nombre": "Coca Cola Cero",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/cocaCero2,25-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/cocaCero2,25-min.png",
                 "medida": "2,25Lts",
                 "precio": "2500",
                 "marca":"CocaCola",
                 "tipo":"Gaseosa"
             },
             {
-                "id": "coca10",
+                "id": "bebidaSA31",
                 "nombre": "Coca Cola Vidrio Ret.",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/cocaRetorVidrio350-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/cocaRetorVidrio350-min.png",
                 "medida": "350cc",
                 "precio": "1000",
                 "marca":"CocaCola",
                 "tipo":"Gaseosa"
             },
             {
-                "id": "coca11",
+                "id": "bebidaSA32",
                 "nombre": "Coca Cola Vidrio Ret.",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/cocaRetorVidrio1,5-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/cocaRetorVidrio1,5-min.png",
                 "medida": "1,5Lts",
                 "precio": "1000",
                 "marca":"CocaCola",
                 "tipo":"Gaseosa"
             },      
             {
-                "id": "coca12",
+                "id": "bebidaSA33",
                 "nombre": "Coca Cola Ret.",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/cocaRetor2-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/cocaRetor2-min.png",
                 "medida": "2Lts",
                 "precio": "1000",
                 "marca":"CocaCola",
                 "tipo":"Gaseosa"
             },
             {
-                "id": "coca13",
+                "id": "bebidaSA34",
                 "nombre": "Coca Cola Ret.",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/cocaCeroRetor2-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/cocaCeroRetor2-min.png",
                 "medida": "2Lts",
                 "precio": "1000",
                 "marca":"CocaCola",
                 "tipo":"Gaseosa"
             },
             {
-                "id": "coca14",
+                "id": "bebidaSA35",
                 "nombre": "Coca Cola Ret",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/cocaRetor2,5-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/cocaRetor2,5-min.png",
                 "medida": "2,5Lts",
                 "precio": "1000",
                 "marca":"CocaCola",
                 "tipo":"Gaseosa"
             }, 
             {
-                "id": "doblecola1",
+                "id": "bebidaSA36",
                 "nombre": "Doble Cola",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/dobleCola3-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/dobleCola3-min.png",
                 "medida": "3Lts",
                 "precio": "1000",
                 "marca":"Doble Cola",
                 "tipo":"Gaseosa"
             },
             {
-            "id": "fanta1",
+            "id": "bebidaSA37",
             "nombre": "Fanta",
-            "img": "/img/imagenesKiosko/imgKioskoBebidasSA/fanta500-min.jpg",
+            "img": "/img/imagenesKiosko/imgKioskoBebidasSA/fanta500-min.png",
             "medida": "500cc",
             "precio": "1000",
             "marca":"Fanta",
             "tipo":"Gaseosa"
             },
             {
-            "id": "fanta2",
+            "id": "bebidaSA38",
             "nombre": "Fanta",
-            "img": "/img/imagenesKiosko/imgKioskoBebidasSA/fanta1,5-min.jpg",
+            "img": "/img/imagenesKiosko/imgKioskoBebidasSA/fanta1,5-min.png",
             "medida": "1,5Lts",
             "precio": "1000",
             "marca":"Fanta",
             "tipo":"Gaseosa"
             },
             { 
-            "id": "fanta3",
+            "id": "bebidaSA39",
             "nombre": "Fanta",
-            "img": "/img/imagenesKiosko/imgKioskoBebidasSA/fanta2,25-min.jpg",
+            "img": "/img/imagenesKiosko/imgKioskoBebidasSA/fanta2,25-min.png",
             "medida": "2,25Lts",
             "precio": "1000",
             "marca":"Fanta",
             "tipo":"Gaseosa"
             },
             { 
-            "id": "fanta4",
+            "id": "bebidaSA40",
             "nombre": "Fanta Ret.",
-            "img": "/img/imagenesKiosko/imgKioskoBebidasSA/fantaRetor2-min.jpg",
+            "img": "/img/imagenesKiosko/imgKioskoBebidasSA/fantaRetor2-min.png",
             "medida": "2Lts",
             "precio": "1000",
             "marca":"Fanta",
             "tipo":"Gaseosa"
             },
             { 
-            "id": "fanta5",
+            "id": "bebidaSA41",
             "nombre": "Fanta Limon Ret.",
-            "img": "/img/imagenesKiosko/imgKioskoBebidasSA/fantaLimonRetor2-min.jpg",
+            "img": "/img/imagenesKiosko/imgKioskoBebidasSA/fantaLimonRetor2-min.png",
             "medida": "2Lts",
             "precio": "1000",
             "marca":"Fanta",
             "tipo":"Gaseosa"
             },
             {
-                "id": "gatorade1",
+                "id": "bebidaSA42",
                 "nombre": "Gatorade Manzana",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/gatoradeManz500-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/gatoradeManz500-min.png",
                 "medida": "500cc",
                 "precio": "1000",
                 "marca":"Gatorade",
                 "tipo":"Bebida Energizante"
             },
             {
-                "id": "gatorade2",
+                "id": "bebidaSA43",
                 "nombre": "Gatorade Manzana",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/gatoradeManz750-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/gatoradeManz750-min.png",
                 "medida": "750cc",
                 "precio": "1000",
                 "marca":"Gatorade",
                 "tipo":"Bebida Energizante"
             },
             {
-                "id": "gatorade3",
+                "id": "bebidaSA44",
                 "nombre": "Gatorade Frutos Tropicales",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/gatoradeFrutos750-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/gatoradeFrutos750-min.png",
                 "medida": "750cc",
                 "precio": "1000",
                 "marca":"Gatorade",
                 "tipo":"Bebida Energizante"
             },
             {
-                "id": "monster1",
+                "id": "bebidaSA45",
                 "nombre": "Monster",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/monsterRegular473-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/monsterRegular473-min.png",
                 "medida": "473Lts",
                 "precio": "1000",
                 "marca":"Monster",
                 "tipo":"Bebida Energizante"
             },
             {
-                "id": "monster2",
+                "id": "bebidaSA46",
                 "nombre": "Monster",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/monsterSinAzuc473-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/monsterSinAzuc473-min.png",
                 "medida": "473Lts",
                 "precio": "1000",
                 "marca":"Monster",
                 "tipo":"Bebida Energizante"
             },
             {
-                "id": "monster3",
+                "id": "bebidaSA47",
                 "nombre": "Monster Mango Loco",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/monsterMangoLoco473-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/monsterMangoLoco473-min.png",
                 "medida": "473Lts",
                 "precio": "1000",
                 "marca":"Monster",
                 "tipo":"Bebida Energizante"
             },
             {
-                "id": "levite1",
+                "id": "bebidaSA48",
                 "nombre": "Levite Manzana",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/leviteManz1,5-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/leviteManz1,5-min.png",
                 "medida": "1,5Lts",
                 "precio": "1000",
                 "marca":"Levite",
                 "tipo":"Agua Saborizada"
             },
             {
-                "id": "levite2",
+                "id": "bebidaSA49",
                 "nombre": "Levite Naranja",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/leviteNaran1,5-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/leviteNaran1,5-min.png",
                 "medida": "1,5Lts",
                 "precio": "1000",
                 "marca":"Levite",
                 "tipo":"Agua Saborizada"
             },
             {
-                "id": "levite3",
+                "id": "bebidaSA50",
                 "nombre": "Levite Pomelo",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/levitePomelo1,5-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/levitePomelo1,5-min.png",
                 "medida": "1,5Lts",
                 "precio": "1000",
                 "marca":"Levite",
                 "tipo":"Agua Saborizada"
             },
             {
-                "id": "levite4",
+                "id": "bebidaSA51",
                 "nombre": "Levite Pera",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/levitePera1,5-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/levitePera1,5-min.png",
                 "medida": "1,5Lts",
                 "precio": "1000",
                 "marca":"Levite",
                 "tipo":"Agua Saborizada"
             },
             {
-                "id": "paso1",
+                "id": "bebidaSA52",
                 "nombre": "Paso de los Toros Pomelo",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/pasoPomelo1,5-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/pasoPomelo1,5-min.png",
                 "medida": "1,5Lts",
                 "precio": "1000",
                 "marca":"Paso de los Toros",
                 "tipo":"Gaseosa"
             },
             {
-                "id": "paso2",
+                "id": "bebidaSA53",
                 "nombre": "Paso de los Toros Tonica",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/pasoTonica1,5-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/pasoTonica1,5-min.png",
                 "medida": "1,5Lts",
                 "precio": "1000",
                 "marca":"Paso de los Toros",
                 "tipo":"Gaseosa"
             },
             {
-                "id": "pepsi1",
+                "id": "bebidaSA54",
                 "nombre": "Pepsi",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/pepsi2-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/pepsi2-min.png",
                 "medida": "2Lts",
                 "precio": "1000",
                 "marca":"Pepsi",
                 "tipo":"Gaseosa"
             },
             {
-                "id": "powerade1",
+                "id": "bebidaSA55",
                 "nombre": "Powerade Manzana",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/poweradeManz500-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/poweradeManz500-min.png",
                 "medida": "500cc",
                 "precio": "1000",
                 "marca":"Powerade",
                 "tipo":"Bebida Energizante"
             },
             {
-                "id": "powerade2",
+                "id": "bebidaSA56",
                 "nombre": "Powerade Mountain Blast",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/poweradeMountain500-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/poweradeMountain500-min.png",
                 "medida": "500cc",
                 "precio": "1000",
                 "marca":"Powerade",
                 "tipo":"Bebida Energizante"
             },
             { 
-                "id": "pritty1",
+                "id": "bebidaSA57",
                 "nombre": "Pritty",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/pritty500-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/pritty500-min.png",
                 "medida": "500cc",
                 "precio": "1000",
                 "marca":"Pritty",
                 "tipo":"Gaseosa"
             },
             { 
-                "id": "pritty2",
+                "id": "bebidaSA58",
                 "nombre": "Pritty",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/pritty1-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/pritty1-min.png",
                 "medida": "1L",
                 "precio": "1000",
                 "marca":"Pritty",
                 "tipo":"Gaseosa"
             },
             { 
-                "id": "pritty3",
+                "id": "bebidaSA59",
                 "nombre": "Pritty",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/pritty2,25-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/pritty2,25-min.png",
                 "medida": "2,25Lts",
                 "precio": "1000",
                 "marca":"Pritty",
                 "tipo":"Gaseosa"
             },
             { 
-                "id": "pritty4",
+                "id": "bebidaSA60",
                 "nombre": "Pritty Cero",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/prittyCero2,25-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/prittyCero2,25-min.png",
                 "medida": "2,25Lts",
                 "precio": "1000",
                 "marca":"Pritty",
                 "tipo":"Gaseosa"
             },
             { 
-                "id": "pritty5",
+                "id": "bebidaSA61",
                 "nombre": "Pritty",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/pritty3-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/pritty3-min.png",
                 "medida": "3Lts",
                 "precio": "1000",
                 "marca":"Pritty",
                 "tipo":"Gaseosa"
             },
             {
-                "id": "schweppes",
+                "id": "bebidaSA62",
                 "nombre": "Schweppes Pomelo Ret.",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/scweppesRetor2-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/scweppesRetor2-min.png",
                 "medida": "2Lts",
                 "precio": "1000",
                 "marca":"Schweppes",
                 "tipo":"Gaseosa"
             },
             { 
-                "id": "secco1",
+                "id": "bebidaSA63",
                 "nombre": "Secco Pomelo",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/secco2,25-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/secco2,25-min.png",
                 "medida": "2,25Lts",
                 "precio": "1000",
                 "marca":"Secco",
                 "tipo":"Gaseosa"
             },
             { 
-                "id": "secco2",
+                "id": "bebidaSA64",
                 "nombre": "Secco Pomelo",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/secco3-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/secco3-min.png",
                 "medida": "3Lts",
                 "precio": "1000",
                 "marca":"Secco",
                 "tipo":"Gaseosa"
             },
             {
-                "id": "saldan1",
+                "id": "bebidaSA65",
                 "nombre": "Soda Saldan",
                 "img": "/img/imagenesKiosko/imgKioskoBebidasSA/sodaSaldan2-min.jpg",
                 "medida": "2Lts",
@@ -2859,7 +2859,7 @@
                 "tipo":"Agua"
             },
             {
-                "id": "speed1",
+                "id": "bebidaSA66",
                 "nombre": "Speed",
                 "img": "/img/imagenesKiosko/imgKioskoBebidasSA/speed473-min.jpg",
                 "medida": "473cc",
@@ -2868,7 +2868,7 @@
                 "tipo":"Bebida Energizante"
             },
             {
-                "id": "speed2",
+                "id": "bebidaSA67",
                 "nombre": "Speed",
                 "img": "/img/imagenesKiosko/imgKioskoBebidasSA/speed269-min.jpg",
                 "medida": "269cc",
@@ -2877,7 +2877,7 @@
                 "tipo":"Bebida Energizante"
             },
             {
-                "id": "speed3",
+                "id": "bebidaSA68",
                 "nombre": "Speed",
                 "img": "/img/imagenesKiosko/imgKioskoBebidasSA/speed250-min.jpg",
                 "medida": "250cc",
@@ -2886,7 +2886,7 @@
                 "tipo":"Bebida Energizante"
             },
             {
-                "id": "sprite1",
+                "id": "bebidaSA69",
                 "nombre": "Sprite lata",
                 "img": "/img/imagenesKiosko/imgKioskoBebidasSA/lataSprite220-min.jpg",
                 "medida": "220cc",
@@ -2895,7 +2895,7 @@
                 "tipo": "Gaseosa"
             },
             { 
-                "id": "sprite12",
+                "id": "bebidaSA70",
                 "nombre": "Sprite",
                 "img": "/img/imagenesKiosko/imgKioskoBebidasSA/sprite500-min.jpg",
                 "medida": "500cc",
@@ -2904,7 +2904,7 @@
                 "tipo":"Gaseosa"
             },
             { 
-                "id": "sprite3",
+                "id": "bebidaSA71",
                 "nombre": "Sprite",
                 "img": "/img/imagenesKiosko/imgKioskoBebidasSA/sprite1,5-min.jpg",
                 "medida": "1,5Lts",
@@ -2913,7 +2913,7 @@
                 "tipo":"Gaseosa"
             },
             { 
-                "id": "Sprite4",
+                "id": "bebidaSA72",
                 "nombre": "Sprite Ret.",
                 "img": "/img/imagenesKiosko/imgKioskoBebidasSA/spriteRetor2-min.jpg",
                 "medida": "2Lts",
@@ -2922,7 +2922,7 @@
                 "tipo":"Gaseosa"
             }, 
             {
-                "id": "terma1",
+                "id": "bebidaSA73",
                 "nombre": "Terma Cero Pomelo Rosado",
                 "img": "/img/imagenesKiosko/imgKioskoBebidasSA/termaPomeloRosado1,35-min.jpg",
                 "medida": "1,35Lts",
@@ -2931,7 +2931,7 @@
                 "tipo":"Bebida a base de Hierbas"
             },
             {
-                "id": "terma2",
+                "id": "bebidaSA74",
                 "nombre": "Terma Cero Limon",
                 "img": "/img/imagenesKiosko/imgKioskoBebidasSA/termaLimon1,35-min.jpg",
                 "medida": "1,35Lts",
@@ -2940,7 +2940,7 @@
                 "tipo":"Bebida a base de Hierbas"
             },
             {
-                "id": "terma3",
+                "id": "bebidaSA75",
                 "nombre": "Terma Serrano",
                 "img": "/img/imagenesKiosko/imgKioskoBebidasSA/termaSerrano1,35-min.jpg",
                 "medida": "1,35Lts",
@@ -2949,7 +2949,7 @@
                 "tipo":"Bebida a base de Hierbas"
             },
             {
-                "id": "villadelsur1",
+                "id": "bebidaSA76",
                 "nombre": "Agua Villa del Sur",
                 "img": "/img/imagenesKiosko/imgKioskoBebidasSA/villaDelSur1,65-min.jpg",
                 "medida": "1,65Lts",
@@ -2958,7 +2958,7 @@
                 "tipo":"Agua"
             },
             {
-                "id": "villavicencio1",
+                "id": "bebidaSA77",
                 "nombre": "Agua Villavicencio",
                 "img": "/img/imagenesKiosko/imgKioskoBebidasSA/villavicencio1,5-min.jpg",
                 "medida": "1,5Lts",
@@ -2967,9 +2967,9 @@
                 "tipo":"Agua"
             },              
             { 
-                "id": "7up1",
+                "id": "bebidaSA78",
                 "nombre": "7up",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/sevenUp2-min.jpg",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasSA/sevenUp2-min.png",
                 "medida": "2Lts",
                 "precio": "1000",
                 "marca":"7up",
@@ -3860,7 +3860,7 @@
                 {
                 "id" : "chocolate39",
                 "nombre": "Tableta Milka Oreo",
-                "img": "/img/imagenesKiosko/imgKioskoChocolates/tabletaMilkaOreo-min.png",
+                "img": "/img/imagenesKiosko/imgKioskoChocolates/tabletaMilkaOreo55-min.png",
                 "medida": "55g",
                 "precio": "1100",
                 "marca": "Milka",

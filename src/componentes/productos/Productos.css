@@ -164,22 +164,28 @@
     align-items: center;
     justify-content: center;
     border-radius: 5px;
-    background-color: #f15a24;
     height: 90px;
     width: 40px;
     margin: 0px 10px 0px 5px;
+    border: 3px solid #f15a24;
 }
 
 .btn-resta-suma{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: #f15a24;
     border: none;
     border-radius: 5px;
-    width: 30px;
-    height: 100%;
     transition: all .4s;
+    padding: 0;
 }
 .btn-resta-suma:active{
     background-color: #d1431f;
+}
+
+.menos-icon{
+    width: 40px;
 }
 
 .span-producto{
@@ -275,15 +281,18 @@
     
     .div-btn-producto{  
         flex-direction: row;
-        height: 36px;
-        width: 100px;
-        margin: 0px 20px 0px 8px;
+        height: 35px;
+        width: 90px;
+        margin: 0px 20px 0px 0px;
     }
     
     .span-producto{
       width: 20px;
     }
-    
+
+    .menos-icon{
+        width: 35px;
+    }    
     .div-p-producto{
         margin-top: 5px;
         height: 180px;
@@ -367,5 +376,26 @@
 .img-producto{
     margin: 0px 25px 0px 0px;
 }
+}
+
+
+
+
+/*  IMAGENES DE PRODUCTOS  */
+.img-almacen31{
+    width: 70px;
+}
+.img-almacen32{
+    width: 85px;
+}.img-almacen45{
+    width: 85px;
+}.img-almacen48{
+    width: 85px;
+}
+.img-almacen52{
+    width: 75px;
+}
+.img-almacen1, .img-almacen2, .img-almacen3, .img-almacen4, .img-almacen5, .img-almacen6, .img-almacen7, .img-almacen8, .img-almacen9, .img-almacen10, .img-almacen11, .img-almacen12, .img-almacen13, .img-almacen13, .img-almacen14,.img-almacen30, .img-almacen33, .img-almacen34, .img-almacen35, .img-almacen36, .img-almacen37, .img-almacen38, .img-almacen42, .img-almacen43, .img-almacen44, .img-almacen46, .img-almacen47, .img-almacen49, .img-almacen50, .img-almacen51, .img-almacen53, .img-almacen54, .img-almacen55, .img-almacen56, .img-almacen57, .img-almacen58, .img-almacen59, .img-almacen60, .img-almacen61, .img-almacen62, .img-almacen63, .img-almacen64, .img-almacen65, .img-almacen66, .img-almacen67, .img-almacen68, .img-almacen69, .img-almacen70, .img-almacen71, .img-almacen72, .img-almacen73, .img-almacen74, .img-almacen75, .img-almacen76, .img-almacen77, .img-almacen78, .img-almacen79, .img-almacen80, .img-almacen81, .img-almacen82, .img-almacen83, .img-almacen84, .img-almacen85, .img-almacen86, .img-almacen87, .img-almacen88, .img-almacen89, .img-almacen90, .img-almacen91, .img-almacen92, .img-almacen93, .img-almacen94, .img-almacen95, .img-almacen96, .img-almacen97, .img-almacen98, .img-almacen99, .img-almacen100, .img-almacen101, .img-almacen102, .img-almacen103, .img-almacen104, .img-almacen105, .img-almacen106, .img-almacen107, .img-almacen108, .img-almacen109, .img-almacen110, .img-almacen111, .img-almacen112, .img-almacen113, .img-almacen114, .img-almacen115, .img-almacen116, .img-almacen117, .img-almacen118, .img-almacen119, .img-almacen120, .img-almacen121, .img-almacen122, .img-almacen123, .img-almacen124, .img-almacen125, .img-almacen126, .img-almacen127, .img-almacen128, .img-almacen129, .img-almacen130, .img-almacen131, .img-almacen132, .img-almacen133, .img-almacen134, .img-almacen135, .img-almacen136, .img-almacen137, .img-almacen138, .img-almacen139, .img-almacen140, .img-almacen141, .img-almacen142, .img-almacen143, .img-almacen144, .img-almacen145, .img-almacen146, .img-almacen147, .img-almacen148, .img-almacen149, .img-almacen150, .img-almacen151, .img-almacen152, .img-almacen153, .img-almacen154, .img-almacen155, .img-almacen156, .img-almacen157, .img-almacen158, .img-almacen159, .img-almacen160, .img-almacen161, .img-almacen162, .img-almacen163, .img-almacen164, .img-almacen165, .img-almacen166, .img-almacen167, .img-almacen168, .img-almacen169, .img-almacen170, .img-almacen171, .img-almacen172, .img-almacen173, .img-almacen174, .img-almacen175, .img-almacen176, .img-almacen177, .img-almacen178, .img-almacen179, .img-almacen180, .img-almacen181, .img-almacen182, .img-almacen183, .img-almacen184, .img-almacen185, .img-almacen186, .img-almacen187{
+    width: 80px;
 }
 

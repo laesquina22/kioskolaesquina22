@@ -144,11 +144,11 @@ const ProductoItem = ({ producto, añadirAlCarrito }) => {
         alt='imagen-producto'></img>
         <div className='div-btn-producto'>
           <button className='btn-resta-suma' onClick={handleRestar}>
-            <img src='/img/img-iconos/minus-solid.svg' alt='icono-menos'></img>
+            <img src='/img/img-iconos/menos.png' className='menos-icon' alt='icono-menos'></img>
           </button>
           <span className='span-producto'>{cantidad}</span>
           <button className='btn-resta-suma' onClick={handleSumar}>
-            <img src='/img/img-iconos/plus-solid.svg' alt='icono-mas'></img>
+            <img src='/img/img-iconos/mas.png' className='menos-icon' alt='icono-mas'></img>
           </button>
         </div>
       </div>
