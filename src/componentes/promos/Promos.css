@@ -1,0 +1,80 @@
+.main-promos{
+    padding: 10px !important;
+}
+
+.seccion-promos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+ 
+}
+
+.div-promos-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.promo-card{
+    background-color: white;
+    width: 400px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 2px 0px;
+}
+
+.promo-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.promo-nombre{
+    font-style: italic;
+}
+
+.promo-actions{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.btn-añadir{
+    width: 150px !important;
+    height: 40px;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin: 10px 0;
+  }
+  
+  .pagination-with-padding-190 {
+    margin-bottom: 190px; /* Ambos productos y promos */
+  }
+  
+  .pagination-with-padding-160 {
+    margin-bottom: 160px; /* Solo productos o solo promos */
+  }
+  
+  .pagination-button {
+    margin: 0 2px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #f0f0f0;
+    cursor: pointer;
+    border-radius: 2px;
+  }
+  
+  .pagination-button.active {
+    background-color: #f15a24;
+    color: #fff;
+  }
+  
+  .pagination-button:hover {
+    background-color: #ddd;
+  }
+  

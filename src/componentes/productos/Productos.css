@@ -92,8 +92,9 @@
     background-color: #293255;
     color: white;
     width: 100%;
-    height: 100px;
+    max-height: 200px;
     display: flex;
+    flex-direction: column;
     justify-content: space-around;
     align-items: center;
     box-shadow: 0px -5px 40px rgba(0, 0, 0, 0.7);
@@ -105,6 +106,7 @@
     background-color: #f15a24;
     border-radius: 5px;
     padding: 5px 10px;
+    margin: 10px 0px;
     font-style: italic;
     font-weight: 500;
     border: 1px solid #293255;
@@ -117,10 +119,25 @@
     border: 1px solid white;
 }
 
+.resumen-carrito{
+    width: 100%;
+}
+
+.div-resumen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .p-resumen-carrito{
-    font-weight: 600;
+    font-weight: 400;
     margin: 4px;
     width: 150px;
+}
+
+.p-total-resumen-carrito{
+    font-weight: 600;
+    margin: 7px;
 }
 
 /* div-producto-container */
@@ -129,7 +146,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-bottom: 120px;
+    padding-bottom: 20px;
 }
 
 .div-productos-container{
@@ -245,6 +262,40 @@
 .btn-añadir:hover{
     background-color: #d1431f;
 }
+
+/* pagination */
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin: 10px 0;
+  }
+  
+  .pagination-with-padding-190 {
+    margin-bottom: 190px; /* Ambos productos y promos */
+  }
+  
+  .pagination-with-padding-160 {
+    margin-bottom: 160px; /* Solo productos o solo promos */
+  }
+  
+  .pagination-button {
+    margin: 0 2px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #f0f0f0;
+    cursor: pointer;
+    border-radius: 2px;
+  }
+  
+  .pagination-button.active {
+    background-color: #f15a24;
+    color: #fff;
+  }
+  
+  .pagination-button:hover {
+    background-color: #ddd;
+  }
 
 @media screen and (min-width: 501px) {
 
@@ -397,5 +448,11 @@
 }
 .img-almacen1, .img-almacen2, .img-almacen3, .img-almacen4, .img-almacen5, .img-almacen6, .img-almacen7, .img-almacen8, .img-almacen9, .img-almacen10, .img-almacen11, .img-almacen12, .img-almacen13, .img-almacen13, .img-almacen14,.img-almacen30, .img-almacen33, .img-almacen34, .img-almacen35, .img-almacen36, .img-almacen37, .img-almacen38, .img-almacen42, .img-almacen43, .img-almacen44, .img-almacen46, .img-almacen47, .img-almacen49, .img-almacen50, .img-almacen51, .img-almacen53, .img-almacen54, .img-almacen55, .img-almacen56, .img-almacen57, .img-almacen58, .img-almacen59, .img-almacen60, .img-almacen61, .img-almacen62, .img-almacen63, .img-almacen64, .img-almacen65, .img-almacen66, .img-almacen67, .img-almacen68, .img-almacen69, .img-almacen70, .img-almacen71, .img-almacen72, .img-almacen73, .img-almacen74, .img-almacen75, .img-almacen76, .img-almacen77, .img-almacen78, .img-almacen79, .img-almacen80, .img-almacen81, .img-almacen82, .img-almacen83, .img-almacen84, .img-almacen85, .img-almacen86, .img-almacen87, .img-almacen88, .img-almacen89, .img-almacen90, .img-almacen91, .img-almacen92, .img-almacen93, .img-almacen94, .img-almacen95, .img-almacen96, .img-almacen97, .img-almacen98, .img-almacen99, .img-almacen100, .img-almacen101, .img-almacen102, .img-almacen103, .img-almacen104, .img-almacen105, .img-almacen106, .img-almacen107, .img-almacen108, .img-almacen109, .img-almacen110, .img-almacen111, .img-almacen112, .img-almacen113, .img-almacen114, .img-almacen115, .img-almacen116, .img-almacen117, .img-almacen118, .img-almacen119, .img-almacen120, .img-almacen121, .img-almacen122, .img-almacen123, .img-almacen124, .img-almacen125, .img-almacen126, .img-almacen127, .img-almacen128, .img-almacen129, .img-almacen130, .img-almacen131, .img-almacen132, .img-almacen133, .img-almacen134, .img-almacen135, .img-almacen136, .img-almacen137, .img-almacen138, .img-almacen139, .img-almacen140, .img-almacen141, .img-almacen142, .img-almacen143, .img-almacen144, .img-almacen145, .img-almacen146, .img-almacen147, .img-almacen148, .img-almacen149, .img-almacen150, .img-almacen151, .img-almacen152, .img-almacen153, .img-almacen154, .img-almacen155, .img-almacen156, .img-almacen157, .img-almacen158, .img-almacen159, .img-almacen160, .img-almacen161, .img-almacen162, .img-almacen163, .img-almacen164, .img-almacen165, .img-almacen166, .img-almacen167, .img-almacen168, .img-almacen169, .img-almacen170, .img-almacen171, .img-almacen172, .img-almacen173, .img-almacen174, .img-almacen175, .img-almacen176, .img-almacen177, .img-almacen178, .img-almacen179, .img-almacen180, .img-almacen181, .img-almacen182, .img-almacen183, .img-almacen184, .img-almacen185, .img-almacen186, .img-almacen187{
     width: 80px;
+}
+
+
+.img-cervezalata1, .img-cervezalata2, .img-cervezalata3, .img-cervezalata4, .img-cervezalata5, .img-cervezalata6, .img-cervezalata7, .img-cervezalata8, .img-cervezalata9, .img-cervezalata10, .img-cervezalata11, .img-cervezalata12, .img-cervezalaton1, .img-cervezalaton2, .img-cervezalaton3, .img-cervezalaton4,.img-fernet1, .img-fernet2, .img-gin1, .img-callia1, .img-cafayate1, .img-vermouth1, .img-vermouth2, .img-colonselectorosado1, .img-cordero1, .img-cervezabotella1, .img-dondavid1, .img-donvalentin1, .img-eugenio1, .img-cervezaretor4, .img-licor1, .img-espumante1, .img-profugo1, .img-santajulia1, .img-vodka1, .img-vodka2, .img-vodka3, .img-vodka4, .img-vodka5, .img-vodka6, .img-vodka7, .img-vodka8, .img-vodka9, .img-vodka10, .img-toro1, .img-toro2, .img-toro3, .img-toro4, .img-trumpeter1, .img-balvo1, .img-fernet3, .img-cervezaretor1, .img-cervezaretor2, .img-cervezaretor3,.img-cervezaretor5, .img-cervezaretor6, .img-cervezaretor7, .img-cervezaretor7, .img-cervezaretor9, .img-cervezaretor10, .img-cervezabotella2, .img-cervezabotella3, .img-cervezabotella4, .img-cervezabotella5{
+   width: 50px;
+   height: 130px;
 }
 

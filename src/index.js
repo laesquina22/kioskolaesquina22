@@ -5,7 +5,7 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from './componentes/home/Home';
-import Promociones from './componentes/promociones/Promociones';
+import Promos from './componentes/promos/Promos';
 import Carrito from './componentes/carrito/Carrito';
 import Productos from './componentes/productos/Productos';
 import Entrega from './componentes/entrega/Entrega';
@@ -18,7 +18,7 @@ root.render(
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/promociones" element={<Promociones />} />
+          <Route path="/promos" element={<Promos />} />
           <Route path="/carrito" element={<Carrito />} />
           <Route path="/productos/:category" element={<Productos />} />
           <Route path="/entrega" element={<Entrega />} />

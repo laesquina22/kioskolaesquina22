@@ -4,25 +4,28 @@ import NavBar from '../navBar/NavBar';
 import { CarritoContext } from '../../context/CarritoContext';
 
 const Entrega = () => {
-    const { totalPrecio, carrito } = useContext(CarritoContext);
+    const { totalPrecioProductos, totalPrecioPromos, carritoProductos, carritoPromos } = useContext(CarritoContext);
     const [formaEntrega, setFormaEntrega] = useState('Retira');
     const [medioPago, setMedioPago] = useState('Efectivo');
     const [nombre, setNombre] = useState('');
+    const [apellido, setApellido] = useState('');
     const [telefono, setTelefono] = useState('');
     const [direccion, setDireccion] = useState('');
     const [referencias, setReferencias] = useState('');
 
     const handleEnviarWhatsapp = () => {
+        const carrito = [...(carritoProductos || []), ...(carritoPromos || [])];
         const resumenCarrito = carrito.map(producto => `${producto.nombre} x ${producto.cantidad}`).join(', ');
         const mensaje = `Hola, mi pedido es: 
     - Nombre: ${nombre}
+    - Apellido: ${apellido}
     - Teléfono: ${telefono}
     - Dirección: ${direccion}
     - Referencias: ${referencias}
     - Forma de entrega: ${formaEntrega}
     - Medio de pago: ${medioPago}
     - Productos: ${resumenCarrito}
-    - Total: $${totalPrecio}`;
+    - Total: $${totalPrecioProductos + totalPrecioPromos}`;
 
         const numeroWpp = "5493516788621"; // Número de WhatsApp
         const url = `https://wa.me/${numeroWpp}?text=${encodeURIComponent(mensaje)}`;
@@ -67,10 +70,14 @@ const Entrega = () => {
 
                 <div>
 
+                    <div className='div-input-entrega'>
+                        <label className='label-form-entrega'>Nombre </label>
+                        <input type='text' value={nombre} onChange={(e) => setNombre(e.target.value)} required />
+                    </div>
 
                     <div className='div-input-entrega'>
-                        <label className='label-form-entrega'>Nombre y Apellido</label>
-                        <input type='text' value={nombre} onChange={(e) => setNombre(e.target.value)} required />
+                        <label className='label-form-entrega'>Apellido</label>
+                        <input type='text' value={apellido} onChange={(e) => setApellido(e.target.value)} required />
                     </div>
 
                     <div className='div-input-entrega'>
@@ -79,13 +86,24 @@ const Entrega = () => {
                     </div>
 
                     <div className='div-input-entrega'>
-                        <label className='label-form-entrega'>Dirección  (calle y número)</label>
-                        <input type='text' value={direccion} onChange={(e) => setDireccion(e.target.value)} required={formaEntrega === 'Delivery'} disabled={formaEntrega === 'Retira'} />
+                        <label className='label-form-entrega'>
+                            {formaEntrega === 'Retira' ? 'Ubicación del kiosko' : 'Dirección (calle y número)'}
+                        </label>
+                        <input
+                            type='text'
+                            value={formaEntrega === 'Retira' ? 'José Javier Díaz 1650' : direccion}
+                            onChange={(e) => setDireccion(e.target.value)}
+                            disabled={formaEntrega === 'Retira'}
+                        />
                     </div>
 
                     <div className='div-input-entrega'>
                         <label className='label-form-entrega'>Referencias</label>
-                        <input type='text' value={referencias} onChange={(e) => setReferencias(e.target.value)}
+                        <input
+                            type='text'
+                            value={referencias}
+                            onChange={(e) => setReferencias(e.target.value)}
+                            disabled={formaEntrega === 'Retira'}
                         />
                     </div>
                 </div>
@@ -94,7 +112,7 @@ const Entrega = () => {
             <div className='resumen-flotante'>
                 <div className='div-resumen-entrega div-total-entrega'>
                     <p className=''>Total </p>
-                    <span className=''>$ {totalPrecio}</span>
+                    <span className=''>$ {totalPrecioProductos + totalPrecioPromos}</span>
                 </div>
                 <button className='btn-confirmar-pedido btn-entrega-resumen' onClick={handleEnviarWhatsapp}>
                     Pedir por WhatsApp

@@ -25,7 +25,7 @@
     align-items: center;
     justify-content: space-around;
     padding: 10px;
-    padding-right: 15px;
+    padding-right: 5px;
     width: 90%;
     border-radius: 5px;
     margin: 2px 0px;
@@ -110,7 +110,7 @@
 
 /* Div flotante del resumen */
 .resumen-flotante {
-    position: fixed;
+    position: fixed; 
     bottom: 0;
     right: 0;
     width: 100%;
@@ -125,11 +125,11 @@
   }
   
   .div-resumen{
-    padding: 0px 15px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     width: 100%;
+    padding: 0px 15px;
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
   }
 
   .resumen-flotante h2 {
@@ -255,4 +255,9 @@
     .div-btn-vaciar-carrito {
         margin-right: 480px;
     }
+}
+
+
+.img-fernet1{
+    width: 50px;
 }

@@ -28,7 +28,7 @@ const Home = () => {
 
       <section className='seccion-home'>
         <div className='d-flex justify-content-center col-12'>
-          <Link to='/promociones' className='link-promociones'>PROMOCIONES</Link>
+          <Link to='/promos' className='link-promociones'>PROMOS</Link>
         </div>
 
         <div className='row justify-content-center divContainerCateg'>
