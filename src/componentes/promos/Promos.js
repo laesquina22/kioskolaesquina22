@@ -1,3 +1,4 @@
+
 import React, { useEffect, useState, useMemo, useContext } from 'react';
 import './Promos.css';
 import { Link } from 'react-router-dom';
@@ -6,7 +7,7 @@ import ClipLoader from 'react-spinners/ClipLoader';
 import { CarritoContext } from '../../context/CarritoContext';
 
 const Promos = () => {
-  const [promociones, setPromociones] = useState([]);
+  const [promos, setPromos] = useState([]);
   const [loading, setLoading] = useState(true);
   const [currentPage, setCurrentPage] = useState(1);
   const promosPorPagina = 20;
@@ -17,11 +18,11 @@ const Promos = () => {
     fetch('/promos.json') // Ajusta la ruta según donde almacenes tu archivo JSON
       .then((response) => response.json())
       .then((data) => {
-        setPromociones(data.promociones);
+        setPromos(data.promos);
         setLoading(false);
       })
       .catch((error) => {
-        console.error('Error fetching promociones:', error);
+        console.error('Error fetching promos:', error);
         setLoading(false);
       });
   }, []);
@@ -29,11 +30,11 @@ const Promos = () => {
   const indexOfLastPromo = currentPage * promosPorPagina;
   const indexOfFirstPromo = indexOfLastPromo - promosPorPagina;
   const promosActuales = useMemo(
-    () => promociones.slice(indexOfFirstPromo, indexOfLastPromo),
-    [promociones, indexOfFirstPromo, indexOfLastPromo]
+    () => promos.slice(indexOfFirstPromo, indexOfLastPromo),
+    [promos, indexOfFirstPromo, indexOfLastPromo]
   );
 
-  const totalPaginas = Math.ceil(promociones.length / promosPorPagina);
+  const totalPaginas = Math.ceil(promos.length / promosPorPagina);
 
   const getPaginationClass = () => {
     if (totalProductos > 0 && totalPromos > 0) {
@@ -58,8 +59,8 @@ const Promos = () => {
     );
   }
 
-  if (!loading && promociones.length === 0) {
-    return <div className="error-message">No se encontraron promociones.</div>;
+  if (!loading && promos.length === 0) {
+    return <div className="error-message">No se encontraron promos.</div>;
   }
 
   return (
@@ -74,7 +75,7 @@ const Promos = () => {
         <h1 className="h1-productos mt-4">Promos</h1>
       </div>
 
-      {/* Promociones */}
+      {/* Promos */}
       <section className="seccion-promos container mt-4">
         <div className="mt-3 row div-promos-container">
           {promosActuales.map((promo) => (
@@ -137,6 +138,7 @@ const PromoItem = ({ promo, añadirAlCarrito }) => {
   };
 
   const handleAñadir = () => {
+    console.log("Añadiendo al carrito:", promo, cantidad);
     añadirAlCarrito(promo, cantidad, 'promo');
   }
 
@@ -173,3 +175,5 @@ const PromoItem = ({ promo, añadirAlCarrito }) => {
 };
 
 export default Promos;
+
+  

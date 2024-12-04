@@ -2243,7 +2243,7 @@
             {
                 "id": "cervezabotella2",
                 "nombre": "Cerveza 361 Desc.",
-                "img": "/img/imagenesKiosko/imgKioskoBebidasCA/desartable361-min.png",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasCA/descartable361-min.png",
                 "medida": "1L",
                 "precio": "2050",
                 "marca": "361",
@@ -2268,7 +2268,7 @@
                 "tipo": "Cerveza Botella"
             },
             {
-                "id": "cervezbotella5",
+                "id": "cervezabotella5",
                 "nombre": "Cerveza Miller",
                 "img": "/img/imagenesKiosko/imgKioskoBebidasCA/miller330-min.png",
                 "medida": "330cc",

@@ -11,45 +11,55 @@ export const CarritoProvider = ({ children }) => {
   const [totalPrecioPromos, setTotalPrecioPromos] = useState(0);
 
   const añadirAlCarrito = (item, cantidad, tipo) => {
-    console.log("sume un producto");
     if (tipo === 'producto') {
       setCarritoProductos((prevCarrito) => {
         const productoExistente = prevCarrito.find((prod) => prod.id === item.id);
-        if (productoExistente) {
+        if (productoExistente)  {
+          // Actualizamos la cantidad de un producto existente
           return prevCarrito.map((prod) =>
-            prod.id === item.id ? { ...prod, cantidad: prod.cantidad + cantidad } : prod
+            prod.id === item.id
+              ? { ...prod, cantidad: prod.cantidad + cantidad }
+              : prod
           );
         }
         return [...prevCarrito, { ...item, cantidad }];
       });
-      
-
+  
       setTotalProductos((prevTotal) => prevTotal + cantidad);
       setTotalPrecioProductos((prevTotal) => prevTotal + item.precio * cantidad);
     } else if (tipo === 'promo') {
       setCarritoPromos((prevCarrito) => {
         const promoExistente = prevCarrito.find((promo) => promo.id === item.id);
         if (promoExistente) {
+          // Actualizamos la cantidad de una promoción existente
           return prevCarrito.map((promo) =>
-            promo.id === item.id ? { ...promo, cantidad: promo.cantidad + cantidad } : promo
+            promo.id === item.id
+              ? { ...promo, cantidad: promo.cantidad + cantidad }
+              : promo
           );
         }
+        // Si la promoción no existe, la agregamos al carrito
         return [...prevCarrito, { ...item, cantidad }];
       });
-
+  
       setTotalPromos((prevTotal) => prevTotal + cantidad);
-      setTotalPrecioPromos((prevTotal) => prevTotal + item.precio * cantidad);
-    }
-  };
-
+    setTotalPrecioPromos((prevTotal) => prevTotal + item.precio * cantidad);
+  }
+};
+  
   const eliminarDelCarrito = (id, tipo) => {
     if (tipo === 'producto') {
       setCarritoProductos((prevCarrito) => {
         const productoAEliminar = prevCarrito.find((item) => item.id === id);
         if (productoAEliminar) {
-          setTotalProductos((prevTotal) => prevTotal - productoAEliminar.cantidad);
+          setTotalProductos((prevTotal) =>
+            Math.max(prevTotal - productoAEliminar.cantidad, 0)
+          );
           setTotalPrecioProductos((prevTotal) =>
-            prevTotal - productoAEliminar.precio * productoAEliminar.cantidad
+            Math.max(
+              prevTotal - productoAEliminar.precio * productoAEliminar.cantidad,
+              0
+            )
           );
           return prevCarrito.filter((item) => item.id !== id);
         }
@@ -59,9 +69,14 @@ export const CarritoProvider = ({ children }) => {
       setCarritoPromos((prevCarrito) => {
         const promoAEliminar = prevCarrito.find((item) => item.id === id);
         if (promoAEliminar) {
-          setTotalPromos((prevTotal) => prevTotal - promoAEliminar.cantidad);
+          setTotalPromos((prevTotal) =>
+            Math.max(prevTotal - promoAEliminar.cantidad, 0)
+          );
           setTotalPrecioPromos((prevTotal) =>
-            prevTotal - promoAEliminar.precio * promoAEliminar.cantidad
+            Math.max(
+              prevTotal - promoAEliminar.precio * promoAEliminar.cantidad,
+              0
+            )
           );
           return prevCarrito.filter((item) => item.id !== id);
         }

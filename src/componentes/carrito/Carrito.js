@@ -4,13 +4,15 @@ import { CarritoContext } from '../../context/CarritoContext';
 import NavBar from '../navBar/NavBar';
 import { Link, useNavigate } from 'react-router-dom';
 import Swal from 'sweetalert2';
+import ItemCarrito from '../itemCarrito/ItemCarrito';
+
 
 const Carrito = () => {
   const { carritoProductos, carritoPromos, totalPrecioProductos, totalPrecioPromos, añadirAlCarrito, eliminarDelCarrito, vaciarCarrito } = useContext(CarritoContext);
   const navigate = useNavigate();
 
   useEffect(() => {
-    if (carritoProductos.length === 0) {
+    if (carritoProductos.length === 0 && carritoPromos.length === 0) {
       Swal.fire({
         title: 'Carrito vacío',
         text: 'Todavia no agregaste productos.',
@@ -21,17 +23,20 @@ const Carrito = () => {
         navigate('/');
       });
     }
-  }, [carritoProductos, navigate]);
+  }, [carritoProductos, carritoPromos, navigate]);
 
-  const handleRestarProducto = (producto) => {
-    console.log("reste un producto");
-
-    if (producto.cantidad > 1) {
-      añadirAlCarrito(producto, -1);
+  const handleRestarProducto = (item, tipo) => {
+    if (item.cantidad > 1) {
+      añadirAlCarrito(item, -1, tipo);
     } else {
-      eliminarDelCarrito(producto.id);
+      eliminarDelCarrito(item.id, tipo);
     }
   };
+
+  const handleSumarProducto = (item, tipo) => {
+    añadirAlCarrito(item, 1, tipo); // Sumar 1 al producto
+  };
+  
 
   const handleVaciarCarrito = () => {
     Swal.fire({
@@ -55,6 +60,18 @@ const Carrito = () => {
     });
   };
 
+  const handleConfirmarPedido = () => {
+    if (carritoProductos.length === 0 && carritoPromos.length === 0) {
+      Swal.fire({
+        title: 'Carrito vacío',
+        text: 'No puedes confirmar un pedido sin productos.',
+        icon: 'warning',
+      });
+      return;
+    }
+    navigate('/entrega');
+  };
+
   return (
     <main className='carrito-container'>
       <NavBar />
@@ -65,74 +82,34 @@ const Carrito = () => {
       </div>
 
       <div className='productos-carrito'>
-      {carritoProductos.map(producto => (
-  <div key={producto.id} className='producto-carrito'>
-    <img className={`img-producto img-${producto.id}`} src={producto.img} alt='imagen-producto'></img>
-    <div className='detalles-producto-carrito'>
-      <p className='p-nombre p-nombre-carrito'>{producto.nombre}</p>
-      <p className='p-medida'>{producto.medida}</p>
-    </div>
-    <div className='detalles2-producto-carrito'>
-      <div className='div-cantidad-productos-carrito'>
-        <button
-          className='btn-resta-suma'
-          onClick={() => handleRestarProducto(producto)}>
-          <img src='/img/img-iconos/menos.png' className='menos-icon' alt='icono-menos'></img>
-        </button>
-        <p className='p-cantidad'>{producto.cantidad}</p>
-        <button
-          className='btn-resta-suma'
-          onClick={() => añadirAlCarrito(producto, 1, 'producto')}>
-          <img src='/img/img-iconos/mas.png' className='menos-icon' alt='icono-mas'></img>
-        </button>
+        {carritoProductos.map(producto => (
+          <ItemCarrito
+            key={producto.id}
+            item={producto}
+            tipo="producto"
+            handleRestar={handleRestarProducto}
+            handleSumar={handleSumarProducto}
+          />
+        ))}
+        {carritoPromos.map(promo => (
+          <ItemCarrito
+            key={promo.id}
+            item={promo}
+            tipo="promo"
+            handleRestar={handleRestarProducto}
+            handleSumar={handleSumarProducto}
+          />
+        ))}
       </div>
-      <p className='p-precio'>$ {producto.precio * producto.cantidad}</p>
-    </div>
+
+
+      {(carritoProductos.length > 0 || carritoPromos.length > 0) && (
+  <div className='div-btn-vaciar-carrito'>
+    <button className='btn-vaciar-carrito' onClick={handleVaciarCarrito}>
+      Vaciar Carrito
+    </button>
   </div>
-))}
-        {carritoPromos.map((promo) => (
-  <div key={promo.id} className='producto-carrito'>
-    <img className={`img-producto img-${promo.id}`} src={promo.img} alt='imagen-producto'></img>
-    <div className='detalles-producto-carrito'>
-      <p className='p-nombre p-nombre-carrito'>{promo.nombre}</p>
-      <p className='p-medida'>{promo.medida}</p>
-    </div>
-    <div className='detalles2-producto-carrito'>
-      <div className='div-cantidad-productos-carrito'>
-        {/* Botón para restar */}
-        <button
-          className='btn-resta-suma'
-          onClick={() => handleRestarProducto(promo)}>
-          <img src='/img/img-iconos/menos.png' className='menos-icon' alt='icono-menos'></img>
-        </button>
-        {/* Mostrar cantidad */}
-        <p className='p-cantidad'>{promo.cantidad}</p>
-        {/* Botón para sumar */}
-        <button
-          className='btn-resta-suma'
-          onClick={() => {
-            añadirAlCarrito(promo, 1, 'promo'); // Añadir una unidad al carrito de promociones
-          }}
-        >
-          <img src='/img/img-iconos/mas.png' className='menos-icon' alt='icono-mas' />
-        </button>
-      </div>
-      {/* Mostrar precio total del producto en base a la cantidad */}
-      <p className='p-precio'>$ {promo.precio * promo.cantidad}</p>
-    </div>
-  </div>
-))}
-
-      </div>
-
-      {carritoProductos.length > 0 && (
-        <div className='div-btn-vaciar-carrito'>
-          <button className='btn-vaciar-carrito' onClick={handleVaciarCarrito}>
-            Vaciar Carrito
-          </button>
-        </div>
-      )}
-
+)}
      
         <div className='resumen-flotante'>
 
@@ -140,22 +117,22 @@ const Carrito = () => {
 
           <div className='div-resumen'>
             <p className=''>Productos</p>
-            <span>$ {totalPrecioProductos}</span>
+            <span className='span-precio-pro'>$ {totalPrecioProductos}</span>
           </div>
 
           <div className='div-resumen mb-3'>
             <p className=''>Promos </p>
-            <span>$ {totalPrecioPromos}</span>
+            <span className='span-precio-pro'>$ {totalPrecioPromos}</span>
           </div>
 
           <hr className='hr-resumen'></hr>
 
           <div className='div-resumen'>
             <p className='mt-3'>Total </p>
-            <span>$ {totalPrecioProductos + totalPrecioPromos}</span>
+            <span className='span-precio-pro'>$ {totalPrecioProductos + totalPrecioPromos}</span>
           </div>
 
-          <button className='btn-confirmar-pedido' onClick={() => navigate('/entrega')}>
+          <button className='btn-confirmar-pedido' onClick={handleConfirmarPedido}>
             Confirmar Pedido
           </button>
         </div>
