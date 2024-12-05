@@ -3,6 +3,7 @@
     max-width: 200px;
     margin: 0;
     padding-bottom: 10px;
+    font-size: 14px;
   }
   
   .custom-select-header {
@@ -15,8 +16,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    min-width: 200px !important;
-    max-width: 180px !important;
+    min-width: 100px !important;
+    max-width: 200px !important;
+    padding: 5px;
   }
   
   .custom-select-header.open {
