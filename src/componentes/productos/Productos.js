@@ -106,7 +106,7 @@ const Productos = () => {
             options={marcas}
             value={selectedMarca}
             onChange={(value) => setSelectedMarca(value)}
-            placeholder="Todas las marcas"
+            placeholder="Todas"
           />
         </div>
 
@@ -116,7 +116,7 @@ const Productos = () => {
             options={tipos}
             value={selectedTipo}
             onChange={(value) => setSelectedTipo(value)}
-            placeholder="Todos los tipos"
+            placeholder="Todos"
           />
         </div>
       </div>

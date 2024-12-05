@@ -158,6 +158,8 @@ const PromoItem = ({ promo, añadirAlCarrito }) => {
           <p className="promo-precio">$ {promo.precio}</p>
         </div>
         <div className="promo-actions">
+          
+          <div className='div-sumar-restar-promos'>
           <button className="btn-resta-suma" onClick={handleRestar}>
             <img src="/img/img-iconos/menos.png" className="menos-icon" alt="icono-menos" />
           </button>
@@ -165,6 +167,8 @@ const PromoItem = ({ promo, añadirAlCarrito }) => {
           <button className="btn-resta-suma" onClick={handleSumar}>
             <img src="/img/img-iconos/mas.png" className="menos-icon" alt="icono-mas" />
           </button>
+          </div>
+
           <button className="btn-añadir" onClick={handleAñadir}>
             Añadir al Carrito
           </button>

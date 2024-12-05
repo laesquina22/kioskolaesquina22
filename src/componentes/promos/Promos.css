@@ -35,6 +35,24 @@
     font-style: italic;
 }
 
+.div-sumar-restar-promos{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;  
+  background-color: #f15a24;
+  border-radius: 5px;
+  width: 120px;
+}
+
+.promo-cantidad{
+  background-color: white;
+  height: 36px;
+  width: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .promo-actions{
     display: flex;
     justify-content: space-evenly;
