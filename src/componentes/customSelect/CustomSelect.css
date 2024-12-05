@@ -1,12 +1,12 @@
 .custom-select-container {
     position: relative;
-    width: 100%;
-    max-width: 200px;
+    width: 90%;
+    max-width: 150px;
     margin: 0 auto;
   }
   
   .custom-select-header {
-    padding: 10px;
+    padding: 5px;
     border: 1px solid #ccc;
     border-radius: 5px;
     color: white;
@@ -14,7 +14,7 @@
     font-weight: 500;
     cursor: pointer;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center;
     min-width: 200px !important;
     max-width: 190px !important;
@@ -25,12 +25,11 @@
   }
   
   .custom-select-arrow {
-    margin-left: 8px;
-    font-size: 12px;
+    font-size: 10px;
   }
 
   .img-flecha{
-    width: 20px;
+    width: 15px;
     opacity: 1;
   }
   
