@@ -51,8 +51,8 @@
 
 .filtros-container{
     margin-top: 10px;
-    width: 90% !important;
-    padding: 10px;
+    width: 90%;
+    padding: 5px;
     display: flex;
     justify-content: space-evenly;
     border: 1px solid white;
@@ -61,9 +61,10 @@
 }
 
 .filtro-marca{
+    width: 50%;
    display: flex;
    flex-direction: column;
-   align-items: center;
+   align-items: center !important;
    margin: 0px 0px;
 }
 
@@ -383,6 +384,12 @@
 .p-resumen-carrito{
  font-size: 18px;
 }
+}
+
+@media screen and (min-width: 650px) {
+    .filtros-container{
+        width: 80%;
+    } 
 }
 
 @media screen and (min-width: 860px) {
