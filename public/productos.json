@@ -1693,6 +1693,33 @@
                 "precio": "1300",
                 "marca": "Knor",
                 "tipo": "Sopa"
+            },
+            {
+                "id": "almacen188",
+                "nombre": "Discos para Arabes La Docta x 12",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/discosParaArabesLaDocta12-min.jpeg",
+                "medida": "100gr",
+                "precio": "690",
+                "marca": "La Docta",
+                "tipo": "Discos"
+            },
+            {
+                "id": "almacen189",
+                "nombre": "Discos para Horno La Docta x 12",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/discosParaHornoLaDocta12-min.jpeg",
+                "medida": "100gr",
+                "precio": "690",
+                "marca": "La Docta",
+                "tipo": "Discos"
+            },
+            {
+                "id": "almacen190",
+                "nombre": "Pacualina La Docta",
+                "img": "/img/imagenesKiosko/imgKioskoAlmacen/pascualinaLaDocta2-min.jpeg",
+                "medida": "2 un",
+                "precio": "690",
+                "marca": "La Docta",
+                "tipo": "Pacualina"
             }
         ],
 
@@ -2275,6 +2302,33 @@
                 "precio": "2050",
                 "marca": "Miller",
                 "tipo": "Cerveza Botella"
+            },
+            {
+                "id": "cervezalata13",
+                "nombre": "Cerveza Salta Roja lata",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasCA/lataSaltaRoja473.jpeg",
+                "medida": "473cc",
+                "precio": "1490",
+                "marca": "Salta",
+                "tipo": "Cerveza Lata"
+            },
+            {
+                "id": "frezze",
+                "nombre": "Frezze blue 1L",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasCA/frezzeBlue1.jpeg",
+                "medida": "1L",
+                "precio": "1490",
+                "marca": "Frezze",
+                "tipo": "Vino Espumante"
+            },
+            {
+                "id": "doctorlemon",
+                "nombre": "Dr. Lemon Vodka 1L",
+                "img": "/img/imagenesKiosko/imgKioskoBebidasCA/doctorLemonVodka1.jpeg",
+                "medida": "1L",
+                "precio": "1490",
+                "marca": "Dr. Lemon",
+                "tipo": "Vodka"
             }
         ],
 
@@ -2992,7 +3046,7 @@
             }, 
             {
                 "id": "cigarrillos2",
-                "nombre": "Chesterfield 12",
+                "nombre": "Chesterfield 10 Común",
                 "img": "/img/imagenesKiosko/imgKioskoCigarrillos/chester12.png",
                 "medida": "12 un",
                 "precio": "2000",
@@ -3001,7 +3055,7 @@
             },
             {
                 "id": "cigarrillos3",
-                "nombre": "Chesterfield Convertible 12",
+                "nombre": "Chesterfield 10 Convertible",
                 "img": "/img/imagenesKiosko/imgKioskoCigarrillos/chesterConv12.png",
                 "medida": "12 un",
                 "precio": "2000",
@@ -3010,28 +3064,28 @@
             },
             {
                 "id": "cigarrillos4",
-                "nombre": "Chesterfield 20",
+                "nombre": "Chesterfield 20 Común",
                 "img": "/img/imagenesKiosko/imgKioskoCigarrillos/chester20.png",
                 "medida": "20 un",
-                "precio": "2000",
+                "precio": "2800",
                 "marca": "Chesterfield",
                 "tipo": "Cigarrillos"
             },
             {
                 "id": "cigarrillos5",
-                "nombre": "Chesterfield Convertible Box 20",
+                "nombre": "Chesterfield 20 Convertible Box",
                 "img": "/img/imagenesKiosko/imgKioskoCigarrillos/chesterConv20.png",
                 "medida": "20 un",
-                "precio": "2000",
+                "precio": "3300",
                 "marca": "Chesterfield",
                 "tipo": "Cigarrillos Convertibles"
             },
             {
                 "id": "cigarrillos6",
-                "nombre": "Chesterfield Convertible Box Uva 20",
+                "nombre": "Chesterfield 20 Convertible Box Uva",
                 "img": "/img/imagenesKiosko/imgKioskoCigarrillos/chesterConvUva20.png",
                 "medida": "20 un",
-                "precio": "2000",
+                "precio": "3300",
                 "marca": "Chesterfield",
                 "tipo": "Cigarrillos Convertibles"
             },
@@ -3040,52 +3094,52 @@
                 "nombre": "Dolchester 20",
                 "img": "/img/imagenesKiosko/imgKioskoCigarrillos/dolchester20.png",
                 "medida": "20 un",
-                "precio": "2000",
+                "precio": "1800",
                 "marca": "Dolchester",
                 "tipo": "Cigarrillos"
             },
             {
                 "id": "cigarrillos8",
-                "nombre": "Kiel 20",
-                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/kiel20.png",
+                "nombre": "Mill 20",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/",
                 "medida": "20 un",
-                "precio": "2000",
-                "marca": "Kiel",
+                "precio": "1300",
+                "marca": "Mill",
                 "tipo": "Cigarrillos"
             },
             {
                 "id": "cigarrillos9",
-                "nombre": "Lucky Strike 12",
+                "nombre": "Lucky Strike 10 Común",
                 "img": "/img/imagenesKiosko/imgKioskoCigarrillos/lucky12.png",
                 "medida": "12 un",
-                "precio": "2000",
+                "precio": "2400",
                 "marca": "Lucky Strike",
                 "tipo": "Cigarrillos"
             },
             {
                 "id": "cigarrillos10",
-                "nombre": "Lucky Strike Convertible 12",
+                "nombre": "Lucky Strike 10 Convertible",
                 "img": "/img/imagenesKiosko/imgKioskoCigarrillos/luckyConv12.png",
                 "medida": "12 un",
-                "precio": "2000",
+                "precio": "2400",
                 "marca": "Lucky Strike",
                 "tipo": "Cigarrillos Convertibles"
             },
             {
                 "id": "cigarrillos11",
-                "nombre": "Lucky Strike 20",
+                "nombre": "Lucky Strike 20 Común",
                 "img": "/img/imagenesKiosko/imgKioskoCigarrillos/lucky20.png",
                 "medida": "20 un",
-                "precio": "2000",
+                "precio": "3400",
                 "marca": "Lucky Strike",
                 "tipo": "Cigarrillos"
             },
             {
                 "id": "cigarrillos12",
-                "nombre": "Lucky Strike Convertible 20",
+                "nombre": "Lucky Strike 20 Convertible",
                 "img": "/img/imagenesKiosko/imgKioskoCigarrillos/luckyConv20.png",
                 "medida": "20 un",
-                "precio": "2000",
+                "precio": "3400",
                 "marca": "Lucky Strike",
                 "tipo": "Cigarrillos Convertibles"
             },
@@ -3094,49 +3148,67 @@
                 "nombre": "Lucky Strike Convertible XL 20",
                 "img": "/img/imagenesKiosko/imgKioskoCigarrillos/luckyConvXL20.png",
                 "medida": "20 un",
+                "precio": "3900",
+                "marca": "Lucky Strike",
+                "tipo": "Cigarrillos Convertibles"
+            },
+            {
+                "id": "cigarrillos13b",
+                "nombre": "Lucky Strike Origen XL 20",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/luckyConvXL20.png",
+                "medida": "20 un",
                 "precio": "2000",
                 "marca": "Lucky Strike",
                 "tipo": "Cigarrillos Convertibles"
             },
             {
                 "id": "cigarrillos14",
-                "nombre": "Malboro 12",
+                "nombre": "Malboro 10 común",
                 "img": "/img/imagenesKiosko/imgKioskoCigarrillos/malboro12.png",
                 "medida": "12 un",
-                "precio": "2000",
+                "precio": "2700",
                 "marca": "Malboro",
                 "tipo": "Cigarrillos"
             },
             {
                 "id": "cigarrillos15",
-                "nombre": "Malboro Convertible 12",
+                "nombre": "Malboro 10 Convertible",
                 "img": "/img/imagenesKiosko/imgKioskoCigarrillos/malboroConv12.png",
                 "medida": "12 un",
-                "precio": "2000",
+                "precio": "2700",
                 "marca": "Malboro",
                 "tipo": "Cigarrillos Convertibles"
             },
             {
                 "id": "cigarrillos16",
-                "nombre": "Malboro 20",
+                "nombre": "Malboro 20 Común",
                 "img": "/img/imagenesKiosko/imgKioskoCigarrillos/malboro20.png",
                 "medida": "20 un",
-                "precio": "2000",
+                "precio": "4000",
                 "marca": "Malboro",
                 "tipo": "Cigarrillos"
             },
             {
                 "id": "cigarrillos17",
-                "nombre": "Malboro Box 20",
+                "nombre": "Malboro 20 Box",
                 "img": "/img/imagenesKiosko/imgKioskoCigarrillos/malboroBox20.png",
                 "medida": "20 un",
-                "precio": "2000",
+                "precio": "4400",
+                "marca": "Malboro",
+                "tipo": "Cigarrillos"
+            },
+            {
+                "id": "cigarrillos17b",
+                "nombre": "Malboro 20 Box Uva",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/",
+                "medida": "20 un",
+                "precio": "4400",
                 "marca": "Malboro",
                 "tipo": "Cigarrillos"
             },
             {
                 "id": "cigarrillos18",
-                "nombre": "Malboro Crafted Azul 20",
+                "nombre": "Malboro 20 Crafted Azul",
                 "img": "/img/imagenesKiosko/imgKioskoCigarrillos/malboroCraftedAzul20.png",
                 "medida": "20 un",
                 "precio": "2000",
@@ -3145,10 +3217,19 @@
             },
             {
                 "id": "cigarrillos19",
-                "nombre": "Malboro Crafted Rojo 20",
+                "nombre": "Malboro 20 Crafted Rojo",
                 "img": "/img/imagenesKiosko/imgKioskoCigarrillos/malboroCraftedRojo20.png",
                 "medida": "20 un",
                 "precio": "2000",
+                "marca": "Malboro",
+                "tipo": "Cigarrillos"
+            },
+            {
+                "id": "cigarrillos19b",
+                "nombre": "Malboro 20 Crafted box",
+                "img": "/img/imagenesKiosko/imgKioskoCigarrillos/",
+                "medida": "20 un",
+                "precio": "2400",
                 "marca": "Malboro",
                 "tipo": "Cigarrillos"
             },
@@ -3166,16 +3247,16 @@
                 "nombre": "Master 20",
                 "img": "/img/imagenesKiosko/imgKioskoCigarrillos/master20.png",
                 "medida": "20 un",
-                "precio": "2000",
+                "precio": "1700",
                 "marca": "Malboro",
                 "tipo": "Cigarrillos"
             },
             {
                 "id": "cigarrillo22",
-                "nombre": "Milenio Convertible 20",
+                "nombre": "Milenio 20 Convertible",
                 "img": "/img/imagenesKiosko/imgKioskoCigarrillos/milenioConv20.png",
                 "medida": "20 un",
-                "precio": "2000",
+                "precio": "1800",
                 "marca": "Malboro",
                 "tipo": "Cigarrillos Convertibles"
             },
@@ -3184,61 +3265,61 @@
                 "nombre": "Parliament 20",
                 "img": "/img/imagenesKiosko/imgKioskoCigarrillos/parliament.png",
                 "medida": "20 un",
-                "precio": "2000",
+                "precio": "5000",
                 "marca": "Parliament",
                 "tipo": "Cigarrillos"
             },
             {
                 "id": "cigarrillos24",
-                "nombre": "Philip Morris 12",
+                "nombre": "Philip 10 Morris",
                 "img": "/img/imagenesKiosko/imgKioskoCigarrillos/philipMorris12.png",
                 "medida": "12 un",
-                "precio": "2000",
+                "precio": "2400",
                 "marca": "Philip Morris",
                 "tipo": "Cigarrillos"
             },
             {
                 "id": "cigarrillos25",
-                "nombre": "Philip Morris Convertible 12",
+                "nombre": "Philip Morris 10 nConvertible",
                 "img": "/img/imagenesKiosko/imgKioskoCigarrillos/philipMorrisConv12.png",
                 "medida": "12 un",
-                "precio": "2000",
+                "precio": "2400",
                 "marca": "Philip Morris",
                 "tipo": "Cigarrillos Convertibles"
             },
             {
                 "id": "cigarrillos26",
-                "nombre": "Philip Morris 20",
+                "nombre": "Philip Morris 20 Común",
                 "img": "/img/imagenesKiosko/imgKioskoCigarrillos/philipMorris20.png",
                 "medida": "20 un",
-                "precio": "2000",
+                "precio": "3400",
                 "marca": "Philip Morris",
                 "tipo": "Cigarrillos"
             },
             {
                 "id": "cigarrillos27",
-                "nombre": "Philip Morris Convertible 20",
+                "nombre": "Philip Morris 20 Convertible Box",
                 "img": "/img/imagenesKiosko/imgKioskoCigarrillos/philipMorrisConv20.png",
                 "medida": "20 un",
-                "precio": "2000",
+                "precio": "3900",
                 "marca": "Philip Morris",
                 "tipo": "Cigarrillos Convertibles"
             },
             {
                 "id": "cigarrillos28",
-                "nombre": "Red Point 20",
+                "nombre": "Red Point 20 Común",
                 "img": "/img/imagenesKiosko/imgKioskoCigarrillos/redPoint20.png",
                 "medida": "20 un",
-                "precio": "2000",
+                "precio": "1800",
                 "marca": "Red Point",
                 "tipo": "Cigarrillos"
             },
             {
                 "id": "cigarrillos29",
-                "nombre": "Red Point Convertible 20",
+                "nombre": "Red Point 20 Convertible Box",
                 "img": "/img/imagenesKiosko/imgKioskoCigarrillos/redPointConv20.png",
                 "medida": "20 un",
-                "precio": "2000",
+                "precio": "1900",
                 "marca": "Red Point",
                 "tipo": "Cigarrillos Convertibles"
             },
@@ -3344,28 +3425,429 @@
 
 
 
+
         
         "Fiambres y Embutidos":[
             {
                 "id": "fiambres1",
-                "nombre": "Jamon",
+                "nombre": "Jamon Cocido El Colonial",
+                "img": "/img/imagenesKiosko/imgKioskoFyE/JamonCocidoElColonial-min.png",
                 "medida": "100gr",
-                "precio": "690"
+                "precio": "690",
+                "marca": "El Colonial",
+                "tipo": "Jamon"
             },
             {
                 "id": "fiambres2",
-                "nombre": "Queso",
+                "nombre": "Jamonada La Jamonada",
+                "img": "/img/imagenesKiosko/imgKioskoFyE/Jamonada-min.png",
                 "medida": "100gr",
-                "precio": "940"
+                "precio": "690",
+                "marca": "La Jamonada",
+                "tipo": "Jamon"
             },
             {
                 "id": "fiambres3",
-                "nombre": "Salame",
+                "nombre": "Mortadela Paladini",
+                "img": "/img/imagenesKiosko/imgKioskoFyE/mortadelaPaladini-min.jpg",
                 "medida": "100gr",
-                "precio": "670"
-            } 
-        ],
+                "precio": "690",
+                "marca": "Paladini",
+                "tipo": "Mortadela"
+            },
+            {
+                "id": "fiambres4",
+                "nombre": "Mortadela La Tirolesa",
+                "img": "/img/imagenesKiosko/imgKioskoFyE/mortadelaTirolesa-min.jpg",
+                "medida": "100gr",
+                "precio": "690",
+                "marca": "La Tirolesa",
+                "tipo": "Mortadela"
+            },
+            {
+                "id": "fiambres5",
+                "nombre": "Pasas de Uva",
+                "img": "/img/imagenesKiosko/imgKioskoFyE/PasasDeUva-min.png",
+                "medida": "100gr",
+                "precio": "690",
+                "marca": "",
+                "tipo": "Pasas de Uva"
+            },
+            {
+                "id": "fiambres6",
+                "nombre": "Aceitunas",
+                "img": "/img/imagenesKiosko/imgKioskoFyE/Aceitunas-min.png",
+                "medida": "100gr",
+                "precio": "690",
+                "marca": "",
+                "tipo": "Aceitunas"
+            },
+            {
+                "id": "fiambres7",
+                "nombre": "Aceitunas Rodajas",
+                "img": "/img/imagenesKiosko/imgKioskoFyE/aceitunasRodajas-min.png",
+                "medida": "100gr",
+                "precio": "690",
+                "marca": "",
+                "tipo": "Aceitunas"
+            },
+            {
+                "id": "fiambres8",
+                "nombre": "Aceitunas Negras",
+                "img": "/img/imagenesKiosko/imgKioskoFyE/aceitunasNegras-min.png",
+                "medida": "100gr",
+                "precio": "690",
+                "marca": "",
+                "tipo": "Aceitunas"
+            },
+            {
+                "id": "fiambres9",
+                "nombre": "Pickles",
+                "img": "/img/imagenesKiosko/imgKioskoFyE/pickles-min.png",
+                "medida": "100gr",
+                "precio": "690",
+                "marca": "",
+                "tipo": "pickles"
+            },
+            {
+                "id": "fiambres10",
+                "nombre": "Dulce de Batata",
+                "img": "/img/imagenesKiosko/imgKioskoFyE/dulceDeBatata-min.png",
+                "medida": "100gr",
+                "precio": "690",
+                "marca": "",
+                "tipo": "Dulce de Batata"
+            },
+            {
+                "id": "fiambres11",
+                "nombre": "Dulce de Membrillo",
+                "img": "/img/imagenesKiosko/imgKioskoFyE/dulceDeMembrillo-min.png",
+                "medida": "100gr",
+                "precio": "690",
+                "marca": "",
+                "tipo": "Dulce de Membrillo"
+            },
+            {
+                "id": "fiambres12",
+                "nombre": "Queso Tybo Arcovi",
+                "img": "/img/imagenesKiosko/imgKioskoFyE/quesoTyboArcovi-min.png",
+                "medida": "100gr",
+                "precio": "690",
+                "marca": "Arcovi",
+                "tipo": "Quesos"
+            },
+            {
+                "id": "fiambres13",
+                "nombre": "Queso Sardo",
+                "img": "/img/imagenesKiosko/imgKioskoFyE/quesoSardo-min.png",
+                "medida": "100gr",
+                "precio": "690",
+                "marca": "",
+                "tipo": "Quesos"
+            },
+            {
+                "id": "fiambres14",
+                "nombre": "Queso Cremoso Kencraik",
+                "img": "/img/imagenesKiosko/imgKioskoFyE/quesoCremosoKencraik-min.png",
+                "medida": "100gr",
+                "precio": "690",
+                "marca": "",
+                "tipo": "Quesos"
+            },
+            {
+                "id": "fiambres15",
+                "nombre": "Queso Cheddar",
+                "img": "/img/imagenesKiosko/imgKioskoFyE/quesoCheddar-min.jpg",
+                "medida": "100gr",
+                "precio": "690",
+                "marca": "",
+                "tipo": "Quesos"
+            },
+            {
+                "id": "fiambres16",
+                "nombre": "Salame Tipo Milan",
+                "img": "/img/imagenesKiosko/imgKioskoFyE/salameTipoMilan-min.jpg",
+                "medida": "100gr",
+                "precio": "690",
+                "marca": "La Tirolesa",
+                "tipo": "Salame"
+            },
+            {
+                "id": "fiambres17",
+                "nombre": "Patita de Cerdo La Tirolesa",
+                "img": "/img/imagenesKiosko/imgKioskoFyE/patitaDeCerdo-min.png",
+                "medida": "100gr",
+                "precio": "690",
+                "marca": "La Tirolesa",
+                "tipo": "Patita de Cerdo"
+            },
+            {
+                "id": "fiambres18",
+                "nombre": "Bondiola",
+                "img": "/img/imagenesKiosko/imgKioskoFyE/bondiola-min.png",
+                "medida": "100gr",
+                "precio": "690",
+                "marca": "",
+                "tipo": "Bondiola"
+            },
+            {
+                "id": "fiambres19",
+                "nombre": "Salchichas Swift x 6",
+                "img": "/img/imagenesKiosko/imgKioskoFyE/salchichasSwift6-min.jpeg",
+                "medida": "6 un",
+                "precio": "690",
+                "marca": "Swift",
+                "tipo": "Salchichas"
+            },{
+                "id": "fiambres20",
+                "nombre": "Salchichas Paladini x 6",
+                "img": "/img/imagenesKiosko/imgKioskoFyE/salchichasPaladini6-min.jpeg",
+                "medida": "6 un",
+                "precio": "690",
+                "marca": "Paladini",
+                "tipo": "Salchichas"
+            },{
+                "id": "fiambres21",
+                "nombre": "Salchichas Cap x 6",
+                "img": "/img/imagenesKiosko/imgKioskoFyE/salchichasCap6-min.jpeg",
+                "medida": "6 un",
+                "precio": "690",
+                "marca": "Cap",
+                "tipo": "Salchichas"
+            }
+          ],
 
+
+
+
+
+        "Lacteos, Quesos y Frescos":[
+             {
+                "id": "lacteo1",
+                "nombre": "Casancrem Balance 290.jpeg",
+                "img": "/img/imagenesKiosko/imgKioskoL,QyF/casancremBalance290.jpeg",
+                "medida": "290g",
+                "precio": "",
+                "marca": "CasanCrem",
+                "tipo": "Crema"
+            },
+            {
+                "id": "lacteo2",
+                "nombre": "Casancrem Clasico 290",
+                "img": "/img/imagenesKiosko/imgKioskoL,QyF/casancremClasico290.jpeg",
+                "medida": "290g",
+                "precio": "",
+                "marca": "CasanCrem",
+                "tipo": "Crema"
+            },
+            {
+                "id": "lacteo3",
+                "nombre": "Chocolatada La Serenisima 1L",
+                "img": "/img/imagenesKiosko/imgKioskoL,QyF/chocolatadaLaSerenisima1.jpeg",
+                "medida": "1L",
+                "precio": "",
+                "marca": "La Serenisima",
+                "tipo": "Chocolatada"
+            },
+            {
+                "id": "lacteo4",
+                "nombre": "Chocolatada La Serenisima 200cc",
+                "img": "/img/imagenesKiosko/imgKioskoL,QyF/chocolatadaLaSerenisima200.jpeg",
+                "medida": "200cc",
+                "precio": "",
+                "marca": "La Serenisima",
+                "tipo": "Chocolatada"
+            },
+            {
+                "id": "lacteo5",
+                "nombre": "Crema La Paulina Tradicional 200cc",
+                "img": "/img/imagenesKiosko/imgKioskoL,QyF/cremaLaPaulinaTradicional200.jpeg",
+                "medida": "200cc",
+                "precio": "",
+                "marca": "La Paulina",
+                "tipo": "Crema"
+            },
+            {
+                "id": "lacteo6",
+                "nombre": "Crema La Paulina Cocinar 200cc",
+                "img": "/img/imagenesKiosko/imgKioskoL,QyF/cremaLaSerenisimaCocinar200.jpeg",
+                "medida": "200cc",
+                "precio": "",
+                "marca": "La Paulina",
+                "tipo": "Crema"
+            },
+            {
+                "id": "lacteo7",
+                "nombre": "Crema Pausterizada Gourmet AyS 200cc",
+                "img": "/img/imagenesKiosko/imgKioskoL,QyF/cremaPausterizadaAySGourmet200.jpeg",
+                "medida": "200cc",
+                "precio": "",
+                "marca": "AyS",
+                "tipo": "Crema"
+            },
+            {
+                "id": "lacteo8",
+                "nombre": "Leche La Serenisima Larga Vida 1L",
+                "img": "/img/imagenesKiosko/imgKioskoL,QyF/laSerenisimaLargaVida1.jpeg",
+                "medida": "1L",
+                "precio": "",
+                "marca": "La Serenisima",
+                "tipo": "Leche"
+            },
+            {
+                "id": "lacteo9",
+                "nombre": "Leche Tregar 0% Lactosa 1L",
+                "img": "/img/imagenesKiosko/imgKioskoL,QyF/lecheTregar0Lactosa1.jpeg",
+                "medida": "1L",
+                "precio": "",
+                "marca": "Tregar",
+                "tipo": "Leche"
+            },
+            {
+                "id": "lacteo10",
+                "nombre": "Leche Tregar Entera 1L",
+                "img": "/img/imagenesKiosko/imgKioskoL,QyF/lecheTregarEntera1.jpeg",
+                "medida": "1L",
+                "precio": "",
+                "marca": "Tregar",
+                "tipo": "Leche"
+            },
+            {
+                "id": "lacteo11",
+                "nombre": "Leche Tregar Parcialmente Descremada 1L",
+                "img": "/img/imagenesKiosko/imgKioskoL,QyF/lecheTregarParcialDescremada1.jpeg",
+                "medida": "1L",
+                "precio": "",
+                "marca": "Tregar",
+                "tipo": "Leche"
+            },
+            {
+                "id": "lacteo12",
+                "nombre": "Manteca Goi-erri 100g",
+                "img": "/img/imagenesKiosko/imgKioskoL,QyF/mantecaGoi-erri100.jpeg",
+                "medida": "100g",
+                "precio": "",
+                "marca": "Goi-erri",
+                "tipo": "Manteca"
+            },
+            {
+                "id": "lacteo13",
+                "nombre": "Manteca La Paulina 100g",
+                "img": "/img/imagenesKiosko/imgKioskoL,QyF/mantecaLaPaulina100.jpeg",
+                "medida": "100g",
+                "precio": "",
+                "marca": "La Paulina",
+                "tipo": "Manteca"
+            },
+            {
+                "id": "lacteo14",
+                "nombre": "Queso Untable Chatel Cheddar Tregar 180g",
+                "img": "/img/imagenesKiosko/imgKioskoL,QyF/quesoUntableChatelCheddarTregar180.jpeg",
+                "medida": "180g",
+                "precio": "",
+                "marca": "Tregar",
+                "tipo": "Queso Untable"
+            },
+            {
+                "id": "lacteo15",
+                "nombre": "Queso Untable Chatel Clasico Tregar 180g",
+                "img": "/img/imagenesKiosko/imgKioskoL,QyF/quesoUntableChatelClasicoTregar180.jpeg",
+                "medida": "180g",
+                "precio": "",
+                "marca": "Tregar",
+                "tipo": "Queso Untable"
+            },
+            {
+                "id": "lacteo16",
+                "nombre": "Queso Untable Chatel Salame Tregar 180g",
+                "img": "/img/imagenesKiosko/imgKioskoL,QyF/quesoUntableChatelSalameTregar180.jpeg",
+                "medida": "180g",
+                "precio": "",
+                "marca": "Tregar",
+                "tipo": "Queso Untable"
+            },
+            {
+                "id": "lacteo17",
+                "nombre": "Queso Untable La Paulina Por Salut 190g",
+                "img": "/img/imagenesKiosko/imgKioskoL,QyF/quesoUntableLaPaulinaPorSalut190.jpeg",
+                "medida": "190g",
+                "precio": "",
+                "marca": "La Paulina",
+                "tipo": "Queso Untable"
+            },
+            {
+                "id": "lacteo18",
+                "nombre": "Queso Untable La Serenisima Clasico 195g",
+                "img": "/img/imagenesKiosko/imgKioskoL,QyF/quesoUntableLaSerenisimaClasico195.jpeg",
+                "medida": "195g",
+                "precio": "",
+                "marca": "La Serenisima",
+                "tipo": "Queso Untable"
+            },
+            {
+                "id": "lacteo19",
+                "nombre": "Queso Untable La Serenisima Clasico 195g",
+                "img": "/img/imagenesKiosko/imgKioskoL,QyF/quesoUntableLaSerenisimaClasico(2)195.jpeg",
+                "medida": "195g",
+                "precio": "",
+                "marca": "La Serenisima",
+                "tipo": "Queso Untable"
+            },
+            {
+                "id": "lacteo20",
+                "nombre": "Sachet La Serenisima Clasica Mas Liviana 1L",
+                "img": "/img/imagenesKiosko/imgKioskoL,QyF/sachetLaSerenisimaClasica+Liviana1.jpeg",
+                "medida": "1L",
+                "precio": "",
+                "marca": "La Serenisima",
+                "tipo": "Leche"
+            },
+            {
+                "id": "lacteo21",
+                "nombre": "Sachet La Serenisima Liviana 1L",
+                "img": "/img/imagenesKiosko/imgKioskoL,QyF/sachetLaSerenisimaLiviana1.jpeg",
+                "medida": "1L",
+                "precio": "",
+                "marca": "La Serenisima",
+                "tipo": "Leche"
+            },
+            {
+                "id": "lacteo22",
+                "nombre": "Yogur Tregar Vainilla 125g",
+                "img": "/img/imagenesKiosko/imgKioskoL,QyF/YogurtTregarVainilla125.jpeg",
+                "medida": "125g",
+                "precio": "",
+                "marca": "Tregar",
+                "tipo": "Yogur"
+            },
+            {
+                "id": "lacteo23",
+                "nombre": "Yogur Tregar Frutilla 125g",
+                "img": "/img/imagenesKiosko/imgKioskoL,QyF/YogurtTregarFrutilla125.jpeg",
+                "medida": "125g",
+                "precio": "",
+                "marca": "Tregar",
+                "tipo": "Yogur"
+            },
+            {
+                "id": "lacteo24",
+                "nombre": "Yogur Tregar Dulce De Leche 125g",
+                "img": "/img/imagenesKiosko/imgKioskoL,QyF/YogurtTregarDulceDeLeche125.jpeg",
+                "medida": "125g",
+                "precio": "",
+                "marca": "Tregar",
+                "tipo": "Yogur"
+            },
+            {
+                "id": "lacteo25",
+                "nombre": "Yogur Tregar Maracuya + Mango 160g",
+                "img": "/img/imagenesKiosko/imgKioskoL,QyF/YogurtTregarMaracuyaMango160.jpeg",
+                "medida": "160g",
+                "precio": "",
+                "marca": "Tregar",
+                "tipo": "Yogur"
+            }
+          ],
 
 
 
@@ -4457,69 +4939,266 @@
 
 
 
-        
+
+
         "Hielos y Congelados":[
             {
-                "id": "hielos1",
-                "nombre": "Hielo Grande",
+                "id": "HyC1",
+                "nombre": "Bolsa Hielo 1,5 kg",
+                "img": "/img/imagenesKiosko/imgKioskoHyC/bolsaHielo1,5.jpeg",
                 "medida": "1,5kg",
-                "precio": "2000"
+                "precio": "1000",
+                "marca":"",
+                "tipo":"Hielo"
             },
             {
-                "id": "hielos2",
-                "nombre": "Hielo Chico",
-                "medida": "1kg",
-                "precio": "1400"
+                "id": "HyC2",
+                "nombre": "Bolsa Hielo 3 kg",
+                "img": "/img/imagenesKiosko/imgKioskoHyC/bolsaHielo3.jpeg",
+                "medida": "3kg",
+                "precio": "1000",
+                "marca":"",
+                "tipo":"Hielo"
             },
             {
-                "id": "hielos3",
-                "nombre": "Hamburguesa Swift",
-                "medida": "4",
-                "precio": "2800"
-            } 
+                "id": "HyC3",
+                "nombre": "Bocaditos de Carne Swift",
+                "img": "/img/imagenesKiosko/imgKioskoHyC/bocaditosCarneSwift.jpeg",
+                "medida": "380g",
+                "precio": "1000",
+                "marca":"Swift",
+                "tipo":"Bocaditos"
+            },
+            {
+                "id": "HyC4",
+                "nombre": "Hambuerguesas de carne swift X 2",
+                "img": "/img/imagenesKiosko/imgKioskoHyC/HamburguesasClasicasSwift.jpeg",
+                "medida": "2 un",
+                "precio": "1000",
+                "marca":"Swift",
+                "tipo":"Hamburguesas"
+            },
+            {
+                "id": "HyC5",
+                "nombre": "Medallones de carne La Blanca X 2",
+                "img": "/img/imagenesKiosko/imgKioskoHyC/medallonesCarneLaBlanca.jpeg",
+                "medida": "2 un",
+                "precio": "1000",
+                "marca":"La Blanca",
+                "tipo":"Medallones"
+            },
+            {
+                "id": "HyC6",
+                "nombre": "Medallones de carne Swift X 2",
+                "img": "/img/imagenesKiosko/imgKioskoHyC/medallonesCarneSwift2.jpeg",
+                "medida": "2 un",
+                "precio": "1000",
+                "marca":"Swift",
+                "tipo":"Medallones"
+            },
+            {
+                "id": "HyC7",
+                "nombre": "Medallones de carne Swift X 4",
+                "img": "/img/imagenesKiosko/imgKioskoHyC/medallonesCarneSwift4.jpeg",
+                "medida": "4 un",
+                "precio": "1000",
+                "marca":"Swift",
+                "tipo":"Medallones"
+            },
+            {
+                "id": "HyC8",
+                "nombre": "Medallones veggies de Quinoa X 2",
+                "img": "/img/imagenesKiosko/imgKioskoHyC/medallonesQuinoa.jpeg",
+                "medida": "2 un",
+                "precio": "1000",
+                "marca":"Nutree",
+                "tipo":"Medallones"
+            }
         ],
+
+
+
+
+
 
         "Higiene y Salud":[
              {
-                "id": "higiene1",
-                "nombre": "Jabon Blanco",
+                "id": "hys1",
+                "nombre": "Colgate Máxima Protección Anti Caries 70g",
+                "img":"/img/imagenesKiosko/imgKioskoHyS/colgate70.jpeg",
+                "medida": "70gr",
+                "precio": "2700",
+                "marca":"Colgate",
+                "tipo":"Pasta Dental"
+            },
+            {
+                "id": "hys2",
+                "nombre": "Odol Doble Acción 70g",
+                "img":"/img/imagenesKiosko/imgKioskoHyS/odolDobleAccion70.jpeg",
+                "medida": "70gr",
+                "precio": "2400",
+                "marca":"Odol",
+                "tipo":"Pasta Dental"
+            },
+            {
+                "id": "hys3",
+                "nombre": "Jabon Rexona Bamboo 125g",
+                "img":"/img/imagenesKiosko/imgKioskoHyS/rexonaBamboo125.jpeg",
+                "medida": "125gr",
+                "precio": "1100",
+                "marca":"Rexona",
+                "tipo":"Jabon"
+            },
+            {
+                "id": "hys4",
+                "nombre": "Jabon Rexona Sensible 120g",
+                "img":"/img/imagenesKiosko/imgKioskoHyS/RexonaSensible120.jpeg",
+                "medida": "120gr",
+                "precio": "1100",
+                "marca":"Rexona",
+                "tipo":"Jabon"
+            },
+            {
+                "id": "hys5",
+                "nombre": "Jabon Rexona Cotton Fresh 120g",
+                "img":"/img/imagenesKiosko/imgKioskoHyS/rexonaCottonFresh120.jpeg",
+                "medida": "120gr",
+                "precio": "1100",
+                "marca":"Rexona",
+                "tipo":"Jabon"
+            },
+            {
+                "id": "hys6",
+                "nombre": "Rexona Efficient 200g",
+                "img":"/img/imagenesKiosko/imgKioskoHyS/rexonaEfficient200.jpeg",
                 "medida": "200gr",
-                "precio": "1200"
+                "precio": "4650",
+                "marca":"Rexona",
+                "tipo":"Talco"
             },
             {
-                "id": "higiene2",
-                "nombre": "Shampoo Plusbelle",
-                "medida": "700cc",
-                "precio": "1500"
+                "id": "hys7",
+                "nombre": "Rexona Efficient 100g",
+                "img":"/img/imagenesKiosko/imgKioskoHyS/rexonaEfficient100.jpeg",
+                "medida": "100gr",
+                "precio": "2400",
+                "marca":"Rexona",
+                "tipo":"Talco"
             },
             {
-                "id": "higiene3",
-                "nombre": "Pañuelos Elite",
-                "medida": "6",
-                "precio": "1100"
-            }              
+                "id": "hys8",
+                "nombre": "Rexona Futbol Fanatics 150cc",
+                "img":"/img/imagenesKiosko/imgKioskoHyS/rexonaFutbolFanatics150.jpeg",
+                "medida": "150cc",
+                "precio": "2800",
+                "marca":"Rexona",
+                "tipo":"Desodorante"
+            },
+            {
+                "id": "hys9",
+                "nombre": "Rexona Nutritive 150cc",
+                "img":"/img/imagenesKiosko/imgKioskoHyS/rexonaNutritive150.jpeg",
+                "medida": "150cc",
+                "precio": "2800",
+                "marca":"Rexona",
+                "tipo":"Desodorante"
+            },
+            {
+                "id": "hys10",
+                "nombre": "Rexona Sensitive 150cc",
+                "img":"/img/imagenesKiosko/imgKioskoHyS/rexonaSensitive150.jpeg",
+                "medida": "150cc",
+                "precio": "2800",
+                "marca":"Rexona",
+                "tipo":"Desodorante"
+            },
+            {
+                "id": "hys11",
+                "nombre": "Sedal Shampoo Ceramidas 190cc",
+                "img":"/img/imagenesKiosko/imgKioskoHyS/sedalShampooCeramidas190.jpeg",
+                "medida": "290cc",
+                "precio": "2400",
+                "marca":"Sedal",
+                "tipo":"Shampoo"
+            },
+            {
+                "id": "hys12",
+                "nombre": "Sedal Shampoo Crema Balance 190cc",
+                "img":"/img/imagenesKiosko/imgKioskoHyS/sedalShampooCremaBalance190.jpeg",
+                "medida": "190cc",
+                "precio": "2400",
+                "marca":"Sedal",
+                "tipo":"Shampoo"
+            },
+            {
+                "id": "hys13",
+                "nombre": "Sedal Shampoo Rizo Perfecto 190cc",
+                "img":"/img/imagenesKiosko/imgKioskoHyS/sedalShampooRizoPerfecto190.jpeg",
+                "medida": "190cc",
+                "precio": "2400",
+                "marca":"Sedal",
+                "tipo":"Shampoo"
+            },
+            {
+                "id": "hys14",
+                "nombre": "Plusbelle Acondicionador Balance 1L",
+                "img":"/img/imagenesKiosko/imgKioskoHyS/plusbelleAcondicionadorBalance1.jpeg",
+                "medida": "1L",
+                "precio": "3000",
+                "marca":"Plusbelle",
+                "tipo":"Acondicionador"
+            },
+            {
+                "id": "hys15",
+                "nombre": "Doncella Protectores Diarios x 20un",
+                "img":"/img/imagenesKiosko/imgKioskoHyS/DoncellaProtectoresDiariosx20.jpeg",
+                "medida": "20 un",
+                "precio": "1200",
+                "marca":"Doncella",
+                "tipo":"Toallitas"
+            },
+            {
+                "id": "hys16",
+                "nombre": "Doncella Normal Toallitas x 8un",
+                "img":"/img/imagenesKiosko/imgKioskoHyS/DoncellaToallitasx8.jpeg",
+                "medida": "8 un",
+                "precio": "900",
+                "marca":"Doncella",
+                "tipo":"Toallitas"
+            },
+            {
+                "id": "hys17",
+                "nombre": "Buddy Papel Higienico Hoja Simple x 4un",
+                "img":"/img/imagenesKiosko/imgKioskoHyS/buddyHojaSimplex4.jpeg",
+                "medida": "4 un",
+                "precio": "1500",
+                "marca":"Buddy",
+                "tipo":"Papel Higienico"
+            },
+            {
+                "id": "hys18",
+                "nombre": "Higienol Hoja Simple x 4un",
+                "img":"/img/imagenesKiosko/imgKioskoHyS/higienolHojaSimplex4.jpeg",
+                "medida": "4 un",
+                "precio": "2000",
+                "marca":"Higienol",
+                "tipo":"Papel Higienico"
+            },
+            {
+                "id": "hys1",
+                "nombre": "Sussex Clasico Rollo de Cocina x 3un",
+                "img":"/img/imagenesKiosko/imgKioskoHyS/sussexClasicox3.jpeg",
+                "medida": "3un",
+                "precio": "1900",
+                "marca":"Sussex",
+                "tipo":"Rollo de Cocina"
+            }                 
         ],
 
-        "Lacteos, Quesos y Frescos":[
-             {
-                "id": "lacteo1",
-                "nombre": "Leche Serenisima",
-                "medida": "1L",
-                "precio": "1280"
-            },
-            {
-                "id": "lacteo2",
-                "nombre": "Leche Tregar",
-                "medida": "1L",
-                "precio": "1500"
-            },
-            {
-                "id": "lacteo3",
-                "nombre": "Yogurt Frutilla Tregar",
-                "medida": "900cc",
-                "precio": "1600"
-            } 
-        ],
+
+
+
+
 
         "Limpieza": [
             {
@@ -4527,15 +5206,16 @@
                 "nombre": "Detergente Esencial Rosa Mosqueta",
                 "img": "/img/imagenesKiosko/imgKioskoLimpieza/detergenteEsencialRosaMosqueta750-min.png",
                 "medida": "750cc",
-                "precio": "1300",
+                "precio": "1500",
                 "marca": "Esencial",
                 "tipo": "Detergente"
-            },{
+            },
+            {
                 "id": "limpieza2",
                 "nombre": "Detergente Esencial Limón",
                 "img": "/img/imagenesKiosko/imgKioskoLimpieza/detergenteEsencialLimon750-min.png",
                 "medida": "750cc",
-                "precio": "1300",
+                "precio": "1500",
                 "marca": "Esencial",
                 "tipo": "Detergente"
             },{
@@ -4546,7 +5226,8 @@
                 "precio": "1300",
                 "marca": "Magistral",
                 "tipo": "Detergente"
-            },{
+            },
+            {
                 "id": "limpieza4",
                 "nombre": "Lavavajillas Ala Cremoso",
                 "img": "/img/imagenesKiosko/imgKioskoLimpieza/lavavajillasAlaCremoso750-min.png",
@@ -4554,7 +5235,8 @@
                 "precio": "1300",
                 "marca": "Ala",
                 "tipo": "Lavavajillas"
-            },{
+            },
+            {
                 "id": "limpieza5",
                 "nombre": "Desodorante para piso Dulzura de Bebe",
                 "img": "/img/imagenesKiosko/imgKioskoLimpieza/esencialDulzuraDeBebe900-min.png",
@@ -4562,7 +5244,8 @@
                 "precio": "1300",
                 "marca": "Esencial",
                 "tipo": "Desodorante Para Piso"
-            },{
+            },
+            {
                 "id": "limpieza6",
                 "nombre": "Desodorante para piso Lavanda Natural",
                 "img": "/img/imagenesKiosko/imgKioskoLimpieza/esencialLavandaNatural900-min.png",
@@ -4570,7 +5253,8 @@
                 "precio": "1300",
                 "marca": "Esencial",
                 "tipo": "Desodorante Para Piso"
-            },{
+            },
+            {
                 "id": "limpieza7",
                 "nombre": "Desodorante para piso Frescura De Mar",
                 "img": "/img/imagenesKiosko/imgKioskoLimpieza/esencialFrescuraDeMar900-min.png",
@@ -4578,7 +5262,8 @@
                 "precio": "1300",
                 "marca": "Esencial",
                 "tipo": "Desodorante Para Piso"
-            },{
+            },
+            {
                 "id": "limpieza8",
                 "nombre": "Desodorante para piso Intensidad Limón",
                 "img": "/img/imagenesKiosko/imgKioskoLimpieza/esencialIntensidadLimon900-min.png",
@@ -4586,71 +5271,80 @@
                 "precio": "1300",
                 "marca": "Esencial",
                 "tipo": "Desodorante Para Piso"
-            },{
+            },
+            {
                 "id": "limpieza9",
                 "nombre": "Lavandina Bagort",
                 "img": "/img/imagenesKiosko/imgKioskoLimpieza/lavandinaBagort1-min.png",
                 "medida": "1L",
-                "precio": "1300",
+                "precio": "900",
                 "marca": "Bagort",
                 "tipo": "Lavandina"
-            },{
+            },
+            {
                 "id": "limpieza10",
                 "nombre": "Alcohol Étilico",
                 "img": "/img/imagenesKiosko/imgKioskoLimpieza/alcoholEtilico500-min.png",
                 "medida": "500cc",
-                "precio": "1300",
+                "precio": "1750",
                 "marca": "",
                 "tipo": "Alcohol Étilico"
-            },{
+            },
+            {
                 "id": "limpieza11",
                 "nombre": "Desod. de Ambiente Manzana y Canela",
                 "img": "/img/imagenesKiosko/imgKioskoLimpieza/desodoranteAmbienteManzanayCanela300-min.png",
                 "medida": "300cc",
-                "precio": "1300",
+                "precio": "2200",
                 "marca": "Esencial",
                 "tipo": "Desodorante de Ambiente"
-            },{
+            },
+            {
                 "id": "limpieza12",
                 "nombre": "Desod. de Ambiente Rosas",
                 "img": "/img/imagenesKiosko/imgKioskoLimpieza/desodoranteAmbienteRosas300-min.png",
                 "medida": "300cc",
-                "precio": "1300",
+                "precio": "2200",
                 "marca": "Esencial",
                 "tipo": "Desodorante de Ambiente"
-            },{
+            },
+            {
                 "id": "limpieza13",
                 "nombre": "Inseticida para Moscas y Mosquitos Selton",
                 "img": "/img/imagenesKiosko/imgKioskoLimpieza/selton360-min.png",
                 "medida": "360cc",
-                "precio": "1300",
+                "precio": "4200",
                 "marca": "Selton",
                 "tipo": "Insecticida"
-            },{
+            },
+            {
                 "id": "limpieza14",
-                "nombre": "Inseticida para Moscas, Mosquitos y Zancudos",
+                "nombre": "Inseticida Raid para Moscas, Mosquitos y Zancudos",
                 "img": "/img/imagenesKiosko/imgKioskoLimpieza/raid380-min.png",
                 "medida": "380cc",
-                "precio": "1300",
+                "precio": "6800",
                 "marca": "Raid",
                 "tipo": "Insecticida"
-            },{
+            },
+            {
                 "id": "limpieza15",
-                "nombre": "Esponja Esencial",
+                "nombre": "Esponja Lavavajillas Esencial",
                 "img": "/img/imagenesKiosko/imgKioskoLimpieza/esencialEsponja-min.png",
                 "medida": "1u",
-                "precio": "1300",
+                "precio": "1000",
                 "marca": "Esencial",
                 "tipo": "Esponja"
-            },{
+            },
+            {
                 "id": "limpieza16",
                 "nombre": "Esponja Acero Inoxidable",
                 "img": "/img/imagenesKiosko/imgKioskoLimpieza/esponjaAceroInoxidable-min.png",
                 "medida": "1u",
-                "precio": "1300",
+                "precio": "600",
                 "marca": "",
                 "tipo": "Esponja"
-            },{
+            },
+            {
                 "id": "limpieza17",
                 "nombre": "Virulana Rollito",
                 "img": "/img/imagenesKiosko/imgKioskoLimpieza/virulanaRollito-min.png",
@@ -4658,15 +5352,17 @@
                 "precio": "1300",
                 "marca": "",
                 "tipo": "Virulana"
-            },{
+            },
+            {
                 "id": "limpieza18",
                 "nombre": "Guantes Patito",
                 "img": "/img/imagenesKiosko/imgKioskoLimpieza/guantesPatito1par-min.png",
                 "medida": "1par",
-                "precio": "1300",
+                "precio": "3700",
                 "marca": "Patito",
                 "tipo": "Guantes"
-            },{
+            },
+            {
                 "id": "limpieza19",
                 "nombre": "Paño Absorbente Media Naranja",
                 "img": "/img/imagenesKiosko/imgKioskoLimpieza/pañoAbsorbente-min.png",
@@ -4674,15 +5370,17 @@
                 "precio": "1300",
                 "marca": "Media Naranja",
                 "tipo": "Paño Absorbente"
-            },{
+            },
+            {
                 "id": "limpieza20",
-                "nombre": "Jabon Blanco",
+                "nombre": "Jabon Blanco 200g",
                 "img": "/img/imagenesKiosko/imgKioskoLimpieza/jabonBlanco-min.png",
                 "medida": "1u",
-                "precio": "1300",
+                "precio": "900",
                 "marca": "Argentino",
                 "tipo": "Jabon Blanco"
-            },{
+            },
+            {
                 "id": "limpieza21",
                 "nombre": "Polvo para Ropa Ala Con Bicarbonato",
                 "img": "/img/imagenesKiosko/imgKioskoLimpieza/polvoRopaAlaConBicarbonato400-min.png",
@@ -4708,7 +5406,7 @@
                 "tipo": "Polvo para Ropa"
             },{
                 "id": "limpieza24",
-                "nombre": "P. p. Ropa Ala Eco L. Remueve Manchas",
+                "nombre": "Polvo p. Ropa Ala Eco L. Remueve Manchas",
                 "img": "/img/imagenesKiosko/imgKioskoLimpieza/polvoRopaAlaConBicarbonato400-min.png",
                 "medida": "400g",
                 "precio": "1300",
@@ -4749,25 +5447,93 @@
             }
         ],
 
+
+
+
+
+
         "Panaderia":[
              {
-                "id": "panaderia1",
-                "nombre": "Pan Tira",
-                "medida": "1",
-                "precio": "650"
+                "id": "pan1",
+                "nombre": "Tira de Pan",
+                "img": "/img/imagenesKiosko/imgKioskoPanaderia/tiraDePan.jpg",
+                "medida": "1 un",
+                "precio": "650",
+                "marca": "",
+                "tipo": "Pan"
             },
             {
-                "id": "panaderia2",
+                "id": "pan2",
                 "nombre": "Pan Criollo",
-                "medida": "250gr",
-                "precio": "825"
+                "img": "/img/imagenesKiosko/imgKioskoPanaderia/panCriollo.jpg",
+                "medida": "100g",
+                "precio": "650",
+                "marca": "",
+                "tipo": "Pan"
             },
             {
-                "id": "panaderia3",
-                "nombre": "Pan Bollo Negro",
-                "medida": "1",
-                "precio": "120"
-            } 
+                "id": "pan3",
+                "nombre": "Bollo de Pan Negro",
+                "img": "/img/imagenesKiosko/imgKioskoPanaderia/BolloDePanNegro.jpg",
+                "medida": "1 un",
+                "precio": "650",
+                "marca": "",
+                "tipo": "Pan"
+            },  
+            {
+                "id": "pan4",
+                "nombre": "Facturas",
+                "img": "/img/imagenesKiosko/imgKioskoPanaderia/facturas.png",
+                "medida": "1 un",
+                "precio": "650",
+                "marca": "",
+                "tipo": "Facturas"
+            },  
+            {
+                "id": "pan5",
+                "nombre": "Pan Rallado",
+                "img": "/img/imagenesKiosko/imgKioskoPanaderia/panRallado.jpg",
+                "medida": "100 g",
+                "precio": "650",
+                "marca": "",
+                "tipo": "Pan"
+            },
+            {
+                "id": "pan6",
+                "nombre": "Prepizza Con Salsa",
+                "img": "/img/imagenesKiosko/imgKioskoPanaderia/prepizzaConSalsa.jpg",
+                "medida": "1 un",
+                "precio": "650",
+                "marca": "",
+                "tipo": "Prepizza"
+            },
+            {
+                "id": "pan7",
+                "nombre": "Prepizza Sin Salsa",
+                "img": "/img/imagenesKiosko/imgKioskoPanaderia/prepizzaSinSalsa.jpg",
+                "medida": "1 un",
+                "precio": "650",
+                "marca": "",
+                "tipo": "Prepizza"
+            },
+            {
+                "id": "pan8",
+                "nombre": "Alfajores de Maicena Chicos",
+                "img": "/img/imagenesKiosko/imgKioskoPanaderia/alfajorDeMaicena.jpg",
+                "medida": "1 un",
+                "precio": "650",
+                "marca": "",
+                "tipo": "Alfajores"
+            },
+            {
+                "id": "pan9",
+                "nombre": "Alfajores de Maicena Grandes",
+                "img": "/img/imagenesKiosko/imgKioskoPanaderia/alfajorDeMaicena.jpg",
+                "medida": "1 un",
+                "precio": "650",
+                "marca": "",
+                "tipo": "Alfajores"
+            }
         ],
 
 
@@ -4776,18 +5542,62 @@
 
         "Galletas y Snacks":[
             {
-                "id": "galletas1",
-                "nombre": "Formis Chocolate",
+                "id": "formis1",
+                "nombre": "Formis Chocolate 102g",
                 "img": "/img/imagenesKiosko/imgKioskoGalletas/formisChocolate102-min.png",
+                "medida": "102g",
+                "precio": "1100",
+                "marca": "Arcor",
+                "tipo": "Galletas"
+            },{
+                "id": "formis2",
+                "nombre": "Formis Chocolate 72g",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/formisChocolate72.jpeg",
+                "medida": "72g",
+                "precio": "1100",
+                "marca": "Arcor",
+                "tipo": "Galletas"
+            },
+            {
+                "id": "formis3",
+                "nombre": "Formis Frutilla 102g",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/formisFrutilla102-min.png",
                 "medida": "102g",
                 "precio": "1100",
                 "marca": "Arcor",
                 "tipo": "Galletas"
             },
             {
-                "id": "galletas2",
-                "nombre": "Formis Frutilla",
-                "img": "/img/imagenesKiosko/imgKioskoGalletas/formisFrutilla102-min.png",
+                "id": "formis4",
+                "nombre": "Formis Frutilla 72g",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/formisFrutilla72.png",
+                "medida": "72g",
+                "precio": "1100",
+                "marca": "Arcor",
+                "tipo": "Galletas"
+            },
+            {
+                "id": "formis5",
+                "nombre": "Formis Dulce de Leche 102g",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/formisDulceDeLeche102.jpeg",
+                "medida": "102g",
+                "precio": "1100",
+                "marca": "Arcor",
+                "tipo": "Galletas"
+            },
+            {
+                "id": "formis6",
+                "nombre": "Formis Dulce de Leche 72g",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/formisDulceDeLeche72.jpeg",
+                "medida": "72g",
+                "precio": "1100",
+                "marca": "Arcor",
+                "tipo": "Galletas"
+            },
+            {
+                "id": "formis7",
+                "nombre": "Formis Black 102g",
+                "img": "/img/imagenesKiosko/imgKioskoGalletas/formisBlack102.jpeg",
                 "medida": "102g",
                 "precio": "1100",
                 "marca": "Arcor",

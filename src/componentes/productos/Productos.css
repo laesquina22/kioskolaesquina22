@@ -219,49 +219,67 @@
   justify-content: center;
 }
 
-.div-p-producto{
+.div-p-producto {
     margin-top: 0px;
     width: 100%;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: space-between; /* Espacios entre elementos */
+    align-items: start; /* Centrar horizontalmente */
     margin-left: 0px;
     margin-bottom: 5px;
-    height: 200px;
-    max-height: 220px;
+    height: 220px; /* Altura uniforme para todos los contenedores */
+    box-sizing: border-box; /* Asegura que padding y borde no cambien el tamaño */
 }
 
-.p-precio{
+.p-precio {
     font-weight: 600;
     font-size: 18px;
-    margin: 3px 0px -5px 0px;
+    margin: 3px 0px;
     color: #293255;
-    height: 10px;
+    height: 20px; /* Asegura altura uniforme */
 }
-.p-nombre{
+
+.p-nombre {
     font-weight: 500;
     font-style: italic;
     margin: 3px 0px;
     color: #293255;
-    min-height: 45px;
-    max-height: 80px;
+    height: 70px; /* Altura uniforme para nombres */
+    overflow: hidden; /* Esconde texto que exceda el espacio */
+    text-overflow: ellipsis; /* Añade puntos suspensivos si el texto es demasiado largo */
+    display: -webkit-box;
+    -webkit-line-clamp: 5; /* Limita a 2 líneas */
+    -webkit-box-orient: vertical;
 }
-.p-medida{
+
+.div-añadir-al-carrito {
+    height: 80px; /* Uniforme para todos los botones */
+    width: 100%; /* Para alineación consistente */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: start;
+}
+
+.p-medida {
     font-weight: 600;
     margin: 3px 0px 10px 0px;
     color: #293255;
-    height: 20px;
+    height: 20px; /* Altura consistente */
 }
 
-.btn-añadir{
+.btn-añadir {
     background-color: #f15a24;
     color: white;
     font-weight: 500;
     border: none;
     border-radius: 5px;
-    width: 100%;
+    width: 90%; /* Ajustable según diseño */
     padding: 4px;
     transition: .4s all;
+    cursor: pointer;
+    text-align: center;
 }
 
 .btn-añadir:hover{
@@ -461,9 +479,26 @@
     width: 80px;
 }
 
-
-.img-cervezalata1, .img-cervezalata2, .img-cervezalata3, .img-cervezalata4, .img-cervezalata5, .img-cervezalata6, .img-cervezalata7, .img-cervezalata8, .img-cervezalata9, .img-cervezalata10, .img-cervezalata11, .img-cervezalata12, .img-cervezalaton1, .img-cervezalaton2, .img-cervezalaton3, .img-cervezalaton4,.img-fernet1, .img-fernet2, .img-gin1, .img-callia1, .img-cafayate1, .img-vermouth1, .img-vermouth2, .img-colonselectorosado1, .img-cordero1, .img-cervezabotella1, .img-dondavid1, .img-donvalentin1, .img-eugenio1, .img-cervezaretor4, .img-licor1, .img-espumante1, .img-profugo1, .img-santajulia1, .img-vodka1, .img-vodka2, .img-vodka3, .img-vodka4, .img-vodka5, .img-vodka6, .img-vodka7, .img-vodka8, .img-vodka9, .img-vodka10, .img-toro1, .img-toro2, .img-toro3, .img-toro4, .img-trumpeter1, .img-balvo1, .img-fernet3, .img-cervezaretor1, .img-cervezaretor2, .img-cervezaretor3,.img-cervezaretor5, .img-cervezaretor6, .img-cervezaretor7, .img-cervezaretor7, .img-cervezaretor9, .img-cervezaretor10, .img-cervezabotella2, .img-cervezabotella3, .img-cervezabotella4, .img-cervezabotella5{
+.img-cervezalata1, .img-cervezalata2, .img-cervezalata3, .img-cervezalata4, .img-cervezalata5, .img-cervezalata6, .img-cervezalata7, .img-cervezalata8, .img-cervezalata9, .img-cervezalata10, .img-cervezalata11, .img-cervezalata12, .img-cervezalata13, .img-cervezalaton1, .img-cervezalaton2, .img-cervezalaton3, .img-cervezalaton4,.img-fernet1, .img-fernet2, .img-gin1, .img-callia1, .img-cafayate1, .img-vermouth1, .img-vermouth2, .img-colonselectorosado1, .img-cordero1, .img-cervezabotella1, .img-dondavid1, .img-donvalentin1, .img-eugenio1, .img-cervezaretor4, .img-licor1, .img-espumante1, .img-profugo1, .img-santajulia1, .img-vodka1, .img-vodka2, .img-vodka3, .img-vodka4, .img-vodka5, .img-vodka6, .img-vodka7, .img-vodka8, .img-vodka9, .img-vodka10, .img-toro1, .img-toro2, .img-toro3, .img-toro4, .img-trumpeter1, .img-balvo1, .img-fernet3, .img-cervezaretor1, .img-cervezaretor2, .img-cervezaretor3,.img-cervezaretor5, .img-cervezaretor6, .img-cervezaretor7, .img-cervezaretor7, .img-cervezaretor9, .img-cervezaretor10, .img-cervezabotella2, .img-cervezabotella3, .img-cervezabotella4, .img-cervezabotella5, .img-frezze, .img-doctolemon{
    width: 50px;
    height: 130px;
 }
 
+.img-cervezalata13 {
+    width: 50px;
+    height: 110px;
+}
+
+.img-HyC1, .img-HyC2, .img-HyC3, .img-HyC4, .img-HyC5, .img-HyC6, .img-HyC7, .img-HyC8{
+    width: 80px;
+}
+
+@media screen and (min-width: 500px) {
+    .img-hys1, .img-hys2, .img-hys6, .img-hys7, .img-hys8, .img-hys9, .img-hys10, .img-hys11, .img-hys12, .img-hys13, .img-hys14 {
+    width: 56px;
+}
+
+.img-formis2, .img-formis4, .img-formis5, .img-formis6, .img-formis7{
+    width: 50px;
+}
+}

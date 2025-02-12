@@ -199,17 +199,18 @@ const ProductoItem = React.memo(({ producto, añadirAlCarrito }) => {
         </div>
       </div>
       <div className='div-p-producto'>
-        <p className='p-precio'>$ {producto.precio}</p>
-        <p className='p-nombre'>{producto.nombre}</p>
-        <div>
-          <p className='p-medida'>{producto.medida}</p>
-          <button 
-            className='btn-añadir' 
-            onClick={() => añadirAlCarrito(producto, cantidad, 'producto')}>
-            Añadir al Carrito
-          </button>
-        </div>
-      </div>
+  <p className='p-precio'>$ {producto.precio}</p>
+  <p className='p-nombre'>{producto.nombre}</p>
+  <div className='div-añadir-al-carrito'>
+    <p className='p-medida'>{producto.medida}</p>
+    <button 
+      className='btn-añadir' 
+      onClick={() => añadirAlCarrito(producto, cantidad, 'producto')}>
+      Añadir al Carrito
+    </button>
+  </div>
+</div>
+
     </div>
   );
 });
